@@ -1,0 +1,235 @@
+[
+  {
+    "dataset": "15142030",
+    "parameters": {
+      "pageNo": 1,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON"
+    },
+    "collected_at": "2026-10-21T08:01:52.408453+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 118
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 1,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30110"
+    },
+    "collected_at": "2026-10-21T08:01:52.791448+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 1893
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 2,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30110"
+    },
+    "collected_at": "2026-10-21T08:01:54.534489+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 1893
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 1,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30140"
+    },
+    "collected_at": "2026-10-21T08:01:55.463792+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 1474
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 2,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30140"
+    },
+    "collected_at": "2026-10-21T08:01:56.896860+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 1474
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 1,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30170"
+    },
+    "collected_at": "2026-10-21T08:01:57.787196+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 2135
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 2,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30170"
+    },
+    "collected_at": "2026-10-21T08:01:59.021678+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 2135
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 3,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30170"
+    },
+    "collected_at": "2026-10-21T08:02:00.261844+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 2135
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 1,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30200"
+    },
+    "collected_at": "2026-10-21T08:02:02.012197+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 2586
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 2,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30200"
+    },
+    "collected_at": "2026-10-21T08:02:03.708156+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 2586
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 3,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30200"
+    },
+    "collected_at": "2026-10-21T08:02:05.012856+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 2586
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 1,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30230"
+    },
+    "collected_at": "2026-10-21T08:02:05.933570+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 1337
+  },
+  {
+    "dataset": "15142031",
+    "parameters": {
+      "pageNo": 2,
+      "numOfRows": 1000,
+      "opr_ymd": "20260901",
+      "ctpv_cd": "30",
+      "dataType": "JSON",
+      "sgg_cd": "30230"
+    },
+    "collected_at": "2026-10-21T08:02:07.150437+09:00",
+    "http_status": 200,
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "totalCount": 1337
+  }
+]

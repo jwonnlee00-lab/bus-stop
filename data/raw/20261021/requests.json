@@ -1,0 +1,16 @@
+[
+  {
+    "dataset": "15142030",
+    "parameters": {
+      "pageNo": 1,
+      "numOfRows": 1000,
+      "opr_ymd": "20261021",
+      "ctpv_cd": "30",
+      "dataType": "JSON"
+    },
+    "collected_at": "2026-10-21T08:00:58.484176+09:00",
+    "http_status": 200,
+    "header": {},
+    "totalCount": null
+  }
+]
