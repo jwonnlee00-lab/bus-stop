@@ -1,0 +1,846 @@
+{
+  "overview_alignment": "rough navigation only; manual official detail / map road review required",
+  "anchors": [
+    [
+      201,
+      127.40505975554134,
+      36.32034725722693
+    ],
+    [
+      218,
+      127.381497,
+      36.357463
+    ],
+    [
+      225,
+      127.3416486,
+      36.353704
+    ]
+  ],
+  "pixel_to_local_navigation_matrix": [
+    [
+      10.082428244635006,
+      0.1598679402599546
+    ],
+    [
+      0.10426228829433429,
+      -14.98686443734656
+    ],
+    [
+      -8373.202733494105,
+      9101.798714621214
+    ]
+  ],
+  "candidates": [
+    {
+      "latitude": 36.32034725722693,
+      "longitude": 127.40505975554134,
+      "way": 1471622248,
+      "way_version": 1,
+      "segment": 1,
+      "fraction": 0.31264111613972917,
+      "overview_to_map_displacement_m": 5.938347494342994e-10,
+      "station_no": 201,
+      "overview_pixel": [
+        1045,
+        838
+      ],
+      "navigation_seed_lon_lat": [
+        127.40505975554134,
+        36.32034725722693
+      ]
+    },
+    {
+      "latitude": 36.32191535371357,
+      "longitude": 127.4106018037737,
+      "way": 1471622252,
+      "way_version": 1,
+      "segment": 1,
+      "fraction": 0.7671138676535368,
+      "overview_to_map_displacement_m": 14.361822730398051,
+      "station_no": 202,
+      "overview_pixel": [
+        1094,
+        826
+      ],
+      "navigation_seed_lon_lat": [
+        127.41054817550315,
+        36.322037287780425
+      ]
+    },
+    {
+      "latitude": 36.319675346650406,
+      "longitude": 127.41592042933955,
+      "way": 1471622258,
+      "way_version": 1,
+      "segment": 10,
+      "fraction": 0.8757543483589862,
+      "overview_to_map_displacement_m": 108.3176442533508,
+      "station_no": 203,
+      "overview_pixel": [
+        1134,
+        849
+      ],
+      "navigation_seed_lon_lat": [
+        127.41506478963342,
+        36.31898730870729
+      ]
+    },
+    {
+      "latitude": 36.31771272017887,
+      "longitude": 127.42732286685482,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 0,
+      "fraction": 0.2933521138374245,
+      "overview_to_map_displacement_m": 25.808303738638745,
+      "station_no": 204,
+      "overview_pixel": [
+        1242,
+        858
+      ],
+      "navigation_seed_lon_lat": [
+        127.42720056839933,
+        36.31792319173538
+      ]
+    },
+    {
+      "latitude": 36.3232422331751,
+      "longitude": 127.43701129385488,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 17,
+      "fraction": 0.5521873520398343,
+      "overview_to_map_displacement_m": 148.50426824092557,
+      "station_no": 205,
+      "overview_pixel": [
+        1316,
+        823
+      ],
+      "navigation_seed_lon_lat": [
+        127.43547177835826,
+        36.32275333101939
+      ]
+    },
+    {
+      "latitude": 36.330793379884334,
+      "longitude": 127.43281826597617,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 25,
+      "fraction": 0.946984652084847,
+      "overview_to_map_displacement_m": 108.78689569753988,
+      "station_no": 206,
+      "overview_pixel": [
+        1283,
+        766
+      ],
+      "navigation_seed_lon_lat": [
+        127.43170531475623,
+        36.330405857698445
+      ]
+    },
+    {
+      "latitude": 36.33261604256367,
+      "longitude": 127.43670753368507,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 33,
+      "fraction": 0.9502110908307132,
+      "overview_to_map_displacement_m": 17.796860831569234,
+      "station_no": 207,
+      "overview_pixel": [
+        1327,
+        749
+      ],
+      "navigation_seed_lon_lat": [
+        127.43662821155151,
+        36.332763023358154
+      ]
+    },
+    {
+      "latitude": 36.33102556214343,
+      "longitude": 127.44403197374567,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 59,
+      "fraction": 0.6803677010470561,
+      "overview_to_map_displacement_m": 212.6524948629695,
+      "station_no": 208,
+      "overview_pixel": [
+        1374,
+        756
+      ],
+      "navigation_seed_lon_lat": [
+        127.4419136162551,
+        36.33188270038977
+      ]
+    },
+    {
+      "latitude": 36.338802709726046,
+      "longitude": 127.44861321741165,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 69,
+      "fraction": 0.6443217981700964,
+      "overview_to_map_displacement_m": 251.26881781411012,
+      "station_no": 209,
+      "overview_pixel": [
+        1411,
+        699
+      ],
+      "navigation_seed_lon_lat": [
+        127.44600891654561,
+        36.339632183297155
+      ]
+    },
+    {
+      "latitude": 36.34738965674893,
+      "longitude": 127.44446602248814,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 90,
+      "fraction": 0.4645364310776933,
+      "overview_to_map_displacement_m": 121.78152347010126,
+      "station_no": 210,
+      "overview_pixel": [
+        1387,
+        645
+      ],
+      "navigation_seed_lon_lat": [
+        127.44325670265813,
+        36.34689227765898
+      ]
+    },
+    {
+      "latitude": 36.35441349990883,
+      "longitude": 127.43807459243307,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 100,
+      "fraction": 0.22061550587012863,
+      "overview_to_map_displacement_m": 47.26395171921864,
+      "station_no": 211,
+      "overview_pixel": [
+        1338,
+        591
+      ],
+      "navigation_seed_lon_lat": [
+        127.43769575277324,
+        36.354117671303484
+      ]
+    },
+    {
+      "latitude": 36.359092224978625,
+      "longitude": 127.43157562103244,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 108,
+      "fraction": 0.6330932370850709,
+      "overview_to_map_displacement_m": 50.799713783877756,
+      "station_no": 212,
+      "overview_pixel": [
+        1284,
+        557
+      ],
+      "navigation_seed_lon_lat": [
+        127.4315935304206,
+        36.35863465758129
+      ]
+    },
+    {
+      "latitude": 36.35890288846961,
+      "longitude": 127.42510828521353,
+      "way": 1471622253,
+      "way_version": 2,
+      "segment": 116,
+      "fraction": 0.04485217288129386,
+      "overview_to_map_displacement_m": 126.16834129149079,
+      "station_no": 213,
+      "overview_pixel": [
+        1226,
+        546
+      ],
+      "navigation_seed_lon_lat": [
+        127.42506616477596,
+        36.360039381167276
+      ]
+    },
+    {
+      "latitude": 36.358759918035446,
+      "longitude": 127.41891999049112,
+      "way": 1471622253,
+      "way_version": 2,
+      "segment": 120,
+      "fraction": 0.023782429217636458,
+      "overview_to_map_displacement_m": 118.47093868837405,
+      "station_no": 214,
+      "overview_pixel": [
+        1171,
+        547
+      ],
+      "navigation_seed_lon_lat": [
+        127.41888871611764,
+        36.35982725417369
+      ]
+    },
+    {
+      "latitude": 36.3570909423133,
+      "longitude": 127.40613456597832,
+      "way": 1471622253,
+      "way_version": 2,
+      "segment": 134,
+      "fraction": 0.39456039906129997,
+      "overview_to_map_displacement_m": 142.27983036342343,
+      "station_no": 215,
+      "overview_pixel": [
+        1053,
+        557
+      ],
+      "navigation_seed_lon_lat": [
+        127.40564417041469,
+        36.358310242252706
+      ]
+    },
+    {
+      "latitude": 36.35767356539007,
+      "longitude": 127.39523998825005,
+      "way": 1471622253,
+      "way_version": 2,
+      "segment": 146,
+      "fraction": 0.5210237612636764,
+      "overview_to_map_displacement_m": 56.11191607683591,
+      "station_no": 216,
+      "overview_pixel": [
+        960,
+        557
+      ],
+      "navigation_seed_lon_lat": [
+        127.39519708660134,
+        36.358178042567914
+      ]
+    },
+    {
+      "latitude": 36.35768283617385,
+      "longitude": 127.38778005594162,
+      "way": 1471622312,
+      "way_version": 1,
+      "segment": 1,
+      "fraction": 0.4836571899745423,
+      "overview_to_map_displacement_m": 44.479527666416764,
+      "station_no": 217,
+      "overview_pixel": [
+        894,
+        557
+      ],
+      "navigation_seed_lon_lat": [
+        127.38778304861522,
+        36.35808366937849
+      ]
+    },
+    {
+      "latitude": 36.357463,
+      "longitude": 127.381497,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 145,
+      "fraction": 0.9301108878357145,
+      "overview_to_map_displacement_m": 2.8820220245949972,
+      "station_no": 218,
+      "overview_pixel": [
+        838,
+        561
+      ],
+      "navigation_seed_lon_lat": [
+        127.38149700000001,
+        36.35746300000001
+      ]
+    },
+    {
+      "latitude": 36.363233366372015,
+      "longitude": 127.37947052104562,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 153,
+      "fraction": 0.5079723912065977,
+      "overview_to_map_displacement_m": 64.57902132885549,
+      "station_no": 219,
+      "overview_pixel": [
+        814,
+        518
+      ],
+      "navigation_seed_lon_lat": [
+        127.37875097188294,
+        36.36323594324428
+      ]
+    },
+    {
+      "latitude": 36.37026146613303,
+      "longitude": 127.37950442447425,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 158,
+      "fraction": 0.6756953175748842,
+      "overview_to_map_displacement_m": 42.800005357377316,
+      "station_no": 220,
+      "overview_pixel": [
+        817,
+        466
+      ],
+      "navigation_seed_lon_lat": [
+        127.37902749824077,
+        36.37026330432275
+      ]
+    },
+    {
+      "latitude": 36.37453778644197,
+      "longitude": 127.37856270661226,
+      "way": 1471622312,
+      "way_version": 1,
+      "segment": 30,
+      "fraction": 0.32333805645624697,
+      "overview_to_map_displacement_m": 161.51561231442537,
+      "station_no": 221,
+      "overview_pixel": [
+        805,
+        425
+      ],
+      "navigation_seed_lon_lat": [
+        127.37763148261303,
+        36.375783384756986
+      ]
+    },
+    {
+      "latitude": 36.36605085239626,
+      "longitude": 127.36519764409617,
+      "way": 1471622312,
+      "way_version": 1,
+      "segment": 53,
+      "fraction": 0.6395062288533396,
+      "overview_to_map_displacement_m": 50.07499280050906,
+      "station_no": 222,
+      "overview_pixel": [
+        691,
+        493
+      ],
+      "navigation_seed_lon_lat": [
+        127.36490336396984,
+        36.366434251557195
+      ]
+    },
+    {
+      "latitude": 36.36065241349212,
+      "longitude": 127.35400521182667,
+      "way": 1471622312,
+      "way_version": 1,
+      "segment": 71,
+      "fraction": 0.3089962353703541,
+      "overview_to_map_displacement_m": 44.023429831776554,
+      "station_no": 223,
+      "overview_pixel": [
+        592,
+        532
+      ],
+      "navigation_seed_lon_lat": [
+        127.35382826714324,
+        36.361022430366425
+      ]
+    },
+    {
+      "latitude": 36.36191067268325,
+      "longitude": 127.34461477557619,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 230,
+      "fraction": 0.8791400924282692,
+      "overview_to_map_displacement_m": 20.678008068292904,
+      "station_no": 224,
+      "overview_pixel": [
+        512,
+        525
+      ],
+      "navigation_seed_lon_lat": [
+        127.34483273422636,
+        36.36185027565736
+      ]
+    },
+    {
+      "latitude": 36.35372467606592,
+      "longitude": 127.3415629828829,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 238,
+      "fraction": 0.36666808209843704,
+      "overview_to_map_displacement_m": 8.020111472909445,
+      "station_no": 225,
+      "overview_pixel": [
+        483,
+        585
+      ],
+      "navigation_seed_lon_lat": [
+        127.34164860000001,
+        36.353704
+      ]
+    },
+    {
+      "latitude": 36.34626496268669,
+      "longitude": 127.34029760665567,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 250,
+      "fraction": 0.022185412958277976,
+      "overview_to_map_displacement_m": 56.760740095677164,
+      "station_no": 226,
+      "overview_pixel": [
+        476,
+        640
+      ],
+      "navigation_seed_lon_lat": [
+        127.3409299120167,
+        36.346265449572996
+      ]
+    },
+    {
+      "latitude": 36.341344583215665,
+      "longitude": 127.33829168522644,
+      "way": 1471622261,
+      "way_version": 2,
+      "segment": 263,
+      "fraction": 0.19318834955534808,
+      "overview_to_map_displacement_m": 47.60443037311062,
+      "station_no": 227,
+      "overview_pixel": [
+        456,
+        678
+      ],
+      "navigation_seed_lon_lat": [
+        127.33873043827039,
+        36.34110365722124
+      ]
+    },
+    {
+      "latitude": 36.334884650050576,
+      "longitude": 127.33332520528538,
+      "way": 1471622315,
+      "way_version": 1,
+      "segment": 6,
+      "fraction": 0.07210675807047735,
+      "overview_to_map_displacement_m": 60.82048335239495,
+      "station_no": 228,
+      "overview_pixel": [
+        413,
+        725
+      ],
+      "navigation_seed_lon_lat": [
+        127.33395949949443,
+        36.33469218857613
+      ]
+    },
+    {
+      "latitude": 36.32929508825903,
+      "longitude": 127.33285366652086,
+      "way": 1471622315,
+      "way_version": 1,
+      "segment": 14,
+      "fraction": 0.19928740652280622,
+      "overview_to_map_displacement_m": 113.82887220798753,
+      "station_no": 229,
+      "overview_pixel": [
+        414,
+        765
+      ],
+      "navigation_seed_lon_lat": [
+        127.33412141848754,
+        36.329291324124114
+      ]
+    },
+    {
+      "latitude": 36.31907661372674,
+      "longitude": 127.33313249819771,
+      "way": 1471622325,
+      "way_version": 2,
+      "segment": 2,
+      "fraction": 0.3380608990033656,
+      "overview_to_map_displacement_m": 80.57630726546996,
+      "station_no": 230,
+      "overview_pixel": [
+        412,
+        839
+      ],
+      "navigation_seed_lon_lat": [
+        127.33398864220668,
+        36.31929399899714
+      ]
+    },
+    {
+      "latitude": 36.314019024198345,
+      "longitude": 127.33502476231529,
+      "way": 1471622325,
+      "way_version": 2,
+      "segment": 12,
+      "fraction": 0.36993682043141424,
+      "overview_to_map_displacement_m": 62.61901578070273,
+      "station_no": 231,
+      "overview_pixel": [
+        427,
+        878
+      ],
+      "navigation_seed_lon_lat": [
+        127.33572106028384,
+        36.314048942433914
+      ]
+    },
+    {
+      "latitude": 36.306360176186956,
+      "longitude": 127.33486960383883,
+      "way": 1471622325,
+      "way_version": 2,
+      "segment": 21,
+      "fraction": 0.21507885558293754,
+      "overview_to_map_displacement_m": 133.2184270870837,
+      "station_no": 232,
+      "overview_pixel": [
+        432,
+        935
+      ],
+      "navigation_seed_lon_lat": [
+        127.33635287687228,
+        36.30635797677674
+      ]
+    },
+    {
+      "latitude": 36.3012648,
+      "longitude": 127.3365719,
+      "way": 1471622338,
+      "way_version": 1,
+      "segment": 27,
+      "fraction": 1.0,
+      "overview_to_map_displacement_m": 216.4318786501149,
+      "station_no": 233,
+      "overview_pixel": [
+        437,
+        987
+      ],
+      "navigation_seed_lon_lat": [
+        127.33697839404337,
+        36.299342295271764
+      ]
+    },
+    {
+      "latitude": 36.30308727587792,
+      "longitude": 127.34358990450572,
+      "way": 1471622338,
+      "way_version": 1,
+      "segment": 34,
+      "fraction": 0.6440049766160422,
+      "overview_to_map_displacement_m": 221.32110048146382,
+      "station_no": 234,
+      "overview_pixel": [
+        503,
+        974
+      ],
+      "navigation_seed_lon_lat": [
+        127.34437091711368,
+        36.30119559435183
+      ]
+    },
+    {
+      "latitude": 36.30508098023564,
+      "longitude": 127.35313773091531,
+      "way": 1471622338,
+      "way_version": 1,
+      "segment": 42,
+      "fraction": 0.928711095700892,
+      "overview_to_map_displacement_m": 232.6575855186316,
+      "station_no": 235,
+      "overview_pixel": [
+        588,
+        961
+      ],
+      "navigation_seed_lon_lat": [
+        127.3538966190221,
+        36.303076294015376
+      ]
+    },
+    {
+      "latitude": 36.30761719308961,
+      "longitude": 127.3643964265949,
+      "way": 1471622344,
+      "way_version": 1,
+      "segment": 7,
+      "fraction": 0.33366348562444975,
+      "overview_to_map_displacement_m": 156.13301566527906,
+      "station_no": 236,
+      "overview_pixel": [
+        688,
+        938
+      ],
+      "navigation_seed_lon_lat": [
+        127.36509476929066,
+        36.30632866232531
+      ]
+    },
+    {
+      "latitude": 36.31012220140414,
+      "longitude": 127.3725742918872,
+      "way": 1471622344,
+      "way_version": 1,
+      "segment": 20,
+      "fraction": 0.36392108055172073,
+      "overview_to_map_displacement_m": 156.98387015047183,
+      "station_no": 237,
+      "overview_pixel": [
+        762,
+        920
+      ],
+      "navigation_seed_lon_lat": [
+        127.37338085047632,
+        36.30886709644904
+      ]
+    },
+    {
+      "latitude": 36.313415368038434,
+      "longitude": 127.38085284163415,
+      "way": 1383029340,
+      "way_version": 6,
+      "segment": 7,
+      "fraction": 0.08286045672579541,
+      "overview_to_map_displacement_m": 84.75987065852385,
+      "station_no": 238,
+      "overview_pixel": [
+        833,
+        892
+      ],
+      "navigation_seed_lon_lat": [
+        127.38131908227827,
+        36.312751233334346
+      ]
+    },
+    {
+      "latitude": 36.31629474953318,
+      "longitude": 127.38930377883668,
+      "way": 1383029340,
+      "way_version": 6,
+      "segment": 13,
+      "fraction": 0.5697910916232333,
+      "overview_to_map_displacement_m": 54.48148753648717,
+      "station_no": 239,
+      "overview_pixel": [
+        906,
+        870
+      ],
+      "navigation_seed_lon_lat": [
+        127.38948951833558,
+        36.31582734623781
+      ]
+    },
+    {
+      "latitude": 36.31794131366062,
+      "longitude": 127.39564993332182,
+      "way": 1383029340,
+      "way_version": 6,
+      "segment": 17,
+      "fraction": 0.08605835050274495,
+      "overview_to_map_displacement_m": 32.46919170243898,
+      "station_no": 240,
+      "overview_pixel": [
+        962,
+        857
+      ],
+      "navigation_seed_lon_lat": [
+        127.39576208097992,
+        36.31766313684743
+      ]
+    },
+    {
+      "latitude": 36.368689744660784,
+      "longitude": 127.42954675319048,
+      "way": 1471622277,
+      "way_version": 1,
+      "segment": 7,
+      "fraction": 0.5895063203031391,
+      "overview_to_map_displacement_m": 190.9575804378875,
+      "station_no": 241,
+      "overview_pixel": [
+        1248,
+        485
+      ],
+      "navigation_seed_lon_lat": [
+        127.42747172680876,
+        36.36830871101165
+      ]
+    },
+    {
+      "latitude": 36.37555317702062,
+      "longitude": 127.42759507833169,
+      "way": 1471622277,
+      "way_version": 1,
+      "segment": 14,
+      "fraction": 0.6114694406830684,
+      "overview_to_map_displacement_m": 119.81415396664816,
+      "station_no": 242,
+      "overview_pixel": [
+        1238,
+        433
+      ],
+      "navigation_seed_lon_lat": [
+        127.42629198194462,
+        36.37531779762831
+      ]
+    },
+    {
+      "latitude": 36.381304928031426,
+      "longitude": 127.42619097697938,
+      "way": 1471622277,
+      "way_version": 1,
+      "segment": 19,
+      "fraction": 0.8174539364670522,
+      "overview_to_map_displacement_m": 138.04734969542136,
+      "station_no": 243,
+      "overview_pixel": [
+        1224,
+        390
+      ],
+      "navigation_seed_lon_lat": [
+        127.4246723116659,
+        36.38110574426701
+      ]
+    },
+    {
+      "latitude": 36.390885499999996,
+      "longitude": 127.42078910000001,
+      "way": 1471622277,
+      "way_version": 1,
+      "segment": 36,
+      "fraction": 1.0,
+      "overview_to_map_displacement_m": 463.57207748180525,
+      "station_no": 244,
+      "overview_pixel": [
+        1168,
+        290
+      ],
+      "navigation_seed_lon_lat": [
+        127.41827015414825,
+        36.39453307901404
+      ]
+    },
+    {
+      "latitude": 36.29894519999999,
+      "longitude": 127.3238051,
+      "way": 1463871033,
+      "way_version": 4,
+      "segment": 0,
+      "fraction": 0.0,
+      "overview_to_map_displacement_m": 282.6644609444103,
+      "station_no": 245,
+      "overview_pixel": [
+        338,
+        1003
+      ],
+      "navigation_seed_lon_lat": [
+        127.32588587635584,
+        36.297034196037394
+      ]
+    }
+  ]
+}

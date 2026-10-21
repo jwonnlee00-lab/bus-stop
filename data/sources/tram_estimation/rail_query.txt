@@ -1,0 +1,1 @@
+[out:json][timeout:40];(nwr[railway~"construction|proposed|tram_stop|station|halt"](36.26,127.29,36.41,127.48);way[construction=tram](36.26,127.29,36.41,127.48);way[proposed=tram](36.26,127.29,36.41,127.48);relation[route=tram](36.26,127.29,36.41,127.48););out meta geom;

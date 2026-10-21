@@ -1,0 +1,1441 @@
+{
+  "request_manifest": "data/sources/bus_cleaning/route_research_requests.json",
+  "routes": [
+    {
+      "rte_id": "29010027",
+      "input_rte_no": "300산성동-충남대",
+      "input_rte_nm": "300산성동-충남대",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44000",
+            "rte_id": "29010027",
+            "rte_no": "300산성동-충남대",
+            "rte_nm": "산성동.시내버스-충남대학교",
+            "dptre_sttn_id": "2901734",
+            "dptre_sttn_nm": "산성동.시내버스정류장",
+            "arvl_sttn_id": "2903857",
+            "arvl_sttn_nm": "충남대학교"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_3.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "29010029",
+      "input_rte_no": "302산성동-충남대",
+      "input_rte_nm": "302산성동-충남대",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44000",
+            "rte_id": "29010029",
+            "rte_no": "302산성동-충남대",
+            "rte_nm": "산성동.시내버스-충남대학교",
+            "dptre_sttn_id": "2901734",
+            "dptre_sttn_nm": "산성동.시내버스정류장",
+            "arvl_sttn_id": "2903857",
+            "arvl_sttn_nm": "충남대학교"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_3.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "29010036",
+      "input_rte_no": "340신원사-충남대",
+      "input_rte_nm": "340신원사-충남대",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44000",
+            "rte_id": "29010036",
+            "rte_no": "340신원사-충남대",
+            "rte_nm": "신원사-충남대학교",
+            "dptre_sttn_id": "2902433",
+            "dptre_sttn_nm": "신원사",
+            "arvl_sttn_id": "2903857",
+            "arvl_sttn_nm": "충남대학교"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_3.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "29010038",
+      "input_rte_no": "342충남대-갑사",
+      "input_rte_nm": "342충남대-갑사",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44000",
+            "rte_id": "29010038",
+            "rte_no": "342충남대-갑사",
+            "rte_nm": "충남대학교-갑사",
+            "dptre_sttn_id": "2903858",
+            "dptre_sttn_nm": "충남대학교",
+            "arvl_sttn_id": "2900178",
+            "arvl_sttn_nm": "갑사"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_2.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "29010151",
+      "input_rte_no": "300충남대-산성동",
+      "input_rte_nm": "300충남대-산성동",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44000",
+            "rte_id": "29010151",
+            "rte_no": "300충남대-산성동",
+            "rte_nm": "충남대학교-산성동.시내버스",
+            "dptre_sttn_id": "2903858",
+            "dptre_sttn_nm": "충남대학교",
+            "arvl_sttn_id": "2901733",
+            "arvl_sttn_nm": "산성동.시내버스정류장"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_3.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "29010163",
+      "input_rte_no": "340충남대-신원사",
+      "input_rte_nm": "340충남대-신원사",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44000",
+            "rte_id": "29010163",
+            "rte_no": "340충남대-신원사",
+            "rte_nm": "충남대학교-신원사",
+            "dptre_sttn_id": "2903858",
+            "dptre_sttn_nm": "충남대학교",
+            "arvl_sttn_id": "2902432",
+            "arvl_sttn_nm": "신원사"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_2.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "29022140",
+      "input_rte_no": "81",
+      "input_rte_nm": "81",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "unverified_hold",
+      "official_matches": [],
+      "note": "대전·세종·충북·충남의 같은 기준일 명부에서 ID를 찾지 못함. 폐선 판정 아님. 번호·이름으로 ID를 대체하지 않음.",
+      "route_id_verified": false,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "unverified_route_id"
+    },
+    {
+      "rte_id": "30300155",
+      "input_rte_no": "",
+      "input_rte_nm": "123번(안산동원내동공영차고지)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "unverified_hold",
+      "official_matches": [],
+      "note": "대전·세종·충북·충남의 같은 기준일 명부에서 ID를 찾지 못함. 폐선 판정 아님. 번호·이름으로 ID를 대체하지 않음.",
+      "route_id_verified": false,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "unverified_route_id",
+      "additional_official_evidence": {
+        "url": "https://www.daejeon.go.kr/drh/board/boardNormalView.do?boardId=normal_0189&menuSeq=1632&ntatcSeq=1485743605&pageIndex=75",
+        "title": "대전시, 6월 27일부터 시내버스 노선 조정·신설 운행",
+        "finding": "123번 신설 운행 발표는 확인되지만 본문에 30300155 ID 연결 근거가 없어 보류 유지."
+      }
+    },
+    {
+      "rte_id": "43015047",
+      "input_rte_no": "407",
+      "input_rte_nm": "407",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "43",
+            "sgg_cd": "43110",
+            "rte_id": "43015047",
+            "rte_no": "407",
+            "rte_nm": "청주국제공항-청주국제공항",
+            "dptre_sttn_id": "4366391",
+            "dptre_sttn_nm": "청주국제공항",
+            "arvl_sttn_id": "4366391",
+            "arvl_sttn_nm": "청주국제공항"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_43_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "43015143",
+      "input_rte_no": "32",
+      "input_rte_nm": "32",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "43",
+            "sgg_cd": "43000",
+            "rte_id": "43015143",
+            "rte_no": "32",
+            "rte_nm": "마동종점-문의(청남대)",
+            "dptre_sttn_id": "4387401",
+            "dptre_sttn_nm": "마동종점",
+            "arvl_sttn_id": "4363001",
+            "arvl_sttn_nm": "문의(청남대)"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_43_2.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "43015144",
+      "input_rte_no": "41",
+      "input_rte_nm": "41",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "43",
+            "sgg_cd": "43000",
+            "rte_id": "43015144",
+            "rte_no": "41",
+            "rte_nm": "달계1리(안터)-문의(청남대)",
+            "dptre_sttn_id": "4382581",
+            "dptre_sttn_nm": "달계1리(안터)",
+            "arvl_sttn_id": "4362871",
+            "arvl_sttn_nm": "문의(청남대)"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_43_2.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "43029001",
+      "input_rte_no": "0A3",
+      "input_rte_nm": "0A3",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "43",
+            "sgg_cd": "43110",
+            "rte_id": "43029001",
+            "rte_no": "0A3",
+            "rte_nm": "오송역-오송역",
+            "dptre_sttn_id": "4301001",
+            "dptre_sttn_nm": "오송역",
+            "arvl_sttn_id": "4301001",
+            "arvl_sttn_nm": "오송역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_43_2.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "43030122",
+      "input_rte_no": "32(17-50)",
+      "input_rte_nm": "32(17-50)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "43",
+            "sgg_cd": "43000",
+            "rte_id": "43030122",
+            "rte_no": "32(17-50)",
+            "rte_nm": "문의(청남대)-문의(청남대)",
+            "dptre_sttn_id": "4363001",
+            "dptre_sttn_nm": "문의(청남대)",
+            "arvl_sttn_id": "4362871",
+            "arvl_sttn_nm": "문의(청남대)"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_43_2.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "43030123",
+      "input_rte_no": "32(20-35)",
+      "input_rte_nm": "32(20-35)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "43",
+            "sgg_cd": "43000",
+            "rte_id": "43030123",
+            "rte_no": "32(20-35)",
+            "rte_nm": "문의(청남대)-문의(청남대)",
+            "dptre_sttn_id": "4363001",
+            "dptre_sttn_nm": "문의(청남대)",
+            "arvl_sttn_id": "4362871",
+            "arvl_sttn_nm": "문의(청남대)"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_43_2.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "48607122",
+      "input_rte_no": "(우)수원-거창",
+      "input_rte_nm": "수원-거창",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "unverified_hold",
+      "official_matches": [],
+      "note": "대전·세종·충북·충남의 같은 기준일 명부에서 ID를 찾지 못함. 폐선 판정 아님. 번호·이름으로 ID를 대체하지 않음.",
+      "route_id_verified": false,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "unverified_route_id"
+    },
+    {
+      "rte_id": "60600032",
+      "input_rte_no": "655",
+      "input_rte_nm": "655번(충남대학교세종고속시외버스터미널)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600032",
+            "rte_no": "655",
+            "rte_nm": "655번(충남대학교세종고속시외버스터미널)",
+            "dptre_sttn_id": "6801359",
+            "dptre_sttn_nm": "충남대학교",
+            "arvl_sttn_id": "6802397",
+            "arvl_sttn_nm": "세종고속시외버스터미널"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600089",
+      "input_rte_no": "B2",
+      "input_rte_nm": "B2번(대전월드컵경기장오송역종점)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600089",
+            "rte_no": "B2",
+            "rte_nm": "B2번(대전월드컵경기장오송역종점)",
+            "dptre_sttn_id": "6806953",
+            "dptre_sttn_nm": "대전월드컵경기장",
+            "arvl_sttn_id": "6806700",
+            "arvl_sttn_nm": "오송역종점"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600126",
+      "input_rte_no": "B2-1",
+      "input_rte_nm": "B2-1번(오송역2.3.4대전월드컵경기장)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600126",
+            "rte_no": "B2-1",
+            "rte_nm": "B2-1번(오송역2.3.4대전월드컵경기장)",
+            "dptre_sttn_id": "6806262",
+            "dptre_sttn_nm": "오송역2.3.4",
+            "arvl_sttn_id": "6806954",
+            "arvl_sttn_nm": "대전월드컵경기장"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600133",
+      "input_rte_no": "655-1",
+      "input_rte_nm": "655-1번(세종고속시외버스터미널충남대학교)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600133",
+            "rte_no": "655-1",
+            "rte_nm": "655-1번(세종고속시외버스터미널충남대학교)",
+            "dptre_sttn_id": "6802397",
+            "dptre_sttn_nm": "세종고속시외버스터미널",
+            "arvl_sttn_id": "6801359",
+            "arvl_sttn_nm": "충남대학교"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600196",
+      "input_rte_no": "1000-1",
+      "input_rte_nm": "1000-1번(조형아파트반석역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600196",
+            "rte_no": "1000-1",
+            "rte_nm": "1000-1번(조형아파트반석역)",
+            "dptre_sttn_id": "6800375",
+            "dptre_sttn_nm": "조형아파트",
+            "arvl_sttn_id": "6800944",
+            "arvl_sttn_nm": "반석역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600197",
+      "input_rte_no": "1000",
+      "input_rte_nm": "1000번(반석역조형아파트)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600197",
+            "rte_no": "1000",
+            "rte_nm": "1000번(반석역조형아파트)",
+            "dptre_sttn_id": "6800945",
+            "dptre_sttn_nm": "반석역",
+            "arvl_sttn_id": "6800345",
+            "arvl_sttn_nm": "조형아파트"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600206",
+      "input_rte_no": "1004",
+      "input_rte_nm": "1004번(반석역장기중학교후문)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600206",
+            "rte_no": "1004",
+            "rte_nm": "1004번(반석역장기중학교후문)",
+            "dptre_sttn_id": "6800945",
+            "dptre_sttn_nm": "반석역",
+            "arvl_sttn_id": "6806253",
+            "arvl_sttn_nm": "장기중학교후문"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600207",
+      "input_rte_no": "1004-1",
+      "input_rte_nm": "1004-1번(장기중학교후문반석역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600207",
+            "rte_no": "1004-1",
+            "rte_nm": "1004-1번(장기중학교후문반석역)",
+            "dptre_sttn_id": "6806254",
+            "dptre_sttn_nm": "장기중학교후문",
+            "arvl_sttn_id": "6800944",
+            "arvl_sttn_nm": "반석역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600270",
+      "input_rte_no": "661",
+      "input_rte_nm": "661번(세종고속시외버스터미널송강마을아파트)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600270",
+            "rte_no": "661",
+            "rte_nm": "661번(세종고속시외버스터미널송강마을아파트)",
+            "dptre_sttn_id": "6801289",
+            "dptre_sttn_nm": "세종고속시외버스터미널",
+            "arvl_sttn_id": "6801418",
+            "arvl_sttn_nm": "송강마을아파트"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600271",
+      "input_rte_no": "661-1",
+      "input_rte_nm": "661-1번(송강마을아파트세종고속시외버스터미널)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600271",
+            "rte_no": "661-1",
+            "rte_nm": "661-1번(송강마을아파트세종고속시외버스터미널)",
+            "dptre_sttn_id": "6801418",
+            "dptre_sttn_nm": "송강마을아파트",
+            "arvl_sttn_id": "6801288",
+            "arvl_sttn_nm": "세종고속시외버스터미널"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600274",
+      "input_rte_no": "69",
+      "input_rte_nm": "69번(세종고속시외버스터미널신동2통)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600274",
+            "rte_no": "69",
+            "rte_nm": "69번(세종고속시외버스터미널신동2통)",
+            "dptre_sttn_id": "6801289",
+            "dptre_sttn_nm": "세종고속시외버스터미널",
+            "arvl_sttn_id": "6800849",
+            "arvl_sttn_nm": "신동2통"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600275",
+      "input_rte_no": "69-1",
+      "input_rte_nm": "69-1번(신동2통세종고속시외버스터미널)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600275",
+            "rte_no": "69-1",
+            "rte_nm": "69-1번(신동2통세종고속시외버스터미널)",
+            "dptre_sttn_id": "6800861",
+            "dptre_sttn_nm": "신동2통",
+            "arvl_sttn_id": "6801288",
+            "arvl_sttn_nm": "세종고속시외버스터미널"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600276",
+      "input_rte_no": "691",
+      "input_rte_nm": "691번(세종고속시외버스터미널송강마을아파트)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600276",
+            "rte_no": "691",
+            "rte_nm": "691번(세종고속시외버스터미널송강마을아파트)",
+            "dptre_sttn_id": "6801289",
+            "dptre_sttn_nm": "세종고속시외버스터미널",
+            "arvl_sttn_id": "6801418",
+            "arvl_sttn_nm": "송강마을아파트"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600277",
+      "input_rte_no": "691-1",
+      "input_rte_nm": "691-1번(송강마을아파트세종고속시외버스터미널)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600277",
+            "rte_no": "691-1",
+            "rte_nm": "691-1번(송강마을아파트세종고속시외버스터미널)",
+            "dptre_sttn_id": "6801418",
+            "dptre_sttn_nm": "송강마을아파트",
+            "arvl_sttn_id": "6801288",
+            "arvl_sttn_nm": "세종고속시외버스터미널"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600293",
+      "input_rte_no": "300",
+      "input_rte_nm": "300번(조치원역신탄진역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600293",
+            "rte_no": "300",
+            "rte_nm": "300번(조치원역신탄진역)",
+            "dptre_sttn_id": "6800001",
+            "dptre_sttn_nm": "조치원역",
+            "arvl_sttn_id": "6804603",
+            "arvl_sttn_nm": "신탄진역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600294",
+      "input_rte_no": "300-1",
+      "input_rte_nm": "300-1번(신탄진역조치원역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600294",
+            "rte_no": "300-1",
+            "rte_nm": "300-1번(신탄진역조치원역)",
+            "dptre_sttn_id": "6804602",
+            "dptre_sttn_nm": "신탄진역",
+            "arvl_sttn_id": "6801304",
+            "arvl_sttn_nm": "조치원역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600348",
+      "input_rte_no": "1005",
+      "input_rte_nm": "1005번(반석역오송역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600348",
+            "rte_no": "1005",
+            "rte_nm": "1005번(반석역오송역)",
+            "dptre_sttn_id": "6800945",
+            "dptre_sttn_nm": "반석역",
+            "arvl_sttn_id": "6806700",
+            "arvl_sttn_nm": "오송역종점"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600349",
+      "input_rte_no": "1005-1",
+      "input_rte_nm": "1005-1번(오송역7반석역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600349",
+            "rte_no": "1005-1",
+            "rte_nm": "1005-1번(오송역7반석역)",
+            "dptre_sttn_id": "6806784",
+            "dptre_sttn_nm": "오송역7",
+            "arvl_sttn_id": "6800944",
+            "arvl_sttn_nm": "반석역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600397",
+      "input_rte_no": "B4",
+      "input_rte_nm": "B4번(반석역오송역종점)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600397",
+            "rte_no": "B4",
+            "rte_nm": "B4번(반석역오송역종점)",
+            "dptre_sttn_id": "6806950",
+            "dptre_sttn_nm": "반석역",
+            "arvl_sttn_id": "6806700",
+            "arvl_sttn_nm": "오송역종점"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600398",
+      "input_rte_no": "B4-1",
+      "input_rte_nm": "B4-1번(오송역2.3.4반석역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600398",
+            "rte_no": "B4-1",
+            "rte_nm": "B4-1번(오송역2.3.4반석역)",
+            "dptre_sttn_id": "6806262",
+            "dptre_sttn_nm": "오송역2.3.4",
+            "arvl_sttn_id": "6806949",
+            "arvl_sttn_nm": "반석역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600399",
+      "input_rte_no": "A2",
+      "input_rte_nm": "A2번(반석역오송역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600399",
+            "rte_no": "A2",
+            "rte_nm": "A2번(반석역오송역)",
+            "dptre_sttn_id": "6800945",
+            "dptre_sttn_nm": "반석역",
+            "arvl_sttn_id": "6800966",
+            "arvl_sttn_nm": "오송역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600400",
+      "input_rte_no": "A2-1",
+      "input_rte_nm": "A2-1번(오송역반석역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600400",
+            "rte_no": "A2-1",
+            "rte_nm": "A2-1번(오송역반석역)",
+            "dptre_sttn_id": "6800966",
+            "dptre_sttn_nm": "오송역",
+            "arvl_sttn_id": "6800944",
+            "arvl_sttn_nm": "반석역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600413",
+      "input_rte_no": "1001",
+      "input_rte_nm": "1001번(새나루마을10단지시청환승지)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600413",
+            "rte_no": "1001",
+            "rte_nm": "1001번(새나루마을10단지시청환승지)",
+            "dptre_sttn_id": "6806522",
+            "dptre_sttn_nm": "새나루마을10단지",
+            "arvl_sttn_id": "6806523",
+            "arvl_sttn_nm": "새나루마을10단지"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600427",
+      "input_rte_no": "1003",
+      "input_rte_nm": "1003번(반석역오송역파라곤센트럴시티1차)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600427",
+            "rte_no": "1003",
+            "rte_nm": "1003번(반석역오송역파라곤센트럴시티1차)",
+            "dptre_sttn_id": "6800945",
+            "dptre_sttn_nm": "반석역",
+            "arvl_sttn_id": "6807029",
+            "arvl_sttn_nm": "오송역파라곤센트럴시티1차"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600428",
+      "input_rte_no": "1003-1",
+      "input_rte_nm": "1003-1번(오송역파라곤센트럴시티1차반석역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600428",
+            "rte_no": "1003-1",
+            "rte_nm": "1003-1번(오송역파라곤센트럴시티1차반석역)",
+            "dptre_sttn_id": "6807030",
+            "dptre_sttn_nm": "오송역파라곤센트럴시티1차",
+            "arvl_sttn_id": "6800944",
+            "arvl_sttn_nm": "반석역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600433",
+      "input_rte_no": "M1",
+      "input_rte_nm": "M1번(누리동기점지정부청사광장)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600433",
+            "rte_no": "M1",
+            "rte_nm": "M1번(누리동기점지정부청사광장)",
+            "dptre_sttn_id": "6806759",
+            "dptre_sttn_nm": "누리동기점지",
+            "arvl_sttn_id": "6806704",
+            "arvl_sttn_nm": "정부청사광장"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600434",
+      "input_rte_no": "M1-1",
+      "input_rte_nm": "M1-1번(정부청사광장누리동기점지)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600434",
+            "rte_no": "M1-1",
+            "rte_nm": "M1-1번(정부청사광장누리동기점지)",
+            "dptre_sttn_id": "6806704",
+            "dptre_sttn_nm": "정부청사광장",
+            "arvl_sttn_id": "6806760",
+            "arvl_sttn_nm": "누리동기점지"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600442",
+      "input_rte_no": "A4",
+      "input_rte_nm": "A4번(반석역오송역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600442",
+            "rte_no": "A4",
+            "rte_nm": "A4번(반석역오송역)",
+            "dptre_sttn_id": "6800945",
+            "dptre_sttn_nm": "반석역",
+            "arvl_sttn_id": "6800966",
+            "arvl_sttn_nm": "오송역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600443",
+      "input_rte_no": "A4-1",
+      "input_rte_nm": "A4-1번(오송역반석역)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600443",
+            "rte_no": "A4-1",
+            "rte_nm": "A4-1번(오송역반석역)",
+            "dptre_sttn_id": "6800966",
+            "dptre_sttn_nm": "오송역",
+            "arvl_sttn_id": "6800944",
+            "arvl_sttn_nm": "반석역"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600459",
+      "input_rte_no": "B2-3",
+      "input_rte_nm": "B2-3번(반석네거리오송역종점)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600459",
+            "rte_no": "B2-3",
+            "rte_nm": "B2-3번(반석네거리오송역종점)",
+            "dptre_sttn_id": "6806955",
+            "dptre_sttn_nm": "반석네거리",
+            "arvl_sttn_id": "6806700",
+            "arvl_sttn_nm": "오송역종점"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "60600460",
+      "input_rte_no": "B2-4",
+      "input_rte_nm": "B2-4번(오송역2.3.4반석네거리)",
+      "operation_date": "20260901",
+      "routing_eligible": false,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "36",
+            "sgg_cd": "36000",
+            "rte_id": "60600460",
+            "rte_no": "B2-4",
+            "rte_nm": "B2-4번(오송역2.3.4반석네거리)",
+            "dptre_sttn_id": "6806262",
+            "dptre_sttn_nm": "오송역2.3.4",
+            "arvl_sttn_id": "6806956",
+            "arvl_sttn_nm": "반석네거리"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_36_1.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 0,
+      "routing_hold_reason": "no_verified_adjacent_coordinate_pair"
+    },
+    {
+      "rte_id": "69690110",
+      "input_rte_no": "45",
+      "input_rte_nm": "45번(건양대병원도곡2리)",
+      "operation_date": "20260901",
+      "routing_eligible": true,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44250",
+            "rte_id": "69690110",
+            "rte_no": "45",
+            "rte_nm": "45번(건양대병원도곡2리)",
+            "dptre_sttn_id": "8001079",
+            "dptre_sttn_nm": "건양대병원",
+            "arvl_sttn_id": "8001079",
+            "arvl_sttn_nm": "건양대병원"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_5.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 39,
+      "routing_hold_reason": null
+    },
+    {
+      "rte_id": "69690112",
+      "input_rte_no": "48",
+      "input_rte_nm": "48번(충대농대두마면사무소앞)",
+      "operation_date": "20260901",
+      "routing_eligible": true,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44250",
+            "rte_id": "69690112",
+            "rte_no": "48",
+            "rte_nm": "48번(충대농대두마면사무소앞)",
+            "dptre_sttn_id": "8002737",
+            "dptre_sttn_nm": "충대농대종점",
+            "arvl_sttn_id": "8002736",
+            "arvl_sttn_nm": "충대농대종점"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_5.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 31,
+      "routing_hold_reason": null
+    },
+    {
+      "rte_id": "69690116",
+      "input_rte_no": "2002",
+      "input_rte_nm": "2002번(대전역동광장신도안아파트)",
+      "operation_date": "20260901",
+      "routing_eligible": true,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44250",
+            "rte_id": "69690116",
+            "rte_no": "2002",
+            "rte_nm": "2002번(대전역동광장신도안아파트)",
+            "dptre_sttn_id": "8005621",
+            "dptre_sttn_nm": "대전역동광장종점",
+            "arvl_sttn_id": "9007514",
+            "arvl_sttn_nm": "대전역동광장종점"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_5.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 61,
+      "routing_hold_reason": null
+    },
+    {
+      "rte_id": "69690136",
+      "input_rte_no": "47-1",
+      "input_rte_nm": "47-1번(서남부터미널농소리)",
+      "operation_date": "20260901",
+      "routing_eligible": true,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44250",
+            "rte_id": "69690136",
+            "rte_no": "47-1",
+            "rte_nm": "47-1번(서남부터미널농소리)",
+            "dptre_sttn_id": "8001956",
+            "dptre_sttn_nm": "서남부터미널기점",
+            "arvl_sttn_id": "8001956",
+            "arvl_sttn_nm": "서남부터미널기점"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_5.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 58,
+      "routing_hold_reason": null
+    },
+    {
+      "rte_id": "69690138",
+      "input_rte_no": "302",
+      "input_rte_nm": "302번(오월드기점지신도안아파트)",
+      "operation_date": "20260901",
+      "routing_eligible": true,
+      "status": "official_register_exact_id_match",
+      "official_matches": [
+        {
+          "route": {
+            "opr_ymd": "20260901",
+            "ctpv_cd": "44",
+            "sgg_cd": "44250",
+            "rte_id": "69690138",
+            "rte_no": "302",
+            "rte_nm": "302번(오월드기점지신도안아파트)",
+            "dptre_sttn_id": "8007040",
+            "dptre_sttn_nm": "윗사정삼거리",
+            "arvl_sttn_id": "8007157",
+            "arvl_sttn_nm": "오월드기점지"
+          },
+          "source_file": "data/sources/bus_cleaning/routes_20260901_44_5.json"
+        }
+      ],
+      "note": "동일 기준일 공식 노선 명부의 ID 확인. 현재 실시간 차량 운행 확인과는 다름.",
+      "route_id_verified": true,
+      "usable_edge_count": 64,
+      "routing_hold_reason": null
+    }
+  ]
+}

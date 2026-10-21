@@ -1,0 +1,255 @@
+[
+  {
+    "station_no": 211,
+    "official_page": 13,
+    "official_overview_pixel": [
+      1338,
+      591
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": [
+      127.44,
+      36.3529
+    ],
+    "latitude": 36.35287187933104,
+    "longitude": 127.43996413692285,
+    "alignment_way": 1471622253,
+    "alignment_way_version": 2,
+    "segment": 99,
+    "segment_fraction": 0.19295154465807265,
+    "nearest_road": {
+      "latitude": 36.352907191391544,
+      "longitude": 127.44000910999989,
+      "way": 55350355,
+      "way_version": 11,
+      "segment": 3,
+      "fraction": 0.7996077004295876,
+      "distance_m": 5.6258118753666295,
+      "name": "한밭대로"
+    },
+    "review_note": "한밭대로1297번길 접속부 인근의 가양 방향 도로 구간. 완화 기준으로 이전 공란을 도로 구간 대표점으로 보완."
+  },
+  {
+    "station_no": 212,
+    "official_page": 14,
+    "official_overview_pixel": [
+      1284,
+      557
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": [
+      127.4324,
+      36.35845
+    ],
+    "latitude": 36.35880655980701,
+    "longitude": 127.43278661875591,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 103,
+    "segment_fraction": 0.754930525351875,
+    "nearest_road": {
+      "latitude": 36.35878819888603,
+      "longitude": 127.43276739884493,
+      "way": 768049959,
+      "way_version": 8,
+      "segment": 0,
+      "fraction": 0.6935065115223252,
+      "distance_m": 2.669633123738477,
+      "name": "한밭대로"
+    },
+    "review_note": "중리네거리 남동측 한밭대로 직선 구간."
+  },
+  {
+    "station_no": 213,
+    "official_page": 15,
+    "official_overview_pixel": [
+      1226,
+      546
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.35890288846961,
+    "longitude": 127.42510828521353,
+    "alignment_way": 1471622253,
+    "alignment_way_version": 2,
+    "segment": 116,
+    "segment_fraction": 0.04485217288129386,
+    "nearest_road": {
+      "latitude": 36.358851059558475,
+      "longitude": 127.42511105215911,
+      "way": 198743089,
+      "way_version": 14,
+      "segment": 3,
+      "fraction": 0.7942839057144169,
+      "distance_m": 5.7565894185201,
+      "name": "한밭대로"
+    },
+    "review_note": "중리네거리 서측 한밭대로·중리시장 측 구간."
+  },
+  {
+    "station_no": 214,
+    "official_page": 16,
+    "official_overview_pixel": [
+      1171,
+      547
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.358759918035446,
+    "longitude": 127.41891999049112,
+    "alignment_way": 1471622253,
+    "alignment_way_version": 2,
+    "segment": 120,
+    "segment_fraction": 0.023782429217636458,
+    "nearest_road": {
+      "latitude": 36.358815420061376,
+      "longitude": 127.41891749142705,
+      "way": 929117962,
+      "way_version": 6,
+      "segment": 1,
+      "fraction": 0.28642626429818746,
+      "distance_m": 6.162902618767682,
+      "name": "한밭대로"
+    },
+    "review_note": "철도 조차장 동측 한밭대로·한남대 방향 접속 구간."
+  },
+  {
+    "station_no": 215,
+    "official_page": 17,
+    "official_overview_pixel": [
+      1053,
+      557
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.3570909423133,
+    "longitude": 127.40613456597832,
+    "alignment_way": 1471622253,
+    "alignment_way_version": 2,
+    "segment": 134,
+    "segment_fraction": 0.39456039906129997,
+    "nearest_road": {
+      "latitude": 36.35715735464959,
+      "longitude": 127.4061048569242,
+      "way": 929117971,
+      "way_version": 6,
+      "segment": 1,
+      "fraction": 0.9116726872069613,
+      "distance_m": 7.837080040409535,
+      "name": "한밭대로"
+    },
+    "review_note": "오정농수산물시장 남측 한밭대로 구간."
+  },
+  {
+    "station_no": 216,
+    "official_page": 18,
+    "official_overview_pixel": [
+      960,
+      557
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.35767356539007,
+    "longitude": 127.39523998825005,
+    "alignment_way": 1471622253,
+    "alignment_way_version": 2,
+    "segment": 146,
+    "segment_fraction": 0.5210237612636764,
+    "nearest_road": {
+      "latitude": 36.35767348443077,
+      "longitude": 127.39526731233872,
+      "way": 972224172,
+      "way_version": 4,
+      "segment": 0,
+      "fraction": 0.575322187289193,
+      "distance_m": 2.45248423582328,
+      "name": "문정로"
+    },
+    "review_note": "재뜰네거리 인근 한밭대로·수정타운아파트 남측 구간."
+  },
+  {
+    "station_no": 217,
+    "official_page": 19,
+    "official_overview_pixel": [
+      894,
+      557
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.35768283617385,
+    "longitude": 127.38778005594162,
+    "alignment_way": 1471622312,
+    "alignment_way_version": 1,
+    "segment": 1,
+    "segment_fraction": 0.4836571899745423,
+    "nearest_road": {
+      "latitude": 36.357640616995994,
+      "longitude": 127.38777987651956,
+      "way": 967160227,
+      "way_version": 17,
+      "segment": 7,
+      "fraction": 0.263881452272083,
+      "distance_m": 4.684905968715906,
+      "name": "한밭대로"
+    },
+    "review_note": "샘머리네거리 동측 한밭대로·샘머리공원 북측 구간."
+  },
+  {
+    "station_no": 218,
+    "method": "prior pilot coordinate preserved unchanged"
+  },
+  {
+    "station_no": 219,
+    "official_page": 21,
+    "official_overview_pixel": [
+      814,
+      518
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.363233366372015,
+    "longitude": 127.37947052104562,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 153,
+    "segment_fraction": 0.5079723912065977,
+    "nearest_road": {
+      "latitude": 36.363233596206946,
+      "longitude": 127.37944360218691,
+      "way": 924106725,
+      "way_version": 9,
+      "segment": 1,
+      "fraction": 0.8143774094673208,
+      "distance_m": 2.416059230084817,
+      "name": "대덕대로"
+    },
+    "review_note": "정부대전청사 서측 대덕대로·만년삼거리 남측 구간."
+  },
+  {
+    "station_no": 220,
+    "official_page": 22,
+    "official_overview_pixel": [
+      817,
+      466
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.37026146613303,
+    "longitude": 127.37950442447425,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 158,
+    "segment_fraction": 0.6756953175748842,
+    "nearest_road": {
+      "latitude": 36.37026160277589,
+      "longitude": 127.37948945161055,
+      "way": 25518850,
+      "way_version": 60,
+      "segment": 1,
+      "fraction": 0.5159188287573331,
+      "distance_m": 1.3437553466735443,
+      "name": "대덕대로"
+    },
+    "review_note": "초원아파트·서구보건소 측 대덕대로 구간."
+  }
+]

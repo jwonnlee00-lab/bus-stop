@@ -1,0 +1,3465 @@
+{
+  "counts": {
+    "visual_review_required": 64,
+    "ocr_digits_agree": 368
+  },
+  "comparisons": [
+    {
+      "page": 338,
+      "route_no": "급행1",
+      "field": "speed_morning",
+      "expected": "23.2",
+      "ocr": "73.2",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "급행1",
+      "field": "speed_midday",
+      "expected": "22.6",
+      "ocr": "22.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행1",
+      "field": "speed_evening",
+      "expected": "20.9",
+      "ocr": "20.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행1",
+      "field": "speed_average",
+      "expected": "22.2",
+      "ocr": "22.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행2",
+      "field": "speed_morning",
+      "expected": "23.8",
+      "ocr": "238",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행2",
+      "field": "speed_midday",
+      "expected": "24.6",
+      "ocr": "246",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행2",
+      "field": "speed_evening",
+      "expected": "22.4",
+      "ocr": "22.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행2",
+      "field": "speed_average",
+      "expected": "23.6",
+      "ocr": "23.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행3",
+      "field": "speed_morning",
+      "expected": "23.5",
+      "ocr": "235",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행3",
+      "field": "speed_midday",
+      "expected": "23.3",
+      "ocr": "213",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "급행3",
+      "field": "speed_evening",
+      "expected": "21.4",
+      "ocr": "21.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행3",
+      "field": "speed_average",
+      "expected": "22.7",
+      "ocr": "22.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행4",
+      "field": "speed_morning",
+      "expected": "21.8",
+      "ocr": "21.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행4",
+      "field": "speed_midday",
+      "expected": "21.7",
+      "ocr": "21.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행4",
+      "field": "speed_evening",
+      "expected": "19.7",
+      "ocr": "19.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "급행4",
+      "field": "speed_average",
+      "expected": "21.1",
+      "ocr": "21.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "101",
+      "field": "speed_morning",
+      "expected": "22.4",
+      "ocr": "224",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "101",
+      "field": "speed_midday",
+      "expected": "22.5",
+      "ocr": "225",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "101",
+      "field": "speed_evening",
+      "expected": "20.1",
+      "ocr": "20.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "101",
+      "field": "speed_average",
+      "expected": "21.7",
+      "ocr": "21.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "102",
+      "field": "speed_morning",
+      "expected": "21.1",
+      "ocr": "211",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "102",
+      "field": "speed_midday",
+      "expected": "20.4",
+      "ocr": "204",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "102",
+      "field": "speed_evening",
+      "expected": "18.8",
+      "ocr": "18.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "102",
+      "field": "speed_average",
+      "expected": "20.1",
+      "ocr": "20.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "103",
+      "field": "speed_morning",
+      "expected": "19.6",
+      "ocr": "19,6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "103",
+      "field": "speed_midday",
+      "expected": "18.9",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "103",
+      "field": "speed_evening",
+      "expected": "17.2",
+      "ocr": "17.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "103",
+      "field": "speed_average",
+      "expected": "18.5",
+      "ocr": "18.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "104",
+      "field": "speed_morning",
+      "expected": "21.7",
+      "ocr": "217",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "104",
+      "field": "speed_midday",
+      "expected": "20.9",
+      "ocr": "209",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "104",
+      "field": "speed_evening",
+      "expected": "19.4",
+      "ocr": "19.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "104",
+      "field": "speed_average",
+      "expected": "20.7",
+      "ocr": "20.1",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "105",
+      "field": "speed_morning",
+      "expected": "19.4",
+      "ocr": "194",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "105",
+      "field": "speed_midday",
+      "expected": "18.8",
+      "ocr": "188",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "105",
+      "field": "speed_evening",
+      "expected": "17.3",
+      "ocr": "17.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "105",
+      "field": "speed_average",
+      "expected": "18.5",
+      "ocr": "18.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "106",
+      "field": "speed_morning",
+      "expected": "20.0",
+      "ocr": "20.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "106",
+      "field": "speed_midday",
+      "expected": "19.7",
+      "ocr": "19.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "106",
+      "field": "speed_evening",
+      "expected": "18.0",
+      "ocr": "18.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "106",
+      "field": "speed_average",
+      "expected": "19.2",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "107",
+      "field": "speed_morning",
+      "expected": "22.3",
+      "ocr": "223",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "107",
+      "field": "speed_midday",
+      "expected": "21.8",
+      "ocr": "218",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "107",
+      "field": "speed_evening",
+      "expected": "20.7",
+      "ocr": "20.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "107",
+      "field": "speed_average",
+      "expected": "21.6",
+      "ocr": "21.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "108",
+      "field": "speed_morning",
+      "expected": "20.3",
+      "ocr": "203",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "108",
+      "field": "speed_midday",
+      "expected": "20.2",
+      "ocr": "202",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "108",
+      "field": "speed_evening",
+      "expected": "18.8",
+      "ocr": "183",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "108",
+      "field": "speed_average",
+      "expected": "19.8",
+      "ocr": "19.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "113",
+      "field": "speed_morning",
+      "expected": "23.7",
+      "ocr": "23.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "113",
+      "field": "speed_midday",
+      "expected": "22.4",
+      "ocr": "224",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "113",
+      "field": "speed_evening",
+      "expected": "21.0",
+      "ocr": "21.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "113",
+      "field": "speed_average",
+      "expected": "22.4",
+      "ocr": "2기4",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "114",
+      "field": "speed_morning",
+      "expected": "21.5",
+      "ocr": "21,5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "114",
+      "field": "speed_midday",
+      "expected": "20.4",
+      "ocr": "20.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "114",
+      "field": "speed_evening",
+      "expected": "18.7",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "114",
+      "field": "speed_average",
+      "expected": "20.2",
+      "ocr": "20.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "115",
+      "field": "speed_morning",
+      "expected": "21.3",
+      "ocr": "213",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "115",
+      "field": "speed_midday",
+      "expected": "20.6",
+      "ocr": "206",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "115",
+      "field": "speed_evening",
+      "expected": "19.2",
+      "ocr": "19.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "115",
+      "field": "speed_average",
+      "expected": "20.4",
+      "ocr": "20.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "116",
+      "field": "speed_morning",
+      "expected": "21.3",
+      "ocr": "21,3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "116",
+      "field": "speed_midday",
+      "expected": "21.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "116",
+      "field": "speed_evening",
+      "expected": "19.1",
+      "ocr": "19,1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "116",
+      "field": "speed_average",
+      "expected": "20.5",
+      "ocr": "20,5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "117",
+      "field": "speed_morning",
+      "expected": "21.4",
+      "ocr": "21.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "117",
+      "field": "speed_midday",
+      "expected": "20.3",
+      "ocr": "20.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "117",
+      "field": "speed_evening",
+      "expected": "18.7",
+      "ocr": "18.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "117",
+      "field": "speed_average",
+      "expected": "20.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "119",
+      "field": "speed_morning",
+      "expected": "21.4",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "119",
+      "field": "speed_midday",
+      "expected": "20.7",
+      "ocr": "207",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "119",
+      "field": "speed_evening",
+      "expected": "19.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "119",
+      "field": "speed_average",
+      "expected": "20.4",
+      "ocr": "20.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "121",
+      "field": "speed_morning",
+      "expected": "23.1",
+      "ocr": "231",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "121",
+      "field": "speed_midday",
+      "expected": "22.8",
+      "ocr": "228",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "121",
+      "field": "speed_evening",
+      "expected": "20.3",
+      "ocr": "20.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "121",
+      "field": "speed_average",
+      "expected": "22.1",
+      "ocr": "22.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "123",
+      "field": "speed_morning",
+      "expected": "23.2",
+      "ocr": "23.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "123",
+      "field": "speed_midday",
+      "expected": "22.9",
+      "ocr": "22.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "123",
+      "field": "speed_evening",
+      "expected": "21.4",
+      "ocr": "21.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "123",
+      "field": "speed_average",
+      "expected": "22.5",
+      "ocr": "22.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "201",
+      "field": "speed_morning",
+      "expected": "19.2",
+      "ocr": "192",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "201",
+      "field": "speed_midday",
+      "expected": "18.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "201",
+      "field": "speed_evening",
+      "expected": "16.7",
+      "ocr": "16.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "201",
+      "field": "speed_average",
+      "expected": "18.0",
+      "ocr": "18.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "202",
+      "field": "speed_morning",
+      "expected": "25.9",
+      "ocr": "75&",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "202",
+      "field": "speed_midday",
+      "expected": "25.4",
+      "ocr": "254",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "202",
+      "field": "speed_evening",
+      "expected": "24.0",
+      "ocr": "24.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "202",
+      "field": "speed_average",
+      "expected": "25.1",
+      "ocr": "25.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "203",
+      "field": "speed_morning",
+      "expected": "20.0",
+      "ocr": "20.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "203",
+      "field": "speed_midday",
+      "expected": "19.7",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "203",
+      "field": "speed_evening",
+      "expected": "18.2",
+      "ocr": "18.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "203",
+      "field": "speed_average",
+      "expected": "19.3",
+      "ocr": "19.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "211",
+      "field": "speed_morning",
+      "expected": "19.8",
+      "ocr": "198",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "211",
+      "field": "speed_midday",
+      "expected": "19.2",
+      "ocr": "192",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "211",
+      "field": "speed_evening",
+      "expected": "17.9",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "211",
+      "field": "speed_average",
+      "expected": "19.0",
+      "ocr": "19.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "212",
+      "field": "speed_morning",
+      "expected": "21.2",
+      "ocr": "212",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "212",
+      "field": "speed_midday",
+      "expected": "21.0",
+      "ocr": "21",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "212",
+      "field": "speed_evening",
+      "expected": "19.4",
+      "ocr": "19.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "212",
+      "field": "speed_average",
+      "expected": "20.6",
+      "ocr": "20.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "213",
+      "field": "speed_morning",
+      "expected": "20.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "213",
+      "field": "speed_midday",
+      "expected": "20.5",
+      "ocr": "20.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "213",
+      "field": "speed_evening",
+      "expected": "18.9",
+      "ocr": "18.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "213",
+      "field": "speed_average",
+      "expected": "19.8",
+      "ocr": "19.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "216",
+      "field": "speed_morning",
+      "expected": "20.3",
+      "ocr": "20.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "216",
+      "field": "speed_midday",
+      "expected": "19.8",
+      "ocr": "19.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "216",
+      "field": "speed_evening",
+      "expected": "18.4",
+      "ocr": "183",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "216",
+      "field": "speed_average",
+      "expected": "19.5",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "301",
+      "field": "speed_morning",
+      "expected": "21.1",
+      "ocr": "211",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "301",
+      "field": "speed_midday",
+      "expected": "21.3",
+      "ocr": "213",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "301",
+      "field": "speed_evening",
+      "expected": "19.3",
+      "ocr": "19.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "301",
+      "field": "speed_average",
+      "expected": "20.6",
+      "ocr": "20.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "311",
+      "field": "speed_morning",
+      "expected": "20.4",
+      "ocr": "204",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "311",
+      "field": "speed_midday",
+      "expected": "20.2",
+      "ocr": "202",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "311",
+      "field": "speed_evening",
+      "expected": "18.3",
+      "ocr": "18.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "311",
+      "field": "speed_average",
+      "expected": "19.7",
+      "ocr": "19.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "312",
+      "field": "speed_morning",
+      "expected": "19.3",
+      "ocr": "19.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "312",
+      "field": "speed_midday",
+      "expected": "18.8",
+      "ocr": "18.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "312",
+      "field": "speed_evening",
+      "expected": "17.8",
+      "ocr": "17.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "312",
+      "field": "speed_average",
+      "expected": "18.6",
+      "ocr": "18.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "313",
+      "field": "speed_morning",
+      "expected": "21.0",
+      "ocr": "21&",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "313",
+      "field": "speed_midday",
+      "expected": "20.4",
+      "ocr": "204",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "313",
+      "field": "speed_evening",
+      "expected": "18.8",
+      "ocr": "18.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "313",
+      "field": "speed_average",
+      "expected": "20.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "314",
+      "field": "speed_morning",
+      "expected": "20.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "314",
+      "field": "speed_midday",
+      "expected": "19.6",
+      "ocr": "196",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "314",
+      "field": "speed_evening",
+      "expected": "17.9",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "314",
+      "field": "speed_average",
+      "expected": "19.2",
+      "ocr": "19.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "315",
+      "field": "speed_morning",
+      "expected": "20.8",
+      "ocr": "20.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "315",
+      "field": "speed_midday",
+      "expected": "20.6",
+      "ocr": "20.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "315",
+      "field": "speed_evening",
+      "expected": "19.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "315",
+      "field": "speed_average",
+      "expected": "20.1",
+      "ocr": "20.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "316",
+      "field": "speed_morning",
+      "expected": "19.6",
+      "ocr": "196",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "316",
+      "field": "speed_midday",
+      "expected": "19.9",
+      "ocr": "199",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "316",
+      "field": "speed_evening",
+      "expected": "18.5",
+      "ocr": "185",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "316",
+      "field": "speed_average",
+      "expected": "19.3",
+      "ocr": "19.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "317",
+      "field": "speed_morning",
+      "expected": "17.4",
+      "ocr": "174",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "317",
+      "field": "speed_midday",
+      "expected": "16.8",
+      "ocr": "168",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "317",
+      "field": "speed_evening",
+      "expected": "15.3",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "317",
+      "field": "speed_average",
+      "expected": "16.5",
+      "ocr": "16.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "318",
+      "field": "speed_morning",
+      "expected": "21.3",
+      "ocr": "21,3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "318",
+      "field": "speed_midday",
+      "expected": "21.4",
+      "ocr": "21.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "318",
+      "field": "speed_evening",
+      "expected": "19.7",
+      "ocr": "19.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "318",
+      "field": "speed_average",
+      "expected": "20.8",
+      "ocr": "20.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "501",
+      "field": "speed_morning",
+      "expected": "24.5",
+      "ocr": "24,5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "501",
+      "field": "speed_midday",
+      "expected": "23.9",
+      "ocr": "23.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "501",
+      "field": "speed_evening",
+      "expected": "23.1",
+      "ocr": "23.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "501",
+      "field": "speed_average",
+      "expected": "23.8",
+      "ocr": "23.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "511",
+      "field": "speed_morning",
+      "expected": "19.9",
+      "ocr": "199",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "511",
+      "field": "speed_midday",
+      "expected": "19.6",
+      "ocr": "196",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "511",
+      "field": "speed_evening",
+      "expected": "18.5",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "511",
+      "field": "speed_average",
+      "expected": "19.3",
+      "ocr": "19.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "512",
+      "field": "speed_morning",
+      "expected": "20.0",
+      "ocr": "20.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "512",
+      "field": "speed_midday",
+      "expected": "20.1",
+      "ocr": "20.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "512",
+      "field": "speed_evening",
+      "expected": "18.6",
+      "ocr": "18.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "512",
+      "field": "speed_average",
+      "expected": "19.6",
+      "ocr": "19.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "513",
+      "field": "speed_morning",
+      "expected": "21.8",
+      "ocr": "21.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "513",
+      "field": "speed_midday",
+      "expected": "21.8",
+      "ocr": "21.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "513",
+      "field": "speed_evening",
+      "expected": "20.2",
+      "ocr": "20.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "513",
+      "field": "speed_average",
+      "expected": "21.3",
+      "ocr": "21.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "514",
+      "field": "speed_morning",
+      "expected": "19.1",
+      "ocr": "19가",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 338,
+      "route_no": "514",
+      "field": "speed_midday",
+      "expected": "19.0",
+      "ocr": "190",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "514",
+      "field": "speed_evening",
+      "expected": "17.6",
+      "ocr": "17.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 338,
+      "route_no": "514",
+      "field": "speed_average",
+      "expected": "18.6",
+      "ocr": "18.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "601",
+      "field": "speed_morning",
+      "expected": "21.3",
+      "ocr": "213",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "601",
+      "field": "speed_midday",
+      "expected": "21.1",
+      "ocr": "211",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "601",
+      "field": "speed_evening",
+      "expected": "19.8",
+      "ocr": "19.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "601",
+      "field": "speed_average",
+      "expected": "20.8",
+      "ocr": "20.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "602",
+      "field": "speed_morning",
+      "expected": "17.3",
+      "ocr": "173",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "602",
+      "field": "speed_midday",
+      "expected": "16.9",
+      "ocr": "169",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "602",
+      "field": "speed_evening",
+      "expected": "15.3",
+      "ocr": "15.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "602",
+      "field": "speed_average",
+      "expected": "16.5",
+      "ocr": "16.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "603",
+      "field": "speed_morning",
+      "expected": "18.5",
+      "ocr": "18.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "603",
+      "field": "speed_midday",
+      "expected": "17.8",
+      "ocr": "17.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "603",
+      "field": "speed_evening",
+      "expected": "17.0",
+      "ocr": "17.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "603",
+      "field": "speed_average",
+      "expected": "17.8",
+      "ocr": "17.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "604",
+      "field": "speed_morning",
+      "expected": "22.1",
+      "ocr": "221",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "604",
+      "field": "speed_midday",
+      "expected": "21.7",
+      "ocr": "217",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "604",
+      "field": "speed_evening",
+      "expected": "19.8",
+      "ocr": "19.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "604",
+      "field": "speed_average",
+      "expected": "21.2",
+      "ocr": "212",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "605",
+      "field": "speed_morning",
+      "expected": "19.7",
+      "ocr": "197",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "605",
+      "field": "speed_midday",
+      "expected": "19.3",
+      "ocr": "193",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "605",
+      "field": "speed_evening",
+      "expected": "17.8",
+      "ocr": "17.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "605",
+      "field": "speed_average",
+      "expected": "18.9",
+      "ocr": "18.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "606",
+      "field": "speed_morning",
+      "expected": "22.3",
+      "ocr": "223",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "606",
+      "field": "speed_midday",
+      "expected": "22.2",
+      "ocr": "222",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "606",
+      "field": "speed_evening",
+      "expected": "20.4",
+      "ocr": "20.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "606",
+      "field": "speed_average",
+      "expected": "21.6",
+      "ocr": "21.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "607",
+      "field": "speed_morning",
+      "expected": "24.4",
+      "ocr": "24.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "607",
+      "field": "speed_midday",
+      "expected": "23.8",
+      "ocr": "233",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "607",
+      "field": "speed_evening",
+      "expected": "22.5",
+      "ocr": "22.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "607",
+      "field": "speed_average",
+      "expected": "23.6",
+      "ocr": "23.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "608",
+      "field": "speed_morning",
+      "expected": "20.6",
+      "ocr": "206",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "608",
+      "field": "speed_midday",
+      "expected": "19.5",
+      "ocr": "195",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "608",
+      "field": "speed_evening",
+      "expected": "18.5",
+      "ocr": "183",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "608",
+      "field": "speed_average",
+      "expected": "19.5",
+      "ocr": "19.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "611",
+      "field": "speed_morning",
+      "expected": "20.5",
+      "ocr": "205",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "611",
+      "field": "speed_midday",
+      "expected": "20.2",
+      "ocr": "202",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "611",
+      "field": "speed_evening",
+      "expected": "18.9",
+      "ocr": "18.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "611",
+      "field": "speed_average",
+      "expected": "19.9",
+      "ocr": "19.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "612",
+      "field": "speed_morning",
+      "expected": "18.9",
+      "ocr": "189",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "612",
+      "field": "speed_midday",
+      "expected": "18.2",
+      "ocr": "182",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "612",
+      "field": "speed_evening",
+      "expected": "17.2",
+      "ocr": "17.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "612",
+      "field": "speed_average",
+      "expected": "18.1",
+      "ocr": "181",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "613",
+      "field": "speed_morning",
+      "expected": "19.2",
+      "ocr": "192",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "613",
+      "field": "speed_midday",
+      "expected": "18.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "613",
+      "field": "speed_evening",
+      "expected": "16.5",
+      "ocr": "16.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "613",
+      "field": "speed_average",
+      "expected": "18.0",
+      "ocr": "1테0",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "614",
+      "field": "speed_morning",
+      "expected": "18.4",
+      "ocr": "18.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "614",
+      "field": "speed_midday",
+      "expected": "18.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "614",
+      "field": "speed_evening",
+      "expected": "16.9",
+      "ocr": "16.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "614",
+      "field": "speed_average",
+      "expected": "17.8",
+      "ocr": "173",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "615",
+      "field": "speed_morning",
+      "expected": "18.6",
+      "ocr": "18.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "615",
+      "field": "speed_midday",
+      "expected": "18.2",
+      "ocr": "18.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "615",
+      "field": "speed_evening",
+      "expected": "16.4",
+      "ocr": "16.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "615",
+      "field": "speed_average",
+      "expected": "17.7",
+      "ocr": "17.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "616",
+      "field": "speed_morning",
+      "expected": "18.8",
+      "ocr": "188",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "616",
+      "field": "speed_midday",
+      "expected": "19.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "616",
+      "field": "speed_evening",
+      "expected": "17.5",
+      "ocr": "17.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "616",
+      "field": "speed_average",
+      "expected": "18.5",
+      "ocr": "185",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "617",
+      "field": "speed_morning",
+      "expected": "17.4",
+      "ocr": "174",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "617",
+      "field": "speed_midday",
+      "expected": "17.2",
+      "ocr": "172",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "617",
+      "field": "speed_evening",
+      "expected": "16.2",
+      "ocr": "16.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "617",
+      "field": "speed_average",
+      "expected": "16.9",
+      "ocr": "16.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "618",
+      "field": "speed_morning",
+      "expected": "20.7",
+      "ocr": "20.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "618",
+      "field": "speed_midday",
+      "expected": "20.1",
+      "ocr": "20.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "618",
+      "field": "speed_evening",
+      "expected": "18.5",
+      "ocr": "18.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "618",
+      "field": "speed_average",
+      "expected": "19.8",
+      "ocr": "19.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "619",
+      "field": "speed_morning",
+      "expected": "19.4",
+      "ocr": "19.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "619",
+      "field": "speed_midday",
+      "expected": "18.7",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "619",
+      "field": "speed_evening",
+      "expected": "17.6",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "619",
+      "field": "speed_average",
+      "expected": "18.6",
+      "ocr": "18.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "620",
+      "field": "speed_morning",
+      "expected": "20.3",
+      "ocr": "203",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "620",
+      "field": "speed_midday",
+      "expected": "20.2",
+      "ocr": "202",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "620",
+      "field": "speed_evening",
+      "expected": "18.4",
+      "ocr": "18.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "620",
+      "field": "speed_average",
+      "expected": "19.7",
+      "ocr": "19.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "622",
+      "field": "speed_morning",
+      "expected": "16.3",
+      "ocr": "16.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "622",
+      "field": "speed_midday",
+      "expected": "15.2",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "622",
+      "field": "speed_evening",
+      "expected": "13.4",
+      "ocr": "13.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "622",
+      "field": "speed_average",
+      "expected": "15.0",
+      "ocr": "15.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "701",
+      "field": "speed_morning",
+      "expected": "22.9",
+      "ocr": "22,9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "701",
+      "field": "speed_midday",
+      "expected": "24.3",
+      "ocr": "24.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "701",
+      "field": "speed_evening",
+      "expected": "21.5",
+      "ocr": "21.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "701",
+      "field": "speed_average",
+      "expected": "22.9",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "703",
+      "field": "speed_morning",
+      "expected": "20.3",
+      "ocr": "203",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "703",
+      "field": "speed_midday",
+      "expected": "20.5",
+      "ocr": "205",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "703",
+      "field": "speed_evening",
+      "expected": "18.8",
+      "ocr": "18.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "703",
+      "field": "speed_average",
+      "expected": "19.9",
+      "ocr": "19.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "704",
+      "field": "speed_morning",
+      "expected": "22.0",
+      "ocr": "220",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "704",
+      "field": "speed_midday",
+      "expected": "22.7",
+      "ocr": "227",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "704",
+      "field": "speed_evening",
+      "expected": "20.8",
+      "ocr": "20.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "704",
+      "field": "speed_average",
+      "expected": "21.8",
+      "ocr": "212",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "705",
+      "field": "speed_morning",
+      "expected": "22.4",
+      "ocr": "22.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "705",
+      "field": "speed_midday",
+      "expected": "22.9",
+      "ocr": "22.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "705",
+      "field": "speed_evening",
+      "expected": "20.6",
+      "ocr": "20.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "705",
+      "field": "speed_average",
+      "expected": "22.0",
+      "ocr": "22.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "706",
+      "field": "speed_morning",
+      "expected": "19.9",
+      "ocr": "199",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "706",
+      "field": "speed_midday",
+      "expected": "19.9",
+      "ocr": "199",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "706",
+      "field": "speed_evening",
+      "expected": "18.2",
+      "ocr": "18.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "706",
+      "field": "speed_average",
+      "expected": "19.4",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "707",
+      "field": "speed_morning",
+      "expected": "19.2",
+      "ocr": "192",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "707",
+      "field": "speed_midday",
+      "expected": "18.7",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "707",
+      "field": "speed_evening",
+      "expected": "17.2",
+      "ocr": "17.7",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "707",
+      "field": "speed_average",
+      "expected": "18.4",
+      "ocr": "18.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "711",
+      "field": "speed_morning",
+      "expected": "20.1",
+      "ocr": "20.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "711",
+      "field": "speed_midday",
+      "expected": "20.4",
+      "ocr": "20.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "711",
+      "field": "speed_evening",
+      "expected": "18.8",
+      "ocr": "18.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "711",
+      "field": "speed_average",
+      "expected": "19.8",
+      "ocr": "19.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "712",
+      "field": "speed_morning",
+      "expected": "20.5",
+      "ocr": "205",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "712",
+      "field": "speed_midday",
+      "expected": "21.2",
+      "ocr": "212",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "712",
+      "field": "speed_evening",
+      "expected": "19.6",
+      "ocr": "19.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "712",
+      "field": "speed_average",
+      "expected": "20.4",
+      "ocr": "20.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "802",
+      "field": "speed_morning",
+      "expected": "18.7",
+      "ocr": "187",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "802",
+      "field": "speed_midday",
+      "expected": "18.6",
+      "ocr": "186",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "802",
+      "field": "speed_evening",
+      "expected": "16.7",
+      "ocr": "16.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "802",
+      "field": "speed_average",
+      "expected": "18.0",
+      "ocr": "18.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "911",
+      "field": "speed_morning",
+      "expected": "18.8",
+      "ocr": "188",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "911",
+      "field": "speed_midday",
+      "expected": "17.8",
+      "ocr": "17",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "911",
+      "field": "speed_evening",
+      "expected": "16.7",
+      "ocr": "16.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "911",
+      "field": "speed_average",
+      "expected": "17.8",
+      "ocr": "17.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "912",
+      "field": "speed_morning",
+      "expected": "23.8",
+      "ocr": "23.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "912",
+      "field": "speed_midday",
+      "expected": "23.3",
+      "ocr": "21.3",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "912",
+      "field": "speed_evening",
+      "expected": "21.5",
+      "ocr": "21.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "912",
+      "field": "speed_average",
+      "expected": "22.8",
+      "ocr": "22.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "916",
+      "field": "speed_morning",
+      "expected": "21.1",
+      "ocr": "214",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "916",
+      "field": "speed_midday",
+      "expected": "20.6",
+      "ocr": "206",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "916",
+      "field": "speed_evening",
+      "expected": "19.3",
+      "ocr": "19.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "916",
+      "field": "speed_average",
+      "expected": "20.3",
+      "ocr": "20.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "918",
+      "field": "speed_morning",
+      "expected": "21.6",
+      "ocr": "216",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "918",
+      "field": "speed_midday",
+      "expected": "22.2",
+      "ocr": "222",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "918",
+      "field": "speed_evening",
+      "expected": "20.2",
+      "ocr": "20.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "918",
+      "field": "speed_average",
+      "expected": "21.3",
+      "ocr": "21.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "특구1",
+      "field": "speed_morning",
+      "expected": "22.5",
+      "ocr": "22.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "특구1",
+      "field": "speed_midday",
+      "expected": "21.7",
+      "ocr": "기.7",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "특구1",
+      "field": "speed_evening",
+      "expected": "20.2",
+      "ocr": "20.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "특구1",
+      "field": "speed_average",
+      "expected": "21.4",
+      "ocr": "21.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "11",
+      "field": "speed_morning",
+      "expected": "22.4",
+      "ocr": "224",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "11",
+      "field": "speed_midday",
+      "expected": "20.8",
+      "ocr": "208",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "11",
+      "field": "speed_evening",
+      "expected": "19.3",
+      "ocr": "19.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "11",
+      "field": "speed_average",
+      "expected": "20.8",
+      "ocr": "203",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "20",
+      "field": "speed_morning",
+      "expected": "24.1",
+      "ocr": "24.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "20",
+      "field": "speed_midday",
+      "expected": "22.1",
+      "ocr": "22.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "20",
+      "field": "speed_evening",
+      "expected": "21.8",
+      "ocr": "21.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "20",
+      "field": "speed_average",
+      "expected": "22.7",
+      "ocr": "22.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "21",
+      "field": "speed_morning",
+      "expected": "30.8",
+      "ocr": "30.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "21",
+      "field": "speed_midday",
+      "expected": "30.2",
+      "ocr": "312",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "21",
+      "field": "speed_evening",
+      "expected": "30.4",
+      "ocr": "3이4",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "21",
+      "field": "speed_average",
+      "expected": "30.5",
+      "ocr": "30.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "22",
+      "field": "speed_morning",
+      "expected": "29.0",
+      "ocr": "290",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "22",
+      "field": "speed_midday",
+      "expected": "27.2",
+      "ocr": "272",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "22",
+      "field": "speed_evening",
+      "expected": "27.1",
+      "ocr": "27.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "22",
+      "field": "speed_average",
+      "expected": "27.8",
+      "ocr": "27.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "23",
+      "field": "speed_morning",
+      "expected": "30.7",
+      "ocr": "30.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "23",
+      "field": "speed_midday",
+      "expected": "29.3",
+      "ocr": "29.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "23",
+      "field": "speed_evening",
+      "expected": "29.0",
+      "ocr": "29.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "23",
+      "field": "speed_average",
+      "expected": "29.7",
+      "ocr": "29.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "24",
+      "field": "speed_morning",
+      "expected": "33.4",
+      "ocr": "33,4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "24",
+      "field": "speed_midday",
+      "expected": "32.0",
+      "ocr": "32.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "24",
+      "field": "speed_evening",
+      "expected": "32.0",
+      "ocr": "32.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "24",
+      "field": "speed_average",
+      "expected": "32.5",
+      "ocr": "32.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "25",
+      "field": "speed_morning",
+      "expected": "30.5",
+      "ocr": "305",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "25",
+      "field": "speed_midday",
+      "expected": "29.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "25",
+      "field": "speed_evening",
+      "expected": "29.1",
+      "ocr": "29.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "25",
+      "field": "speed_average",
+      "expected": "29.6",
+      "ocr": "29.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "26",
+      "field": "speed_morning",
+      "expected": "33.6",
+      "ocr": "33,6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "26",
+      "field": "speed_midday",
+      "expected": "32.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 339,
+      "route_no": "26",
+      "field": "speed_evening",
+      "expected": "31.8",
+      "ocr": "31.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 339,
+      "route_no": "26",
+      "field": "speed_average",
+      "expected": "32.5",
+      "ocr": "325",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "27",
+      "field": "speed_morning",
+      "expected": "26.2",
+      "ocr": "262",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "27",
+      "field": "speed_midday",
+      "expected": "24.4",
+      "ocr": "244",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "27",
+      "field": "speed_evening",
+      "expected": "23.8",
+      "ocr": "23.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "27",
+      "field": "speed_average",
+      "expected": "24.8",
+      "ocr": "24.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "30",
+      "field": "speed_morning",
+      "expected": "22.4",
+      "ocr": "224",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "30",
+      "field": "speed_midday",
+      "expected": "22.3",
+      "ocr": "223",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "30",
+      "field": "speed_evening",
+      "expected": "21.3",
+      "ocr": "21.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "30",
+      "field": "speed_average",
+      "expected": "22.0",
+      "ocr": "22.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "31",
+      "field": "speed_morning",
+      "expected": "23.3",
+      "ocr": "23.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "31",
+      "field": "speed_midday",
+      "expected": "23.2",
+      "ocr": "23.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "31",
+      "field": "speed_evening",
+      "expected": "22.4",
+      "ocr": "22.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "31",
+      "field": "speed_average",
+      "expected": "22.9",
+      "ocr": "22.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "32",
+      "field": "speed_morning",
+      "expected": "24.9",
+      "ocr": "249",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "32",
+      "field": "speed_midday",
+      "expected": "24.8",
+      "ocr": "248",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "32",
+      "field": "speed_evening",
+      "expected": "24.0",
+      "ocr": "24.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "32",
+      "field": "speed_average",
+      "expected": "24.6",
+      "ocr": "24.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "33-1",
+      "field": "speed_morning",
+      "expected": "20.6",
+      "ocr": "206",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "33-1",
+      "field": "speed_midday",
+      "expected": "19.2",
+      "ocr": "192",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "33-1",
+      "field": "speed_evening",
+      "expected": "18.4",
+      "ocr": "18.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "33-1",
+      "field": "speed_average",
+      "expected": "19.4",
+      "ocr": "19.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "33-2",
+      "field": "speed_morning",
+      "expected": "20.1",
+      "ocr": "2이",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "33-2",
+      "field": "speed_midday",
+      "expected": "19.7",
+      "ocr": "197",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "33-2",
+      "field": "speed_evening",
+      "expected": "18.4",
+      "ocr": "1테4",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "33-2",
+      "field": "speed_average",
+      "expected": "19.4",
+      "ocr": "19.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "34",
+      "field": "speed_morning",
+      "expected": "27.9",
+      "ocr": "27.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "34",
+      "field": "speed_midday",
+      "expected": "28.5",
+      "ocr": "28.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "34",
+      "field": "speed_evening",
+      "expected": "27.0",
+      "ocr": "27.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "34",
+      "field": "speed_average",
+      "expected": "27.8",
+      "ocr": "27.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "41",
+      "field": "speed_morning",
+      "expected": "25.9",
+      "ocr": "259",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "41",
+      "field": "speed_midday",
+      "expected": "24.9",
+      "ocr": "249",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "41",
+      "field": "speed_evening",
+      "expected": "23.8",
+      "ocr": "23.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "41",
+      "field": "speed_average",
+      "expected": "24.9",
+      "ocr": "24.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "42",
+      "field": "speed_morning",
+      "expected": "28.6",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "42",
+      "field": "speed_midday",
+      "expected": "28.0",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "42",
+      "field": "speed_evening",
+      "expected": "26.6",
+      "ocr": "26.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "42",
+      "field": "speed_average",
+      "expected": "27.7",
+      "ocr": "27.7",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "46",
+      "field": "speed_morning",
+      "expected": "28.5",
+      "ocr": "28,5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "46",
+      "field": "speed_midday",
+      "expected": "28.4",
+      "ocr": "28.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "46",
+      "field": "speed_evening",
+      "expected": "27.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "46",
+      "field": "speed_average",
+      "expected": "28.0",
+      "ocr": "28.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "52",
+      "field": "speed_morning",
+      "expected": "22.5",
+      "ocr": "225",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "52",
+      "field": "speed_midday",
+      "expected": "21.6",
+      "ocr": "216",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "52",
+      "field": "speed_evening",
+      "expected": "20.4",
+      "ocr": "20.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "52",
+      "field": "speed_average",
+      "expected": "21.5",
+      "ocr": "21.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "60",
+      "field": "speed_morning",
+      "expected": "25.1",
+      "ocr": "251",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "60",
+      "field": "speed_midday",
+      "expected": "24.3",
+      "ocr": "243",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "60",
+      "field": "speed_evening",
+      "expected": "23.5",
+      "ocr": "23.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "60",
+      "field": "speed_average",
+      "expected": "24.3",
+      "ocr": "24.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "61-1",
+      "field": "speed_morning",
+      "expected": "27.9",
+      "ocr": "27.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "61-1",
+      "field": "speed_midday",
+      "expected": "26.2",
+      "ocr": "26.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "61-1",
+      "field": "speed_evening",
+      "expected": "25.2",
+      "ocr": "25,2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "61-1",
+      "field": "speed_average",
+      "expected": "26.5",
+      "ocr": "26.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "61-2",
+      "field": "speed_morning",
+      "expected": "28.1",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "61-2",
+      "field": "speed_midday",
+      "expected": "26.9",
+      "ocr": "269",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "61-2",
+      "field": "speed_evening",
+      "expected": "26.0",
+      "ocr": "26.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "61-2",
+      "field": "speed_average",
+      "expected": "27.0",
+      "ocr": "27.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "62",
+      "field": "speed_morning",
+      "expected": "25.9",
+      "ocr": "259",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "62",
+      "field": "speed_midday",
+      "expected": "24.8",
+      "ocr": "248",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "62",
+      "field": "speed_evening",
+      "expected": "23.9",
+      "ocr": "23&",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "62",
+      "field": "speed_average",
+      "expected": "24.9",
+      "ocr": "249",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "63",
+      "field": "speed_morning",
+      "expected": "26.2",
+      "ocr": "26.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "63",
+      "field": "speed_midday",
+      "expected": "26.2",
+      "ocr": "262",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "63",
+      "field": "speed_evening",
+      "expected": "25.4",
+      "ocr": "",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "63",
+      "field": "speed_average",
+      "expected": "25.9",
+      "ocr": "25.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "66",
+      "field": "speed_morning",
+      "expected": "21.0",
+      "ocr": "21.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "66",
+      "field": "speed_midday",
+      "expected": "20.0",
+      "ocr": "20.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "66",
+      "field": "speed_evening",
+      "expected": "18.4",
+      "ocr": "1및4",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "66",
+      "field": "speed_average",
+      "expected": "19.8",
+      "ocr": "193",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "71-1",
+      "field": "speed_morning",
+      "expected": "27.3",
+      "ocr": "273",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "71-1",
+      "field": "speed_midday",
+      "expected": "26.2",
+      "ocr": "262",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "71-1",
+      "field": "speed_evening",
+      "expected": "25.8",
+      "ocr": "25.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "71-1",
+      "field": "speed_average",
+      "expected": "26.4",
+      "ocr": "26.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "71-2",
+      "field": "speed_morning",
+      "expected": "24.6",
+      "ocr": "24.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "71-2",
+      "field": "speed_midday",
+      "expected": "22.8",
+      "ocr": "22.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "71-2",
+      "field": "speed_evening",
+      "expected": "22.3",
+      "ocr": "22.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "71-2",
+      "field": "speed_average",
+      "expected": "23.2",
+      "ocr": "23.2",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "72-1",
+      "field": "speed_morning",
+      "expected": "23.1",
+      "ocr": "23.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "72-1",
+      "field": "speed_midday",
+      "expected": "22.9",
+      "ocr": "22盈",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "72-1",
+      "field": "speed_evening",
+      "expected": "21.1",
+      "ocr": "21.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "72-1",
+      "field": "speed_average",
+      "expected": "22.4",
+      "ocr": "22.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "72-2",
+      "field": "speed_morning",
+      "expected": "23.5",
+      "ocr": "235",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "72-2",
+      "field": "speed_midday",
+      "expected": "23.3",
+      "ocr": "233",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "72-2",
+      "field": "speed_evening",
+      "expected": "21.6",
+      "ocr": "21.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "72-2",
+      "field": "speed_average",
+      "expected": "22.8",
+      "ocr": "22.8",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "73",
+      "field": "speed_morning",
+      "expected": "22.2",
+      "ocr": "222",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "73",
+      "field": "speed_midday",
+      "expected": "21.9",
+      "ocr": "219",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "73",
+      "field": "speed_evening",
+      "expected": "20.5",
+      "ocr": "20.5",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "73",
+      "field": "speed_average",
+      "expected": "21.5",
+      "ocr": "215",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "74",
+      "field": "speed_morning",
+      "expected": "23.4",
+      "ocr": "23.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "74",
+      "field": "speed_midday",
+      "expected": "23.1",
+      "ocr": "23.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "74",
+      "field": "speed_evening",
+      "expected": "22.1",
+      "ocr": "22.1",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "74",
+      "field": "speed_average",
+      "expected": "22.9",
+      "ocr": "22.9",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "75",
+      "field": "speed_morning",
+      "expected": "22.0",
+      "ocr": "22.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "75",
+      "field": "speed_midday",
+      "expected": "22.0",
+      "ocr": "22.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "75",
+      "field": "speed_evening",
+      "expected": "21.0",
+      "ocr": "21.0",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "75",
+      "field": "speed_average",
+      "expected": "21.6",
+      "ocr": "21.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단1",
+      "field": "speed_morning",
+      "expected": "21.2",
+      "ocr": "212",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단1",
+      "field": "speed_midday",
+      "expected": "22.6",
+      "ocr": "226",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단1",
+      "field": "speed_evening",
+      "expected": "20.3",
+      "ocr": "20.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단1",
+      "field": "speed_average",
+      "expected": "21.4",
+      "ocr": "21.4",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단2",
+      "field": "speed_morning",
+      "expected": "27.6",
+      "ocr": "27.6",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단2",
+      "field": "speed_midday",
+      "expected": "28.3",
+      "ocr": "28.3",
+      "status": "ocr_digits_agree"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단2",
+      "field": "speed_evening",
+      "expected": "26.6",
+      "ocr": "2티6",
+      "status": "visual_review_required"
+    },
+    {
+      "page": 340,
+      "route_no": "첨단2",
+      "field": "speed_average",
+      "expected": "27.5",
+      "ocr": "27.5",
+      "status": "ocr_digits_agree"
+    }
+  ],
+  "note": "Disagreements are queued for visual source review, not corrected from OCR."
+}

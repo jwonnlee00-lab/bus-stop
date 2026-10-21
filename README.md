@@ -28,3 +28,7 @@ python scripts/geocode_stops.py --run 20261021
 ```
 
 `.env`의 기존 인증키를 사용합니다. 먼저 복합터미널과 아이빌딩의 ID 연결을 확인하며, 두 정류장의 좌표를 확인하지 못하면 전체 조회를 중단합니다. 같은 실행 이름의 XML 응답을 재사용하고, 출력 CSV가 이미 있으면 덮어쓰지 않습니다. 새로 수집할 때는 다른 실행 이름과 별도 작업 복사본을 사용하세요. 연결 규칙과 검증 결과는 [data/GEOCODING.md](data/GEOCODING.md)에 설명합니다.
+
+## 가상 트램 좌표
+
+대전 2호선 45개 정거장의 추정 좌표는 [data/tram_stations_estimated.csv](data/tram_stations_estimated.csv), 검토 지도는 [data/tram_stations_review.html](data/tram_stations_review.html)에 있습니다. 218번을 제외한 44개는 승강장 중심을 확정하지 않은 도로 구간 대표점입니다. 등급·출처와 순환선·지선 연결은 [data/TRAM_COORDINATES.md](data/TRAM_COORDINATES.md)를 참고하세요.

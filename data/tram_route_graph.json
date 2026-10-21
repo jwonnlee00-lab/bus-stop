@@ -1,0 +1,743 @@
+{
+  "description": "Official overview adjacency for virtual navigation; straight links are schematic, not surveyed tracks or service patterns.",
+  "source": "station_locations.pdf#page=2",
+  "nodes": [
+    {
+      "id": "201",
+      "name": "서대전역",
+      "kind": "station",
+      "latitude": 36.320347,
+      "longitude": 127.40506,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "202",
+      "name": "서대전네거리(서대전공원)",
+      "kind": "station",
+      "latitude": 36.321915,
+      "longitude": 127.410602,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "203",
+      "name": "대사(충남대병원)",
+      "kind": "station",
+      "latitude": 36.319675,
+      "longitude": 127.41592,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "204",
+      "name": "보문산공원(대전한화생명볼파크)",
+      "kind": "station",
+      "latitude": 36.317713,
+      "longitude": 127.427323,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "205",
+      "name": "인동(동부경찰서)",
+      "kind": "station",
+      "latitude": 36.323242,
+      "longitude": 127.437011,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "206",
+      "name": "대전역(중앙시장)",
+      "kind": "station",
+      "latitude": 36.330793,
+      "longitude": 127.432818,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "207",
+      "name": "대전역(혁신도시)",
+      "kind": "station",
+      "latitude": 36.331409,
+      "longitude": 127.438336,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "208",
+      "name": "대동(하늘공원)",
+      "kind": "station",
+      "latitude": 36.331026,
+      "longitude": 127.444032,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "209",
+      "name": "자양(우송대·대전대)",
+      "kind": "station",
+      "latitude": 36.338803,
+      "longitude": 127.448613,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "210",
+      "name": "가양(동대전도서관·대전보건대·한국폴리텍대)",
+      "kind": "station",
+      "latitude": 36.34739,
+      "longitude": 127.444466,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "211",
+      "name": "대전복합터미널",
+      "kind": "station",
+      "latitude": 36.352872,
+      "longitude": 127.439964,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "212",
+      "name": "용전(대전문학관)",
+      "kind": "station",
+      "latitude": 36.358807,
+      "longitude": 127.432787,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "213",
+      "name": "중리(중리시장)",
+      "kind": "station",
+      "latitude": 36.358903,
+      "longitude": 127.425108,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "214",
+      "name": "오정(한남대)",
+      "kind": "station",
+      "latitude": 36.35876,
+      "longitude": 127.41892,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "215",
+      "name": "오정농수산물시장",
+      "kind": "station",
+      "latitude": 36.357091,
+      "longitude": 127.406135,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "216",
+      "name": "둔산",
+      "kind": "station",
+      "latitude": 36.357674,
+      "longitude": 127.39524,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "217",
+      "name": "샘머리공원(법원·검찰청·경찰청)",
+      "kind": "station",
+      "latitude": 36.357683,
+      "longitude": 127.38778,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "218",
+      "name": "정부청사(서구청·둔산경찰서·을지대병원)",
+      "kind": "station",
+      "latitude": 36.357463,
+      "longitude": 127.381497,
+      "confidence": "A",
+      "position_type": "platform_pair_centroid"
+    },
+    {
+      "id": "219",
+      "name": "둔산선사유적지(방위사업청)",
+      "kind": "station",
+      "latitude": 36.363233,
+      "longitude": 127.379471,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "220",
+      "name": "만년(한밭수목원·예술의전당)",
+      "kind": "station",
+      "latitude": 36.370261,
+      "longitude": 127.379504,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "221",
+      "name": "국립중앙과학관(엑스포과학공원)",
+      "kind": "station",
+      "latitude": 36.374538,
+      "longitude": 127.378563,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "222",
+      "name": "구성(카이스트)",
+      "kind": "station",
+      "latitude": 36.366051,
+      "longitude": 127.365198,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "223",
+      "name": "유성구청(유림공원)",
+      "kind": "station",
+      "latitude": 36.360652,
+      "longitude": 127.354005,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "224",
+      "name": "궁동(충남대)",
+      "kind": "station",
+      "latitude": 36.360897,
+      "longitude": 127.344211,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "225",
+      "name": "유성온천(유성온천공원)",
+      "kind": "station",
+      "latitude": 36.352946,
+      "longitude": 127.341241,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "226",
+      "name": "상대",
+      "kind": "station",
+      "latitude": 36.346265,
+      "longitude": 127.340298,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "227",
+      "name": "원골",
+      "kind": "station",
+      "latitude": 36.341345,
+      "longitude": 127.338292,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "228",
+      "name": "대전시립박물관",
+      "kind": "station",
+      "latitude": 36.334885,
+      "longitude": 127.333325,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "229",
+      "name": "도안(목원대)",
+      "kind": "station",
+      "latitude": 36.329295,
+      "longitude": 127.332854,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "230",
+      "name": "용계",
+      "kind": "station",
+      "latitude": 36.319077,
+      "longitude": 127.333132,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "231",
+      "name": "대정",
+      "kind": "station",
+      "latitude": 36.314019,
+      "longitude": 127.335025,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "232",
+      "name": "원앙네거리(어린이재활병원)",
+      "kind": "station",
+      "latitude": 36.30636,
+      "longitude": 127.33487,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "233",
+      "name": "관저네거리",
+      "kind": "station",
+      "latitude": 36.301265,
+      "longitude": 127.336572,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "234",
+      "name": "관저(건양대병원)",
+      "kind": "station",
+      "latitude": 36.303087,
+      "longitude": 127.34359,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "235",
+      "name": "가수원네거리",
+      "kind": "station",
+      "latitude": 36.305081,
+      "longitude": 127.353138,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "236",
+      "name": "정림삼거리(정림공원)",
+      "kind": "station",
+      "latitude": 36.307617,
+      "longitude": 127.364396,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "237",
+      "name": "도마·복수(서부경찰서·대전과기대·배재대)",
+      "kind": "station",
+      "latitude": 36.310122,
+      "longitude": 127.372574,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "238",
+      "name": "도마네거리(도마큰시장)",
+      "kind": "station",
+      "latitude": 36.313415,
+      "longitude": 127.380853,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "239",
+      "name": "버드내네거리",
+      "kind": "station",
+      "latitude": 36.316295,
+      "longitude": 127.389304,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "240",
+      "name": "유천(유천시장)",
+      "kind": "station",
+      "latitude": 36.317941,
+      "longitude": 127.39565,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "241",
+      "name": "동춘당(법동시장·근로복지공단대전병원)",
+      "kind": "station",
+      "latitude": 36.36869,
+      "longitude": 127.429547,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "242",
+      "name": "법동(대전지방국세청·대덕경찰서)",
+      "kind": "station",
+      "latitude": 36.375553,
+      "longitude": 127.427595,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "243",
+      "name": "읍내(계족산)",
+      "kind": "station",
+      "latitude": 36.381305,
+      "longitude": 127.426191,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "244",
+      "name": "연축(대덕구청·수자원공사)",
+      "kind": "station",
+      "latitude": 36.390885,
+      "longitude": 127.420789,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "245",
+      "name": "진잠네거리(구봉산)",
+      "kind": "station",
+      "latitude": 36.299864,
+      "longitude": 127.325213,
+      "confidence": "B",
+      "position_type": "road_segment_estimate"
+    },
+    {
+      "id": "J_중리",
+      "name": "중리네거리 분기",
+      "kind": "junction",
+      "latitude": 36.3591245,
+      "longitude": 127.4317321,
+      "source_osm_node": 13503883963
+    }
+  ],
+  "edges": [
+    {
+      "from_id": "201",
+      "to_id": "202",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "202",
+      "to_id": "203",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "203",
+      "to_id": "204",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "204",
+      "to_id": "205",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "205",
+      "to_id": "206",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "206",
+      "to_id": "207",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "207",
+      "to_id": "208",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "208",
+      "to_id": "209",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "209",
+      "to_id": "210",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "210",
+      "to_id": "211",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "211",
+      "to_id": "212",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "212",
+      "to_id": "J_중리",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "J_중리",
+      "to_id": "213",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "213",
+      "to_id": "214",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "214",
+      "to_id": "215",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "215",
+      "to_id": "216",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "216",
+      "to_id": "217",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "217",
+      "to_id": "218",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "218",
+      "to_id": "219",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "219",
+      "to_id": "220",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "220",
+      "to_id": "221",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "221",
+      "to_id": "222",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "222",
+      "to_id": "223",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "223",
+      "to_id": "224",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "224",
+      "to_id": "225",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "225",
+      "to_id": "226",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "226",
+      "to_id": "227",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "227",
+      "to_id": "228",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "228",
+      "to_id": "229",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "229",
+      "to_id": "230",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "230",
+      "to_id": "231",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "231",
+      "to_id": "232",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "232",
+      "to_id": "233",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "233",
+      "to_id": "234",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "234",
+      "to_id": "235",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "235",
+      "to_id": "236",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "236",
+      "to_id": "237",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "237",
+      "to_id": "238",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "238",
+      "to_id": "239",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "239",
+      "to_id": "240",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "240",
+      "to_id": "201",
+      "section": "main_loop",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "J_중리",
+      "to_id": "241",
+      "section": "yeonchuk_branch",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "241",
+      "to_id": "242",
+      "section": "yeonchuk_branch",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "242",
+      "to_id": "243",
+      "section": "yeonchuk_branch",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "243",
+      "to_id": "244",
+      "section": "yeonchuk_branch",
+      "direction": "undirected",
+      "source_page": 2
+    },
+    {
+      "from_id": "233",
+      "to_id": "245",
+      "section": "jinjam_branch",
+      "direction": "undirected",
+      "source_page": 2
+    }
+  ]
+}

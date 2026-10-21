@@ -1,0 +1,1 @@
+[out:json][timeout:50];way[highway~"^(trunk|primary|secondary|tertiary|trunk_link|primary_link|secondary_link|tertiary_link)$"](36.26,127.29,36.41,127.48);out meta geom;
