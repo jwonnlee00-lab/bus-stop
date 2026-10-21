@@ -1,0 +1,1288 @@
+{
+  "source": "https://www.data.go.kr/data/15157895/openapi.do",
+  "endpoint": "https://apis.data.go.kr/6300000/stationinfo/getStationByStopID",
+  "collected_at": "2026-10-21T09:12:35.551688+09:00",
+  "input_operation_date": "2026-09-01",
+  "coordinate_operation_date": null,
+  "temporal_note": "Real-time station API; coordinates are not a historical snapshot for 2026-09-01.",
+  "join": "sttn_id == BUS_NODE_ID (exact string); no name, ARS-ID or proximity fallback",
+  "input_sha256": "4084f01dfb6a0799d898a7762e769eba2890b575cb2997d09cbde66d032981c1",
+  "input_rows": 2795,
+  "matched": 2568,
+  "failed": 227,
+  "success_percent": 91.8784,
+  "matched_with_exact_name": 2553,
+  "response_saved_at_range": [
+    "2026-10-21T09:05:18.791214+09:00",
+    "2026-10-21T09:11:10.872475+09:00"
+  ],
+  "status_counts": {
+    "not_found": 227,
+    "matched": 2568
+  },
+  "id_prefix_counts": {
+    "29": {
+      "not_found": 75
+    },
+    "43": {
+      "not_found": 18
+    },
+    "68": {
+      "not_found": 134
+    },
+    "80": {
+      "matched": 2497
+    },
+    "81": {
+      "matched": 2
+    },
+    "90": {
+      "matched": 68
+    },
+    "91": {
+      "matched": 1
+    }
+  },
+  "missing_latitude": 227,
+  "missing_longitude": 227,
+  "latitude_range": [
+    36.197227,
+    36.49246
+  ],
+  "longitude_range": [
+    127.2478,
+    127.53761
+  ],
+  "name_differences": [
+    {
+      "sttn_id": "8001483",
+      "original_name": "도마e편한세상아파트",
+      "api_name": "도마e편한세상아파트 "
+    },
+    {
+      "sttn_id": "8002184",
+      "original_name": "어울림하트12단지",
+      "api_name": "어울림하트 12단지"
+    },
+    {
+      "sttn_id": "8002365",
+      "original_name": "원앙1.2단지",
+      "api_name": "원앙1,2단지"
+    },
+    {
+      "sttn_id": "8003132",
+      "original_name": "대성여자고등학교",
+      "api_name": "대성여자중고등학교"
+    },
+    {
+      "sttn_id": "8005240",
+      "original_name": "대전복합터미널",
+      "api_name": "장재리(태련암입구)"
+    },
+    {
+      "sttn_id": "8005512",
+      "original_name": "푸르지오하임1.2단지",
+      "api_name": "푸르지오하임1,2단지"
+    },
+    {
+      "sttn_id": "8007620",
+      "original_name": "냉천로152번길",
+      "api_name": "냉천로 152번길"
+    },
+    {
+      "sttn_id": "8007621",
+      "original_name": "냉천로152번길",
+      "api_name": "냉천로 152번길"
+    },
+    {
+      "sttn_id": "8007623",
+      "original_name": "구완동",
+      "api_name": "삼괴교차로"
+    },
+    {
+      "sttn_id": "8007649",
+      "original_name": "봉명동문화원로",
+      "api_name": "봉명동 문화원로"
+    },
+    {
+      "sttn_id": "8007650",
+      "original_name": "봉명동문화원로",
+      "api_name": "봉명동 문화원로"
+    },
+    {
+      "sttn_id": "9002114",
+      "original_name": "대전역동광장",
+      "api_name": "신안동"
+    },
+    {
+      "sttn_id": "9002683",
+      "original_name": "뿌리공원",
+      "api_name": "한국효문화진흥원"
+    },
+    {
+      "sttn_id": "9007074",
+      "original_name": "배재대학교",
+      "api_name": "배재대학교종점"
+    },
+    {
+      "sttn_id": "9102765",
+      "original_name": "탑립동",
+      "api_name": "탑립"
+    }
+  ],
+  "failures": [
+    {
+      "sttn_id": "2900175",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900176",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900466",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900467",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900491",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900492",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900493",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900494",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900506",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900694",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900695",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2900919",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2901403",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2901404",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2901405",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2901406",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902155",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902546",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902547",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902548",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902549",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902550",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902551",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902957",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2902958",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903304",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903305",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903306",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903307",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903308",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903309",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903310",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903311",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903312",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903313",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903314",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903463",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903633",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903644",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903735",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903736",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903737",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903793",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903794",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903857",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2903858",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2904191",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2904192",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2930134",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2930141",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931651",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931739",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931740",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931741",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931742",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931743",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931744",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931745",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931746",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931747",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931748",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931749",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931750",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931751",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931752",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931753",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931754",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931755",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931756",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931757",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931758",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931759",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931760",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931761",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "2931762",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300004",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300024",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300034",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300054",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300064",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300074",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300084",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300094",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300104",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300114",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300124",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300134",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300144",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300154",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300164",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300174",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300184",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "4300194",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800533",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800535",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800809",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800810",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800811",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800812",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800813",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800815",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800816",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800817",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800818",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800819",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800843",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800849",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800850",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800851",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800852",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800853",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800854",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800855",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800856",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800857",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800858",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800859",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800861",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800944",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6800945",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801192",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801193",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801309",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801317",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801330",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801331",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801332",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801336",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801337",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801338",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801339",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801340",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801342",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801349",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801350",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801351",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801358",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801359",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801360",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801366",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801367",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801370",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801374",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801376",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801378",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801379",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801380",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801381",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801382",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801384",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801385",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801386",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801387",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801388",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801389",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801390",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801391",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801397",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801398",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801399",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801400",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801406",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801408",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801409",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801413",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801414",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801415",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801416",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801417",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801418",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801423",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801424",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6801426",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6803483",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6803484",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6803858",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6803859",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6803919",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6804095",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6804602",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6804603",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6805540",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806233",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806503",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806504",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806542",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806543",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806544",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806545",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806546",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806547",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806548",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806549",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806550",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806551",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806552",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806553",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806554",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806555",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806556",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806557",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806558",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806559",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806560",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806561",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806562",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806563",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806564",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806565",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806566",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806595",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806596",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806702",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806703",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806704",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806706",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806736",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806781",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806782",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806949",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806950",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806951",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806952",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806953",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806954",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806955",
+      "status": "not_found",
+      "code": "4"
+    },
+    {
+      "sttn_id": "6806956",
+      "status": "not_found",
+      "code": "4"
+    }
+  ],
+  "probes": {
+    "8001096": {
+      "api_stop_id": "8001096",
+      "api_stop_name": "복합터미널",
+      "ars_id": "11830",
+      "latitude": "36.349014",
+      "longitude": "127.43567",
+      "status": "matched"
+    },
+    "8002159": {
+      "api_stop_id": "8002159",
+      "api_stop_name": "아이빌딩",
+      "ars_id": "32190",
+      "latitude": "36.351406",
+      "longitude": "127.38061",
+      "status": "matched"
+    }
+  }
+}

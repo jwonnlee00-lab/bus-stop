@@ -1,0 +1,460 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "대전광역시 정류소정보조회 서비스는 대전시 버스정보시스템에서 제공하는 정류소 관련 통합 데이터입니다. 이 자료는 각 정류소의 고유 ID명칭 위도 경도 도로명 및 도로명 주소와 함께 해당 정류소를 경유하는 버스 노선 정보를 포함하고 있습니다. 다양한 정류소 구분 코드와 정류소 위치 좌표가 제공되어 버스 이용자들은 정류소 위치 확인과 더불어 경유 노선 별 운행 정보를 파악하기에 용이합니다. 또한 이 서비스는 데이터의 정확성과 최신성을 유지하여 대중교통 운영 관리 및 도시 교통 계획 수립에 핵심적인 역할을 하며, 시스템 간 연계 활용과 데이터 가공 편의성 측면에서도 우수합니다.",
+    "version": "1.0.0",
+    "title": "대전광역시_정류소정보조회"
+  },
+  "host": "apis.data.go.kr/6300000/stationinfo",
+  "basePath": "",
+  "schemes": [
+    "https",
+    "http"
+  ],
+  "paths": {
+    "/getStationByStopID": {
+      "get": {
+        "responses": {
+          "1": {
+            "description": "시스템 에러가 발생했습니다."
+          },
+          "2": {
+            "description": "필수 요청 Parameter가 존재하지 않습니다."
+          },
+          "10": {
+            "description": "INVALID_REQUEST_PARAMETER_ERROR"
+          },
+          "200": {
+            "description": "성공",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "msgHeader": {
+                  "type": "object",
+                  "description": "header",
+                  "properties": {
+                    "itemPageCnt": {
+                      "type": "string",
+                      "description": "결과 페이지 수",
+                      "properties": {}
+                    },
+                    "currentPage": {
+                      "type": "string",
+                      "description": "요청된 페이지",
+                      "properties": {}
+                    },
+                    "headerCd": {
+                      "type": "string",
+                      "description": "결과코드",
+                      "properties": {}
+                    },
+                    "headerMsg": {
+                      "type": "string",
+                      "description": "결과메세지",
+                      "properties": {}
+                    },
+                    "itemCnt": {
+                      "type": "string",
+                      "description": "결과값 총 수",
+                      "properties": {}
+                    }
+                  }
+                },
+                "msgBody": {
+                  "type": "object",
+                  "description": "body",
+                  "properties": {
+                    "itemList": {
+                      "type": "object",
+                      "description": "items",
+                      "properties": {
+                        "ARO_BUSSTOP_ID": {
+                          "type": "string",
+                          "description": "정류소ID(대전5자리)광역(6자리)",
+                          "properties": {}
+                        },
+                        "BUSSTOP_ENG_NM": {
+                          "type": "string",
+                          "description": "정류소영문명칭",
+                          "properties": {}
+                        },
+                        "BUSSTOP_NM": {
+                          "type": "string",
+                          "description": "정류소명칭",
+                          "properties": {}
+                        },
+                        "BUS_NODE_ID": {
+                          "type": "string",
+                          "description": "정류소ID(7자리)",
+                          "properties": {}
+                        },
+                        "GPS_LATI": {
+                          "type": "string",
+                          "description": "정류소 위도좌표",
+                          "properties": {}
+                        },
+                        "GPS_LONG": {
+                          "type": "string",
+                          "description": "정류소 경도좌표",
+                          "properties": {}
+                        },
+                        "ROAD_NM": {
+                          "type": "string",
+                          "description": "도로명",
+                          "properties": {}
+                        },
+                        "ROAD_NM_ADDR": {
+                          "type": "string",
+                          "description": "도로명주소",
+                          "properties": {}
+                        },
+                        "ROUTE_NO": {
+                          "type": "string",
+                          "description": "경유노선정보",
+                          "properties": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "xml": {
+                "name": "response"
+              }
+            }
+          }
+        },
+        "tags": [
+          "API 목록"
+        ],
+        "summary": "정류소ID별 정류소정보",
+        "description": "정류소ID(7자리)별로 정류소 정보를 조회한다",
+        "operationId": "getStationByStopID",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/xml"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "serviceKey",
+          "description": "공공데이터포털에서 받은 인증키",
+          "type": "string",
+          "required": true,
+          "in": "query"
+        },
+        {
+          "name": "BusStopID",
+          "description": "정류소ID(7자리)",
+          "type": "string",
+          "required": true,
+          "in": "query"
+        }
+      ]
+    },
+    "/getStationByUid": {
+      "get": {
+        "responses": {
+          "1": {
+            "description": "시스템 에러가 발생했습니다."
+          },
+          "2": {
+            "description": "필수 요청 Parameter가 존재하지 않습니다."
+          },
+          "10": {
+            "description": "INVALID_REQUEST_PARAMETER_ERROR"
+          },
+          "200": {
+            "description": "성공",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "msgHeader": {
+                  "type": "object",
+                  "description": "header",
+                  "properties": {
+                    "itemPageCnt": {
+                      "type": "string",
+                      "description": "결과 페이지 수",
+                      "properties": {}
+                    },
+                    "currentPage": {
+                      "type": "string",
+                      "description": "요청된 페이지",
+                      "properties": {}
+                    },
+                    "headerCd": {
+                      "type": "string",
+                      "description": "결과코드",
+                      "properties": {}
+                    },
+                    "headerMsg": {
+                      "type": "string",
+                      "description": "결과메세지",
+                      "properties": {}
+                    },
+                    "itemCnt": {
+                      "type": "string",
+                      "description": "결과값 총 수",
+                      "properties": {}
+                    }
+                  }
+                },
+                "msgBody": {
+                  "type": "object",
+                  "description": "body",
+                  "properties": {
+                    "itemList": {
+                      "type": "object",
+                      "description": "itemList",
+                      "properties": {
+                        "ARO_BUSSTOP_ID": {
+                          "type": "string",
+                          "description": "정류소ID (대전5),광역(6))",
+                          "properties": {}
+                        },
+                        "BUSSTOP_ENG_NM": {
+                          "type": "string",
+                          "description": "정류소영문명칭",
+                          "properties": {}
+                        },
+                        "BUSSTOP_NM": {
+                          "type": "string",
+                          "description": "정류소명칭",
+                          "properties": {}
+                        },
+                        "BUS_NODE_ID": {
+                          "type": "string",
+                          "description": "정류소ID(7자리)",
+                          "properties": {}
+                        },
+                        "GPS_LATI": {
+                          "type": "string",
+                          "description": "정류소 위도좌표",
+                          "properties": {}
+                        },
+                        "GPS_LONG": {
+                          "type": "string",
+                          "description": "정류소 경도좌표",
+                          "properties": {}
+                        },
+                        "ROAD_NM": {
+                          "type": "string",
+                          "description": "도로명",
+                          "properties": {}
+                        },
+                        "ROAD_NM_ADDR": {
+                          "type": "string",
+                          "description": "도로명주소",
+                          "properties": {}
+                        },
+                        "ROUTE_NO": {
+                          "type": "string",
+                          "description": "경유노선정보",
+                          "properties": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "xml": {
+                "name": "response"
+              }
+            }
+          }
+        },
+        "tags": [
+          "API 목록"
+        ],
+        "summary": "ARS-ID별 정류소정보",
+        "description": "ARS-ID별 정류소 정보를 조회한다",
+        "operationId": "getStationByUid",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/xml"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "serviceKey",
+          "description": "공공데이터포털에서 받은 인증키",
+          "type": "string",
+          "required": true,
+          "in": "query"
+        },
+        {
+          "name": "arsId",
+          "description": "정류소ID(5자리)",
+          "type": "string",
+          "required": true,
+          "in": "query"
+        }
+      ]
+    }
+  },
+  "definitions": {
+    "getStationByStopID_response": {
+      "type": "object",
+      "properties": {
+        "msgHeader": {
+          "type": "object",
+          "description": "header",
+          "properties": {
+            "itemPageCnt": {
+              "type": "string",
+              "description": "결과 페이지 수"
+            },
+            "currentPage": {
+              "type": "string",
+              "description": "요청된 페이지"
+            },
+            "headerCd": {
+              "type": "string",
+              "description": "결과코드"
+            },
+            "headerMsg": {
+              "type": "string",
+              "description": "결과메세지"
+            },
+            "itemCnt": {
+              "type": "string",
+              "description": "결과값 총 수"
+            }
+          }
+        },
+        "msgBody": {
+          "type": "object",
+          "description": "body",
+          "properties": {
+            "itemList": {
+              "type": "object",
+              "description": "items",
+              "properties": {
+                "ARO_BUSSTOP_ID": {
+                  "type": "string",
+                  "description": "정류소ID(대전5자리)광역(6자리)"
+                },
+                "BUSSTOP_ENG_NM": {
+                  "type": "string",
+                  "description": "정류소영문명칭"
+                },
+                "BUSSTOP_NM": {
+                  "type": "string",
+                  "description": "정류소명칭"
+                },
+                "BUS_NODE_ID": {
+                  "type": "string",
+                  "description": "정류소ID(7자리)"
+                },
+                "GPS_LATI": {
+                  "type": "string",
+                  "description": "정류소 위도좌표"
+                },
+                "GPS_LONG": {
+                  "type": "string",
+                  "description": "정류소 경도좌표"
+                },
+                "ROAD_NM": {
+                  "type": "string",
+                  "description": "도로명"
+                },
+                "ROAD_NM_ADDR": {
+                  "type": "string",
+                  "description": "도로명주소"
+                },
+                "ROUTE_NO": {
+                  "type": "string",
+                  "description": "경유노선정보"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "getStationByUid_response": {
+      "type": "object",
+      "properties": {
+        "msgHeader": {
+          "type": "object",
+          "description": "header",
+          "properties": {
+            "itemPageCnt": {
+              "type": "string",
+              "description": "결과 페이지 수"
+            },
+            "currentPage": {
+              "type": "string",
+              "description": "요청된 페이지"
+            },
+            "headerCd": {
+              "type": "string",
+              "description": "결과코드"
+            },
+            "headerMsg": {
+              "type": "string",
+              "description": "결과메세지"
+            },
+            "itemCnt": {
+              "type": "string",
+              "description": "결과값 총 수"
+            }
+          }
+        },
+        "msgBody": {
+          "type": "object",
+          "description": "body",
+          "properties": {
+            "itemList": {
+              "type": "object",
+              "description": "itemList",
+              "properties": {
+                "ARO_BUSSTOP_ID": {
+                  "type": "string",
+                  "description": "정류소ID (대전5),광역(6))"
+                },
+                "BUSSTOP_ENG_NM": {
+                  "type": "string",
+                  "description": "정류소영문명칭"
+                },
+                "BUSSTOP_NM": {
+                  "type": "string",
+                  "description": "정류소명칭"
+                },
+                "BUS_NODE_ID": {
+                  "type": "string",
+                  "description": "정류소ID(7자리)"
+                },
+                "GPS_LATI": {
+                  "type": "string",
+                  "description": "정류소 위도좌표"
+                },
+                "GPS_LONG": {
+                  "type": "string",
+                  "description": "정류소 경도좌표"
+                },
+                "ROAD_NM": {
+                  "type": "string",
+                  "description": "도로명"
+                },
+                "ROAD_NM_ADDR": {
+                  "type": "string",
+                  "description": "도로명주소"
+                },
+                "ROUTE_NO": {
+                  "type": "string",
+                  "description": "경유노선정보"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

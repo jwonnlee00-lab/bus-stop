@@ -1,0 +1,18 @@
+{
+  "8001096": {
+    "api_stop_id": "8001096",
+    "api_stop_name": "복합터미널",
+    "ars_id": "11830",
+    "latitude": "36.349014",
+    "longitude": "127.43567",
+    "status": "matched"
+  },
+  "8002159": {
+    "api_stop_id": "8002159",
+    "api_stop_name": "아이빌딩",
+    "ars_id": "32190",
+    "latitude": "36.351406",
+    "longitude": "127.38061",
+    "status": "matched"
+  }
+}
