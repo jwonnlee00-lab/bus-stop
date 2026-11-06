@@ -32,3 +32,9 @@ python scripts/geocode_stops.py --run 20261021
 ## 가상 트램 좌표
 
 대전 2호선 45개 정거장의 추정 좌표는 [data/tram_stations_estimated.csv](data/tram_stations_estimated.csv), 검토 지도는 [data/tram_stations_review.html](data/tram_stations_review.html)에 있습니다. 218번을 제외한 44개는 승강장 중심을 확정하지 않은 도로 구간 대표점입니다. 등급·출처와 순환선·지선 연결은 [data/TRAM_COORDINATES.md](data/TRAM_COORDINATES.md)를 참고하세요.
+
+## 트램 경로 계산
+
+Desktop `daejeon-tram-route-lab`에서 기존 단일 순환 계산을 본선·지선 연결 그래프로 교체했습니다. 그래프가 허용하는 방향으로 이동하며, 구간별 예상 이동시간과 중간 정차시간을 합산해 경로를 선택합니다.
+
+[트램 수정 패키지](patches/desktop-tram-only/)에는 서버 패치, 그래프 데이터, 계산 모듈, 테스트가 들어 있습니다. 기존 Desktop 프로젝트에 적용하는 방법과 검증 결과는 [변경 기록](patches/desktop-tram-only/CHANGES.md)을 참고하세요.
