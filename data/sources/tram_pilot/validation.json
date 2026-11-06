@@ -1,0 +1,291 @@
+{
+  "scope": "211/218 pilot; remaining stations not reviewed",
+  "date": "2026-10-21",
+  "crs": "WGS84 / EPSG:4326; CSV latitude then longitude",
+  "osm_snapshot": "2026-10-21T00:52:54Z",
+  "source_pdf_sha256": "285e1c10c9227dcdb61778a6e4b0f0b9e04b1e798ae6da1d9b68f21e58e89b98",
+  "controls": [
+    {
+      "label": "Police SW",
+      "way": 502541396,
+      "vertex": 15,
+      "pixel": [
+        197,
+        239
+      ],
+      "role": "fit",
+      "node_id": 4929876499,
+      "map_lon_lat": [
+        127.380128,
+        36.3582031
+      ],
+      "map_xy": [
+        -123.14273436453341,
+        78.02082116140235
+      ],
+      "way_version": 3,
+      "way_timestamp": "2026-10-13T16:13:12Z",
+      "residual_m": 1.4210854715202004e-14
+    },
+    {
+      "label": "Samsung SW",
+      "way": 502541394,
+      "vertex": 0,
+      "pixel": [
+        1001,
+        316
+      ],
+      "role": "fit",
+      "node_id": 4929876486,
+      "map_lon_lat": [
+        127.3821612,
+        36.3580253
+      ],
+      "map_xy": [
+        59.345598509846674,
+        58.290457026999725
+      ],
+      "way_version": 2,
+      "way_timestamp": "2022-10-31T12:17:04Z",
+      "residual_m": 1.0048591735576161e-14
+    },
+    {
+      "label": "KT NW",
+      "way": 502531462,
+      "vertex": 0,
+      "pixel": [
+        95,
+        995
+      ],
+      "role": "fit",
+      "node_id": 4929822463,
+      "map_lon_lat": [
+        127.3798912,
+        36.3566847
+      ],
+      "map_xy": [
+        -144.39932872899615,
+        -90.46907948675481
+      ],
+      "way_version": 5,
+      "way_timestamp": "2025-02-23T11:15:51Z",
+      "residual_m": 3.1776437161565096e-14
+    },
+    {
+      "label": "Police SE",
+      "way": 502541396,
+      "vertex": 14,
+      "pixel": [
+        423,
+        239
+      ],
+      "role": "check",
+      "node_id": 4929876497,
+      "map_lon_lat": [
+        127.3807307,
+        36.3581981
+      ],
+      "map_xy": [
+        -69.04789475743976,
+        77.46539364213506
+      ],
+      "way_version": 3,
+      "way_timestamp": "2026-10-13T16:13:12Z",
+      "residual_m": 2.856277892193367
+    },
+    {
+      "label": "Samsung SE",
+      "way": 502541394,
+      "vertex": 5,
+      "pixel": [
+        1237,
+        315
+      ],
+      "role": "check",
+      "node_id": 4929876489,
+      "map_lon_lat": [
+        127.3827809,
+        36.3580206
+      ],
+      "map_xy": [
+        114.96639700186927,
+        57.76947729911475
+      ],
+      "way_version": 2,
+      "way_timestamp": "2022-10-31T12:17:04Z",
+      "residual_m": 2.112975067498591
+    },
+    {
+      "label": "KT NE",
+      "way": 502531462,
+      "vertex": 1,
+      "pixel": [
+        403,
+        995
+      ],
+      "role": "check",
+      "node_id": 4929822464,
+      "map_lon_lat": [
+        127.380694,
+        36.3566847
+      ],
+      "map_xy": [
+        -72.3432738423841,
+        -90.46997964745438
+      ],
+      "way_version": 5,
+      "way_timestamp": "2025-02-23T11:15:51Z",
+      "residual_m": 2.4235265442367675
+    },
+    {
+      "label": "Bank NW wing",
+      "way": 502531463,
+      "vertex": 16,
+      "pixel": [
+        620,
+        990
+      ],
+      "role": "check",
+      "node_id": 4929822484,
+      "map_lon_lat": [
+        127.3813251,
+        36.3566662
+      ],
+      "map_xy": [
+        -15.698314625841718,
+        -92.52313117665406
+      ],
+      "way_version": 4,
+      "way_timestamp": "2025-02-23T11:15:51Z",
+      "residual_m": 9.793411345862475
+    },
+    {
+      "label": "Bank NE main",
+      "way": 502531463,
+      "vertex": 1,
+      "pixel": [
+        1223,
+        989
+      ],
+      "role": "check",
+      "node_id": 4929822481,
+      "map_lon_lat": [
+        127.3826576,
+        36.3566795
+      ],
+      "map_xy": [
+        103.90146324051744,
+        -91.04668032727253
+      ],
+      "way_version": 4,
+      "way_timestamp": "2025-02-23T11:15:51Z",
+      "residual_m": 7.624230016259281
+    }
+  ],
+  "image_affine_matrix": [
+    [
+      0.22673855070198215,
+      -0.0031549493983872878
+    ],
+    [
+      0.002474520908914554,
+      -0.22329590672856173
+    ],
+    [
+      -168.40163935005447,
+      132.0100679010109
+    ]
+  ],
+  "platform_pixel_centroid": [
+    735.0,
+    599.0
+  ],
+  "platform_polygon_area_pixels": 15072.0,
+  "check_rmse_m": 5.874287311223725,
+  "check_max_m": 9.793411345862475,
+  "alternative_fit_displacement_m": 3.6086316803738288,
+  "fit_triangle_barycentric_weights": [
+    -0.12309031669151711,
+    0.7202596162279633,
+    0.40283070046355396
+  ],
+  "outside_fit_triangle": true,
+  "distance_to_fit_triangle_m": 15.207115159080233,
+  "interpretation": "Map-to-plan consistency only; not absolute positional accuracy or statistical confidence interval.",
+  "grade_counts": {
+    "A": 1,
+    "B": 1,
+    "C": 0
+  },
+  "reviewed_count": 2,
+  "station_numbers_missing_from_45": [
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245"
+  ],
+  "duplicate_station_numbers": [],
+  "rows": [
+    {
+      "station_no": "211",
+      "station_name": "대전복합터미널",
+      "latitude": "",
+      "longitude": "",
+      "position_type": "unresolved_platform",
+      "confidence": "B",
+      "source_page": "station_locations.pdf#page=13;station_names.pdf#page=1",
+      "map_evidence": "sources/tram_pilot/osm_211_extension_raw.json;https://www.openstreetmap.org/way/30817599",
+      "review_note": "한밭대로 도로 구간만 확인. 도면 승강장과 지도 사이의 확실한 대응점 부족. 주소·건물·버스정류장 좌표로 대체하지 않음."
+    },
+    {
+      "station_no": "218",
+      "station_name": "정부청사(서구청·둔산경찰서·을지대병원)",
+      "latitude": "36.357463",
+      "longitude": "127.381497",
+      "position_type": "platform_pair_centroid",
+      "confidence": "A",
+      "source_page": "station_locations.pdf#page=20;station_names.pdf#page=2",
+      "map_evidence": "sources/tram_pilot/validation.json;https://www.openstreetmap.org/way/502541396;https://www.openstreetmap.org/way/502541394;https://www.openstreetmap.org/way/502531462;https://www.openstreetmap.org/way/502531463",
+      "review_note": "공식 도면 양방향 승강장 영역의 면적가중 중심. 적합 3점·검사 5점 RMSE 5.87m, 최대 9.79m. 절대 위치 정확도와 최신 설계 변경 미검증."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "scope": "two-station pilot only; do not expand to all 45 without user review",
+  "date": "2026-10-21",
+  "official_pdf_sha256": "285e1c10c9227dcdb61778a6e4b0f0b9e04b1e798ae6da1d9b68f21e58e89b98",
+  "official_names_sha256": "44bba0777da7ac514b222a3236846e44c9df4e9629abd884b690fd6fc7fddb56",
+  "official_location_notice": "https://www.daejeon.go.kr/djTram/notify/normalBoardDetail.do?boardId=djTram_0001&menuSeq=6724&ntatcSeq=1464065145",
+  "official_names_notice": "https://www.daejeon.go.kr/djTram/notify/normalBoardDetail.do?boardId=djTram_0001&menuSeq=6724&ntatcSeq=1500763152",
+  "coordinate_map": "OpenStreetMap WGS84 geometry; copyright OpenStreetMap contributors; ODbL https://www.openstreetmap.org/copyright",
+  "source_pages": {
+    "211": 13,
+    "218": 20
+  },
+  "pixel_reference": {
+    "page": 20,
+    "width": 3200,
+    "crop": [
+      1655,
+      745,
+      3065,
+      1885
+    ]
+  },
+  "controls": [
+    {
+      "label": "Police SW",
+      "way": 502541396,
+      "vertex": 15,
+      "pixel": [
+        197,
+        239
+      ],
+      "role": "fit",
+      "node_id": 4929876499
+    },
+    {
+      "label": "Samsung SW",
+      "way": 502541394,
+      "vertex": 0,
+      "pixel": [
+        1001,
+        316
+      ],
+      "role": "fit",
+      "node_id": 4929876486
+    },
+    {
+      "label": "KT NW",
+      "way": 502531462,
+      "vertex": 0,
+      "pixel": [
+        95,
+        995
+      ],
+      "role": "fit",
+      "node_id": 4929822463
+    },
+    {
+      "label": "Police SE",
+      "way": 502541396,
+      "vertex": 14,
+      "pixel": [
+        423,
+        239
+      ],
+      "role": "check",
+      "node_id": 4929876497
+    },
+    {
+      "label": "Samsung SE",
+      "way": 502541394,
+      "vertex": 5,
+      "pixel": [
+        1237,
+        315
+      ],
+      "role": "check",
+      "node_id": 4929876489
+    },
+    {
+      "label": "KT NE",
+      "way": 502531462,
+      "vertex": 1,
+      "pixel": [
+        403,
+        995
+      ],
+      "role": "check",
+      "node_id": 4929822464
+    },
+    {
+      "label": "Bank NW wing",
+      "way": 502531463,
+      "vertex": 16,
+      "pixel": [
+        620,
+        990
+      ],
+      "role": "check",
+      "node_id": 4929822484
+    },
+    {
+      "label": "Bank NE main",
+      "way": 502531463,
+      "vertex": 1,
+      "pixel": [
+        1223,
+        989
+      ],
+      "role": "check",
+      "node_id": 4929822481
+    }
+  ],
+  "platform_polygons_218": [
+    [
+      [
+        578,
+        560
+      ],
+      [
+        892,
+        560
+      ],
+      [
+        892,
+        584
+      ],
+      [
+        578,
+        584
+      ]
+    ],
+    [
+      [
+        578,
+        614
+      ],
+      [
+        892,
+        614
+      ],
+      [
+        892,
+        638
+      ],
+      [
+        578,
+        638
+      ]
+    ]
+  ],
+  "platform_interpretation": "Two approximately rectangular gray platform footprints; area-weighted centroid of their union. Rounded ends approximated symmetrically. No address/building/station POI substituted.",
+  "manual_pixel_uncertainty_note": "Manually digitized raster image; line width and visual corner choice are uncertain. Holdout residuals do not measure absolute ground accuracy."
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "station_no": 231,
+    "official_page": 33,
+    "official_overview_pixel": [
+      427,
+      878
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.314019024198345,
+    "longitude": 127.33502476231529,
+    "alignment_way": 1471622325,
+    "alignment_way_version": 2,
+    "segment": 12,
+    "segment_fraction": 0.36993682043141424,
+    "nearest_road": {
+      "latitude": 36.31401814181495,
+      "longitude": 127.33510379293433,
+      "way": 1154256537,
+      "way_version": 15,
+      "segment": 6,
+      "fraction": 0.6768515330043713,
+      "distance_m": 7.098011349823948,
+      "name": "도안대로"
+    },
+    "review_note": "도안3단계 개발계획지·대정 공공지원 민간임대주택 구역 서측 도안대로 구간."
+  },
+  {
+    "station_no": 232,
+    "official_page": 34,
+    "official_overview_pixel": [
+      432,
+      935
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.306360176186956,
+    "longitude": 127.33486960383883,
+    "alignment_way": 1471622325,
+    "alignment_way_version": 2,
+    "segment": 21,
+    "segment_fraction": 0.21507885558293754,
+    "nearest_road": {
+      "latitude": 36.30636122355279,
+      "longitude": 127.33476751446277,
+      "way": 114676580,
+      "way_version": 21,
+      "segment": 2,
+      "fraction": 0.9896694319342982,
+      "distance_m": 9.169758500130554,
+      "name": "도안대로"
+    },
+    "review_note": "원앙네거리 북측 도안대로·어린이재활병원 측 구간."
+  },
+  {
+    "station_no": 233,
+    "official_page": 35,
+    "official_overview_pixel": [
+      437,
+      987
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.3012648,
+    "longitude": 127.3365719,
+    "alignment_way": 1471622338,
+    "alignment_way_version": 1,
+    "segment": 27,
+    "segment_fraction": 1.0,
+    "nearest_road": {
+      "latitude": 36.30141693839139,
+      "longitude": 127.33653564589135,
+      "way": 33198331,
+      "way_version": 11,
+      "segment": 5,
+      "fraction": 0.00041458716050901814,
+      "distance_m": 17.193160967059125,
+      "name": ""
+    },
+    "review_note": "관저네거리 동측 계백로·진잠지선 분기 인근 구간."
+  },
+  {
+    "station_no": 234,
+    "official_page": 36,
+    "official_overview_pixel": [
+      503,
+      974
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.30308727587792,
+    "longitude": 127.34358990450572,
+    "alignment_way": 1471622338,
+    "alignment_way_version": 1,
+    "segment": 34,
+    "segment_fraction": 0.6440049766160422,
+    "nearest_road": {
+      "latitude": 36.30305415651592,
+      "longitude": 127.34360165676551,
+      "way": 883802468,
+      "way_version": 11,
+      "segment": 0,
+      "fraction": 0.7144329954749903,
+      "distance_m": 3.8236633052624525,
+      "name": "계백로"
+    },
+    "review_note": "건양대병원 남측 계백로·관저리슈빌 측 구간."
+  },
+  {
+    "station_no": 235,
+    "official_page": 37,
+    "official_overview_pixel": [
+      588,
+      961
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.30508098023564,
+    "longitude": 127.35313773091531,
+    "alignment_way": 1471622338,
+    "alignment_way_version": 1,
+    "segment": 42,
+    "segment_fraction": 0.928711095700892,
+    "nearest_road": {
+      "latitude": 36.305062356198675,
+      "longitude": 127.35314448891386,
+      "way": 972224218,
+      "way_version": 4,
+      "segment": 4,
+      "fraction": 0.28288758532258784,
+      "distance_m": 2.153901321692662,
+      "name": "계백로"
+    },
+    "review_note": "가수원네거리 서측 계백로·가수원클리닉 측 구간."
+  },
+  {
+    "station_no": 236,
+    "official_page": 38,
+    "official_overview_pixel": [
+      688,
+      938
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.30761719308961,
+    "longitude": 127.3643964265949,
+    "alignment_way": 1471622344,
+    "alignment_way_version": 1,
+    "segment": 7,
+    "segment_fraction": 0.33366348562444975,
+    "nearest_road": {
+      "latitude": 36.30763904804123,
+      "longitude": 127.36446875750715,
+      "way": 1412170761,
+      "way_version": 1,
+      "segment": 0,
+      "fraction": 0.4710104717929785,
+      "distance_m": 6.934108334602099,
+      "name": "정림로"
+    },
+    "review_note": "정림삼거리 인근 계백로·정림지구 접근 구간."
+  },
+  {
+    "station_no": 237,
+    "official_page": 39,
+    "official_overview_pixel": [
+      762,
+      920
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.31012220140414,
+    "longitude": 127.3725742918872,
+    "alignment_way": 1471622344,
+    "alignment_way_version": 1,
+    "segment": 20,
+    "segment_fraction": 0.36392108055172073,
+    "nearest_road": {
+      "latitude": 36.31007892472956,
+      "longitude": 127.37260266224916,
+      "way": 1193710085,
+      "way_version": 1,
+      "segment": 0,
+      "fraction": 0.7380883293804216,
+      "distance_m": 5.4362587668905284,
+      "name": "계백로"
+    },
+    "review_note": "도마삼거리 인근 계백로·도마복수 재정비구역 남측 구간."
+  },
+  {
+    "station_no": 238,
+    "official_page": 40,
+    "official_overview_pixel": [
+      833,
+      892
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.313415368038434,
+    "longitude": 127.38085284163415,
+    "alignment_way": 1383029340,
+    "alignment_way_version": 6,
+    "segment": 7,
+    "segment_fraction": 0.08286045672579541,
+    "nearest_road": {
+      "latitude": 36.31338045619194,
+      "longitude": 127.38087769712058,
+      "way": 979798959,
+      "way_version": 7,
+      "segment": 1,
+      "fraction": 0.4124546779222269,
+      "distance_m": 4.471053606328763,
+      "name": "계백로"
+    },
+    "review_note": "도마네거리 서측 계백로·도마큰시장 측 구간."
+  },
+  {
+    "station_no": 239,
+    "official_page": 41,
+    "official_overview_pixel": [
+      906,
+      870
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.31629474953318,
+    "longitude": 127.38930377883668,
+    "alignment_way": 1383029340,
+    "alignment_way_version": 6,
+    "segment": 13,
+    "segment_fraction": 0.5697910916232333,
+    "nearest_road": {
+      "latitude": 36.31625570285777,
+      "longitude": 127.38931925582371,
+      "way": 1194163144,
+      "way_version": 2,
+      "segment": 1,
+      "fraction": 0.9495123089643526,
+      "distance_m": 4.550271779823904,
+      "name": "계백로"
+    },
+    "review_note": "버드내네거리 인근 계백로·버드내마을아파트 남측 구간."
+  },
+  {
+    "station_no": 240,
+    "official_page": 42,
+    "official_overview_pixel": [
+      962,
+      857
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.31794131366062,
+    "longitude": 127.39564993332182,
+    "alignment_way": 1383029340,
+    "alignment_way_version": 6,
+    "segment": 17,
+    "segment_fraction": 0.08605835050274495,
+    "nearest_road": {
+      "latitude": 36.31795751792631,
+      "longitude": 127.39564321390606,
+      "way": 28579286,
+      "way_version": 19,
+      "segment": 3,
+      "fraction": 0.10873776035555387,
+      "distance_m": 1.8966496167263842,
+      "name": "계백로"
+    },
+    "review_note": "유천시장 북측 계백로·서대전농협 측 구간."
+  }
+]

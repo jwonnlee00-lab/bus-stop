@@ -1,0 +1,134 @@
+{
+  "source_pdf": "C:/Users/User/Downloads/2025 대전광역시 교통현황조사 및 분석 보고서업로드용.pdf",
+  "source_pdf_sha256": "c5d1b568530daf242a66216b883729891af9ae7d4075ea09f594a4743f21a9e2",
+  "source_pages": {
+    "pdf": [
+      337,
+      338,
+      339,
+      340
+    ],
+    "printed": [
+      331,
+      332,
+      333,
+      334
+    ],
+    "graph_only_pdf_page": 337
+  },
+  "extraction_method": "이미지 기반 PDF를 렌더링하고 108개 행을 직접 전사. Windows 한국어 OCR의 위치별 숫자와 대조 후 원본 이미지 확인. OCR을 최종 값으로 자동 채택하지 않음.",
+  "units": "km/h",
+  "periods": {
+    "morning": "07:00–09:00",
+    "midday": "12:00–14:00",
+    "evening": "17:00–19:00"
+  },
+  "extracted_route_count": 108,
+  "table_route_rows_by_pdf_page": {
+    "338": 41,
+    "339": 41,
+    "340": 26
+  },
+  "numeric_review": {
+    "total_cells": 432,
+    "ocr_digits_agree": 368,
+    "ocr_disagreements_visually_resolved": 64,
+    "unresolved_numeric_cells": 0,
+    "evidence": "data/sources/bus_speed_2025/ocr_comparison.json",
+    "column_order": [
+      "오전",
+      "낮",
+      "오후",
+      "전체 평균"
+    ],
+    "visual_source_review_completed": true
+  },
+  "category_counts": {
+    "급행": 4,
+    "도시": 70,
+    "외곽": 34
+  },
+  "missing_table_rows": [],
+  "duplicate_route_numbers": [],
+  "numeric_uncertainties": [],
+  "name_uncertainties": [
+    {
+      "route_no": "33-2",
+      "field": "route_name",
+      "note": "PDF 340쪽 도착지의 마지막 글자가 동/창으로 불명확해 [판독불확실]로 보존. 속도 네 값은 판독 가능. 자동 연결 보류."
+    }
+  ],
+  "report_summary_rows": [
+    {
+      "category": "급행",
+      "values": [
+        23.0,
+        23.0,
+        21.1,
+        22.4
+      ],
+      "pdf_page": 338
+    },
+    {
+      "category": "도시",
+      "values": [
+        20.6,
+        20.3,
+        18.7,
+        19.9
+      ],
+      "pdf_page": 339
+    },
+    {
+      "category": "외곽",
+      "values": [
+        25.7,
+        25.0,
+        24.1,
+        24.9
+      ],
+      "pdf_page": 340
+    },
+    {
+      "category": "전체",
+      "values": [
+        22.3,
+        21.9,
+        20.5,
+        21.6
+      ],
+      "pdf_page": 340
+    }
+  ],
+  "route_106": {
+    "speed_morning": 20.0,
+    "speed_midday": 19.7,
+    "speed_evening": 18.0,
+    "speed_average": 19.2
+  },
+  "matching_counts": {
+    "target_2026_route_ids": 169,
+    "metadata_matched_ids": 54,
+    "unmatched_ids": 115,
+    "matched_report_numbers": 54,
+    "unmatched_report_numbers": 54,
+    "reasons": {
+      "not_in_2025_report": 61,
+      "number_and_named_endpoints_match": 54,
+      "route_name_or_endpoints_differ_review_required": 52,
+      "report_name_uncertain": 1,
+      "route_id_unverified": 1
+    }
+  },
+  "matching_limit": "번호와 표기된 양 끝 지점이 일치한 경우만 연결 후보로 인정. 약칭·시설 별명·다른 ID·노선 번호를 추정 변환하지 않음. 2025년 전체 경유 순서는 표에 없어 중간 구간 변경을 검증할 수 없으므로 자동 적용은 전부 보류. 보고서에 없는 노선과 보류 노선의 값은 null이며 전체 평균 대체 없음.",
+  "original_input_sha256": {
+    "data\\bus_routes.csv": "1feaf74e39808b337cbf1f1226dd87b0b68402e35e7a15693e1226004436bb75",
+    "data\\bus_route_stops.csv": "e97d5beab646992edd2a2307cbdd3544845fa940f606b64785af888f1f6553b6",
+    "data\\bus_stops.csv": "4084f01dfb6a0799d898a7762e769eba2890b575cb2997d09cbde66d032981c1",
+    "data\\bus_stops_geocoded.csv": "bfbe4e0e21fb5f941dc48d3a1ed0182569944572214dac65a87b261a4745e899",
+    "data\\tram_route_edges.csv": "b3f595fa4f050bfba5a26eb0e84de2d3647b7ebbdc19c846ece8849b01e9a3aa",
+    "data\\tram_stations_estimated.csv": "5c188cf83785a7eb60b823feecd101ba64a90e64a357092b74fece486adab2ff",
+    "data\\bus_routing\\bus_routing.json": "51716054c7a9ce93cf584b5044b0f20cf7ebb8fca22c4703cd6d59071de510f3"
+  },
+  "originals_unchanged": true
+}

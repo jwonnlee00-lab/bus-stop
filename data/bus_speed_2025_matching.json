@@ -1,0 +1,4466 @@
+{
+  "routes_2026": [
+    {
+      "rte_id": "29010027",
+      "route_no_2026": "300산성동-충남대",
+      "route_name_2026": "산성동.시내버스-충남대학교",
+      "comparison_route_no": "300산성동-충남대",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "29010029",
+      "route_no_2026": "302산성동-충남대",
+      "route_name_2026": "산성동.시내버스-충남대학교",
+      "comparison_route_no": "302산성동-충남대",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "29010036",
+      "route_no_2026": "340신원사-충남대",
+      "route_name_2026": "신원사-충남대학교",
+      "comparison_route_no": "340신원사-충남대",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "29010038",
+      "route_no_2026": "342충남대-갑사",
+      "route_name_2026": "충남대학교-갑사",
+      "comparison_route_no": "342충남대-갑사",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "29010151",
+      "route_no_2026": "300충남대-산성동",
+      "route_name_2026": "충남대학교-산성동.시내버스",
+      "comparison_route_no": "300충남대-산성동",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "29010163",
+      "route_no_2026": "340충남대-신원사",
+      "route_name_2026": "충남대학교-신원사",
+      "comparison_route_no": "340충남대-신원사",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "29022140",
+      "route_no_2026": "81",
+      "route_name_2026": "81",
+      "comparison_route_no": "81",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "30300001",
+      "route_no_2026": "1",
+      "route_name_2026": "1번(마을.충대농대종점청벽산공원)",
+      "comparison_route_no": "1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300002",
+      "route_no_2026": "2",
+      "route_name_2026": "2번(봉산동대전역동광장)",
+      "comparison_route_no": "2",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300003",
+      "route_no_2026": "3",
+      "route_name_2026": "3번(마을.군인아파트한아름아파트)",
+      "comparison_route_no": "3",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300004",
+      "route_no_2026": "5",
+      "route_name_2026": "5번(마을.봉산동목련아파트)",
+      "comparison_route_no": "5",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300005",
+      "route_no_2026": "11",
+      "route_name_2026": "11번(수통골용계동)",
+      "comparison_route_no": "11",
+      "report_route_no": "11",
+      "report_route_name": "11번(수통골-용계동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.4,
+        "speed_midday": 20.8,
+        "speed_evening": 19.3,
+        "speed_average": 20.8
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300006",
+      "route_no_2026": "21",
+      "route_name_2026": "21번(서남부터미널대둔산수락계곡)",
+      "comparison_route_no": "21",
+      "report_route_no": "21",
+      "report_route_name": "21번(서남부터미널-대둔산수락계곡)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 30.8,
+        "speed_midday": 30.2,
+        "speed_evening": 30.4,
+        "speed_average": 30.5
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300007",
+      "route_no_2026": "22",
+      "route_name_2026": "22번(서남부터미널장안동종점)",
+      "comparison_route_no": "22",
+      "report_route_no": "22",
+      "report_route_name": "22번(서남부터미널-장안동종점)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 29.0,
+        "speed_midday": 27.2,
+        "speed_evening": 27.1,
+        "speed_average": 27.8
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300008",
+      "route_no_2026": "23",
+      "route_name_2026": "23번(서남부터미널무도리종점)",
+      "comparison_route_no": "23",
+      "report_route_no": "23",
+      "report_route_name": "23번(서남부터미널-원정동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300009",
+      "route_no_2026": "24",
+      "route_name_2026": "24번(서남부터미널우명동종점)",
+      "comparison_route_no": "24",
+      "report_route_no": "24",
+      "report_route_name": "24번(서남부터미널-우명동종점)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 33.4,
+        "speed_midday": 32.0,
+        "speed_evening": 32.0,
+        "speed_average": 32.5
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300010",
+      "route_no_2026": "25",
+      "route_name_2026": "25번(서남부터미널봉곡동종점)",
+      "comparison_route_no": "25",
+      "report_route_no": "25",
+      "report_route_name": "25번(서남부터미널-봉곡동종점)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 30.5,
+        "speed_midday": 29.1,
+        "speed_evening": 29.1,
+        "speed_average": 29.6
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300011",
+      "route_no_2026": "26",
+      "route_name_2026": "26번(서남부터미널평촌동종점)",
+      "comparison_route_no": "26",
+      "report_route_no": "26",
+      "report_route_name": "26번(서남부터미널-평촌동종점)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 33.6,
+        "speed_midday": 32.1,
+        "speed_evening": 31.8,
+        "speed_average": 32.5
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300012",
+      "route_no_2026": "27",
+      "route_name_2026": "27번(서남부터미널흑석)",
+      "comparison_route_no": "27",
+      "report_route_no": "27",
+      "report_route_name": "27번(서남부터미널-흑석동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300013",
+      "route_no_2026": "30",
+      "route_name_2026": "30번(낭월차고지대전역동광장)",
+      "comparison_route_no": "30",
+      "report_route_no": "30",
+      "report_route_name": "30번(낭월차고지-대전역동광장)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.4,
+        "speed_midday": 22.3,
+        "speed_evening": 21.3,
+        "speed_average": 22.0
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300014",
+      "route_no_2026": "31",
+      "route_name_2026": "31번(서남부터미널원동네거리)",
+      "comparison_route_no": "31",
+      "report_route_no": "31",
+      "report_route_name": "31번(원동네거리-대흥동우체국)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300015",
+      "route_no_2026": "32",
+      "route_name_2026": "32번(서남부터미널백암리)",
+      "comparison_route_no": "32",
+      "report_route_no": "32",
+      "report_route_name": "32번(서남부터미널-백암리)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 24.9,
+        "speed_midday": 24.8,
+        "speed_evening": 24.0,
+        "speed_average": 24.6
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300016",
+      "route_no_2026": "34",
+      "route_name_2026": "34번(서남부터미널진산면)",
+      "comparison_route_no": "34",
+      "report_route_no": "34",
+      "report_route_name": "34번(서남부터미널-대둔산휴게소)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300017",
+      "route_no_2026": "41",
+      "route_name_2026": "41번(서남부터미널성북동)",
+      "comparison_route_no": "41",
+      "report_route_no": "41",
+      "report_route_name": "41번(서남부터미널-국립대전숲체원)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300018",
+      "route_no_2026": "42",
+      "route_name_2026": "42번(서남부터미널세동)",
+      "comparison_route_no": "42",
+      "report_route_no": "42",
+      "report_route_name": "42번(서남부터미널-세동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 28.6,
+        "speed_midday": 28.0,
+        "speed_evening": 26.6,
+        "speed_average": 27.7
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300021",
+      "route_no_2026": "46",
+      "route_name_2026": "46번(서남부터미널송정동)",
+      "comparison_route_no": "46",
+      "report_route_no": "46",
+      "report_route_name": "46번(서남부터미널-송정동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 28.5,
+        "speed_midday": 28.4,
+        "speed_evening": 27.1,
+        "speed_average": 28.0
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300025",
+      "route_no_2026": "52",
+      "route_name_2026": "52번(대전역동광장종점상소룡골)",
+      "comparison_route_no": "52",
+      "report_route_no": "52",
+      "report_route_name": "52번(대전역-산정마을)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300026",
+      "route_no_2026": "60",
+      "route_name_2026": "60번(대전역직동종점)",
+      "comparison_route_no": "60",
+      "report_route_no": "60",
+      "report_route_name": "60번(대전역-직동종점)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 25.1,
+        "speed_midday": 24.3,
+        "speed_evening": 23.5,
+        "speed_average": 24.3
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300027",
+      "route_no_2026": "61-1",
+      "route_name_2026": "61-1번(냉천.대전대냉천)",
+      "comparison_route_no": "61-1",
+      "report_route_no": "61-1",
+      "report_route_name": "61-1번(대전대-냉천끝)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300028",
+      "route_no_2026": "61-2",
+      "route_name_2026": "61-2번(천개동.대전대천개동)",
+      "comparison_route_no": "61-2",
+      "report_route_no": "61-2",
+      "report_route_name": "61-2번(대전대-천개동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300029",
+      "route_no_2026": "62",
+      "route_name_2026": "62번(대전역/중앙시장항곡리)",
+      "comparison_route_no": "62",
+      "report_route_no": "62",
+      "report_route_name": "62번(대전역동광장-항곡리)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300030",
+      "route_no_2026": "63",
+      "route_name_2026": "63번(대전역회남리)",
+      "comparison_route_no": "63",
+      "report_route_no": "63",
+      "report_route_name": "63번(대전역-회남리)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 26.2,
+        "speed_midday": 26.2,
+        "speed_evening": 25.4,
+        "speed_average": 25.9
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300034",
+      "route_no_2026": "74",
+      "route_name_2026": "74번(대한통운장동2구)",
+      "comparison_route_no": "74",
+      "report_route_no": "74",
+      "report_route_name": "74번(대한통운-장동2구)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 23.4,
+        "speed_midday": 23.1,
+        "speed_evening": 22.1,
+        "speed_average": 22.9
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300035",
+      "route_no_2026": "75",
+      "route_name_2026": "75번(세종고속시외버스터미널보훈병원종점)",
+      "comparison_route_no": "75",
+      "report_route_no": "75",
+      "report_route_name": "75번(신탄진(보훈)-세종고속시외버스터미널)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300036",
+      "route_no_2026": "101",
+      "route_name_2026": "101번(안산동대성여고)",
+      "comparison_route_no": "101",
+      "report_route_no": "101",
+      "report_route_name": "101번(안산동-대성여고)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.4,
+        "speed_midday": 22.5,
+        "speed_evening": 20.1,
+        "speed_average": 21.7
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300037",
+      "route_no_2026": "102",
+      "route_name_2026": "102번(수통골대전역)",
+      "comparison_route_no": "102",
+      "report_route_no": "102",
+      "report_route_name": "102번(수통골-대전역)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.1,
+        "speed_midday": 20.4,
+        "speed_evening": 18.8,
+        "speed_average": 20.1
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300038",
+      "route_no_2026": "103",
+      "route_name_2026": "103번(신대차고지구암동기점)",
+      "comparison_route_no": "103",
+      "report_route_no": "103",
+      "report_route_name": "103번(수통골-동춘당)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300039",
+      "route_no_2026": "104",
+      "route_name_2026": "104번(수통골탄방역)",
+      "comparison_route_no": "104",
+      "report_route_no": "104",
+      "report_route_name": "104번(수통골-탄방역)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.7,
+        "speed_midday": 20.9,
+        "speed_evening": 19.4,
+        "speed_average": 20.7
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300040",
+      "route_no_2026": "105",
+      "route_name_2026": "105번(충대농대비래삼호A)",
+      "comparison_route_no": "105",
+      "report_route_no": "105",
+      "report_route_name": "105번(충대농대-비래삼호A)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 19.4,
+        "speed_midday": 18.8,
+        "speed_evening": 17.3,
+        "speed_average": 18.5
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300041",
+      "route_no_2026": "106",
+      "route_name_2026": "106번(목원대비래동)",
+      "comparison_route_no": "106",
+      "report_route_no": "106",
+      "report_route_name": "106번(목원대-비래동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.0,
+        "speed_midday": 19.7,
+        "speed_evening": 18.0,
+        "speed_average": 19.2
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300042",
+      "route_no_2026": "107",
+      "route_name_2026": "107번(대전역동학사)",
+      "comparison_route_no": "107",
+      "report_route_no": "107",
+      "report_route_name": "107번(대전역-동학사)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.3,
+        "speed_midday": 21.8,
+        "speed_evening": 20.7,
+        "speed_average": 21.6
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300043",
+      "route_no_2026": "108",
+      "route_name_2026": "108번(충대농대낭월공영차고지)",
+      "comparison_route_no": "108",
+      "report_route_no": "108",
+      "report_route_name": "108번(충대농대-낭월차고지)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300045",
+      "route_no_2026": "113",
+      "route_name_2026": "113번(서남부터미널학의뜰아파트)",
+      "comparison_route_no": "113",
+      "report_route_no": "113",
+      "report_route_name": "113번(서남부터미널-학하동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300046",
+      "route_no_2026": "114",
+      "route_name_2026": "114번(원내동노은휴먼시아4단지)",
+      "comparison_route_no": "114",
+      "report_route_no": "114",
+      "report_route_name": "114번(원내차고지-노은4단지)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300047",
+      "route_no_2026": "115",
+      "route_name_2026": "115번(오월드기점지충대농대)",
+      "comparison_route_no": "115",
+      "report_route_no": "115",
+      "report_route_name": "115번(오월드-충대농대)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300048",
+      "route_no_2026": "116",
+      "route_name_2026": "116번(안산동월평주공)",
+      "comparison_route_no": "116",
+      "report_route_no": "116",
+      "report_route_name": "116번(안산동-월평주공)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.3,
+        "speed_midday": 21.1,
+        "speed_evening": 19.1,
+        "speed_average": 20.5
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300049",
+      "route_no_2026": "119",
+      "route_name_2026": "119번(안산동효동네거리)",
+      "comparison_route_no": "119",
+      "report_route_no": "119",
+      "report_route_name": "119번(안산동-효동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300050",
+      "route_no_2026": "121",
+      "route_name_2026": "121번(탑립동대덕대학)",
+      "comparison_route_no": "121",
+      "report_route_no": "121",
+      "report_route_name": "121번(탑립동-대덕대학)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 23.1,
+        "speed_midday": 22.8,
+        "speed_evening": 20.3,
+        "speed_average": 22.1
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300051",
+      "route_no_2026": "201",
+      "route_name_2026": "201번(원내동비래동)",
+      "comparison_route_no": "201",
+      "report_route_no": "201",
+      "report_route_name": "201번(원내차고지-대전IC)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300052",
+      "route_no_2026": "202",
+      "route_name_2026": "202번(대전역신도안)",
+      "comparison_route_no": "202",
+      "report_route_no": "202",
+      "report_route_name": "202번(대전역-신도안APT)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300053",
+      "route_no_2026": "211",
+      "route_name_2026": "211번(구암동기점정부청사광장)",
+      "comparison_route_no": "211",
+      "report_route_no": "211",
+      "report_route_name": "211번(화훼터미널-정부청사)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300054",
+      "route_no_2026": "301",
+      "route_name_2026": "301번(봉산동오월드기점지)",
+      "comparison_route_no": "301",
+      "report_route_no": "301",
+      "report_route_name": "301번(봉산동-오월드)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300055",
+      "route_no_2026": "311",
+      "route_name_2026": "311번(신대차고지오월드기점지)",
+      "comparison_route_no": "311",
+      "report_route_no": "311",
+      "report_route_name": "311번(신대차고지-오월드)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300056",
+      "route_no_2026": "312",
+      "route_name_2026": "312번(목원대학교효문화마을)",
+      "comparison_route_no": "312",
+      "report_route_no": "312",
+      "report_route_name": "312번(목원대학교-뿌리공원)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300057",
+      "route_no_2026": "313",
+      "route_name_2026": "313번(대전동신과학고효문화마을)",
+      "comparison_route_no": "313",
+      "report_route_no": "313",
+      "report_route_name": "313번(동신과학고-뿌리공원)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300058",
+      "route_no_2026": "314",
+      "route_name_2026": "314번(오월드동춘당)",
+      "comparison_route_no": "314",
+      "report_route_no": "314",
+      "report_route_name": "314번(오월드-동춘당)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.1,
+        "speed_midday": 19.6,
+        "speed_evening": 17.9,
+        "speed_average": 19.2
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300059",
+      "route_no_2026": "315",
+      "route_name_2026": "315번(오월드향촌아파트)",
+      "comparison_route_no": "315",
+      "report_route_no": "315",
+      "report_route_name": "315번(오월드-향촌아파트)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.8,
+        "speed_midday": 20.6,
+        "speed_evening": 19.1,
+        "speed_average": 20.1
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300060",
+      "route_no_2026": "316",
+      "route_name_2026": "316번(대한통운검바위)",
+      "comparison_route_no": "316",
+      "report_route_no": "316",
+      "report_route_name": "316번(대한통운-한빛고)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300061",
+      "route_no_2026": "317",
+      "route_name_2026": "317번(대전역동광장대전역동광장)",
+      "comparison_route_no": "317",
+      "report_route_no": "317",
+      "report_route_name": "317번(대전역-대전역)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300062",
+      "route_no_2026": "318",
+      "route_name_2026": "318번(오월드대덕대학)",
+      "comparison_route_no": "318",
+      "report_route_no": "318",
+      "report_route_name": "318번(오월드-대덕대학)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.3,
+        "speed_midday": 21.4,
+        "speed_evening": 19.7,
+        "speed_average": 20.8
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300063",
+      "route_no_2026": "501",
+      "route_name_2026": "501번(비래동마전)",
+      "comparison_route_no": "501",
+      "report_route_no": "501",
+      "report_route_name": "501번(비래동-마전)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 24.5,
+        "speed_midday": 23.9,
+        "speed_evening": 23.1,
+        "speed_average": 23.8
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300064",
+      "route_no_2026": "511",
+      "route_name_2026": "511번(낭월공영차고지중촌주공2)",
+      "comparison_route_no": "511",
+      "report_route_no": "511",
+      "report_route_name": "511번(낭월공영차고지-중촌동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300065",
+      "route_no_2026": "512",
+      "route_name_2026": "512번(대한통운구도동)",
+      "comparison_route_no": "512",
+      "report_route_no": "512",
+      "report_route_name": "512번(대한통운-구도동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.0,
+        "speed_midday": 20.1,
+        "speed_evening": 18.6,
+        "speed_average": 19.6
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300066",
+      "route_no_2026": "513",
+      "route_name_2026": "513번(낭월차고지검바위)",
+      "comparison_route_no": "513",
+      "report_route_no": "513",
+      "report_route_name": "513번(낭월차고지-검바위)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.8,
+        "speed_midday": 21.8,
+        "speed_evening": 20.2,
+        "speed_average": 21.3
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300067",
+      "route_no_2026": "514",
+      "route_name_2026": "514번(낭월차고지만년동)",
+      "comparison_route_no": "514",
+      "report_route_no": "514",
+      "report_route_name": "514번(낭월차고지-만년동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 19.1,
+        "speed_midday": 19.0,
+        "speed_evening": 17.6,
+        "speed_average": 18.6
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300068",
+      "route_no_2026": "601",
+      "route_name_2026": "601번(구암동기점지비래동)",
+      "comparison_route_no": "601",
+      "report_route_no": "601",
+      "report_route_name": "601번(비래동-구암동기점지)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.3,
+        "speed_midday": 21.1,
+        "speed_evening": 19.8,
+        "speed_average": 20.8
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300069",
+      "route_no_2026": "602",
+      "route_name_2026": "602번(비래동월평주공)",
+      "comparison_route_no": "602",
+      "report_route_no": "602",
+      "report_route_name": "602번(비래동-월평주공)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 17.3,
+        "speed_midday": 16.9,
+        "speed_evening": 15.3,
+        "speed_average": 16.5
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300070",
+      "route_no_2026": "603",
+      "route_name_2026": "603번(목원대학교대전대학교)",
+      "comparison_route_no": "603",
+      "report_route_no": "603",
+      "report_route_name": "603번(목원대학교-대전대학교)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 18.5,
+        "speed_midday": 17.8,
+        "speed_evening": 17.0,
+        "speed_average": 17.8
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300071",
+      "route_no_2026": "604",
+      "route_name_2026": "604번(대전동신과학고충렬사삼거리)",
+      "comparison_route_no": "604",
+      "report_route_no": "604",
+      "report_route_name": "604번(대전동신과학고-충렬사삼거리)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.1,
+        "speed_midday": 21.7,
+        "speed_evening": 19.8,
+        "speed_average": 21.2
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300072",
+      "route_no_2026": "605",
+      "route_name_2026": "605번(대전대동문갈마아파트)",
+      "comparison_route_no": "605",
+      "report_route_no": "605",
+      "report_route_name": "605번(대전대동문-갈마아파트)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 19.7,
+        "speed_midday": 19.3,
+        "speed_evening": 17.8,
+        "speed_average": 18.9
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300073",
+      "route_no_2026": "606",
+      "route_name_2026": "606번(대전동신과학고충렬사삼거리)",
+      "comparison_route_no": "606",
+      "report_route_no": "606",
+      "report_route_name": "606번(대전동신과학고-충렬사삼거리)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.3,
+        "speed_midday": 22.2,
+        "speed_evening": 20.4,
+        "speed_average": 21.6
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300074",
+      "route_no_2026": "607",
+      "route_name_2026": "607번(비래동종점옥천)",
+      "comparison_route_no": "607",
+      "report_route_no": "607",
+      "report_route_name": "607번(비래동종점-옥천)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 24.4,
+        "speed_midday": 23.8,
+        "speed_evening": 22.5,
+        "speed_average": 23.6
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300075",
+      "route_no_2026": "611",
+      "route_name_2026": "611번(신대차고지세천공원)",
+      "comparison_route_no": "611",
+      "report_route_no": "611",
+      "report_route_name": "611번(신대차고지-세천공원)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.5,
+        "speed_midday": 20.2,
+        "speed_evening": 18.9,
+        "speed_average": 19.9
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300076",
+      "route_no_2026": "612",
+      "route_name_2026": "612번(대전동신과학고배재대학교)",
+      "comparison_route_no": "612",
+      "report_route_no": "612",
+      "report_route_name": "612번(대전동신과학고-배재대학교)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 18.9,
+        "speed_midday": 18.2,
+        "speed_evening": 17.2,
+        "speed_average": 18.1
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300077",
+      "route_no_2026": "613",
+      "route_name_2026": "613번(비래동갈마아파트)",
+      "comparison_route_no": "613",
+      "report_route_no": "613",
+      "report_route_name": "613번(비래동-갈마아파트)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 19.2,
+        "speed_midday": 18.1,
+        "speed_evening": 16.5,
+        "speed_average": 18.0
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300078",
+      "route_no_2026": "614",
+      "route_name_2026": "614번(대한통운어덕마을)",
+      "comparison_route_no": "614",
+      "report_route_no": "614",
+      "report_route_name": "614번(대한통운-용두4)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300079",
+      "route_no_2026": "615",
+      "route_name_2026": "615번(대한통운정림동종점)",
+      "comparison_route_no": "615",
+      "report_route_no": "615",
+      "report_route_name": "615번(대한통운-정림동종점)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 18.6,
+        "speed_midday": 18.2,
+        "speed_evening": 16.4,
+        "speed_average": 17.7
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300080",
+      "route_no_2026": "616",
+      "route_name_2026": "616번(대전역대전역)",
+      "comparison_route_no": "616",
+      "report_route_no": "616",
+      "report_route_name": "616번(대전역-대전역)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 18.8,
+        "speed_midday": 19.1,
+        "speed_evening": 17.5,
+        "speed_average": 18.5
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300081",
+      "route_no_2026": "617",
+      "route_name_2026": "617번(비래동변동5가)",
+      "comparison_route_no": "617",
+      "report_route_no": "617",
+      "report_route_name": "617번(비래동-변동5)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300082",
+      "route_no_2026": "618",
+      "route_name_2026": "618번(대전동신과학고스마트시티)",
+      "comparison_route_no": "618",
+      "report_route_no": "618",
+      "report_route_name": "618번(대전동신과학고-대전컨벤션센터)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300083",
+      "route_no_2026": "619",
+      "route_name_2026": "619번(대전동신과학고서대전여고)",
+      "comparison_route_no": "619",
+      "report_route_no": "619",
+      "report_route_name": "619번(대전동신과학고-서대전여고)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 19.4,
+        "speed_midday": 18.7,
+        "speed_evening": 17.6,
+        "speed_average": 18.6
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300084",
+      "route_no_2026": "620",
+      "route_name_2026": "620번(낭월차고지대한통운)",
+      "comparison_route_no": "620",
+      "report_route_no": "620",
+      "report_route_name": "620번(낭월차고지-대한통운)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.3,
+        "speed_midday": 20.2,
+        "speed_evening": 18.4,
+        "speed_average": 19.7
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300086",
+      "route_no_2026": "701",
+      "route_name_2026": "701번(탑립동대전고등학교)",
+      "comparison_route_no": "701",
+      "report_route_no": "701",
+      "report_route_name": "701번(탑립동-대전고등학교)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.9,
+        "speed_midday": 24.3,
+        "speed_evening": 21.5,
+        "speed_average": 22.9
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300087",
+      "route_no_2026": "703",
+      "route_name_2026": "703번(신탄진정림동종점)",
+      "comparison_route_no": "703",
+      "report_route_no": "703",
+      "report_route_name": "703번(신탄진-정림동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300088",
+      "route_no_2026": "704",
+      "route_name_2026": "704번(원내동죽동종점)",
+      "comparison_route_no": "704",
+      "report_route_no": "704",
+      "report_route_name": "704번(원내차고지-보훈병원)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300089",
+      "route_no_2026": "705",
+      "route_name_2026": "705번(신탄진대전시청)",
+      "comparison_route_no": "705",
+      "report_route_no": "705",
+      "report_route_name": "705번(신탄진-동광장)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300090",
+      "route_no_2026": "706",
+      "route_name_2026": "706번(대한통운목원대학교)",
+      "comparison_route_no": "706",
+      "report_route_no": "706",
+      "report_route_name": "706번(대한통운-목원대학교)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 19.9,
+        "speed_midday": 19.9,
+        "speed_evening": 18.2,
+        "speed_average": 19.4
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300091",
+      "route_no_2026": "711",
+      "route_name_2026": "711번(신탄진대전역)",
+      "comparison_route_no": "711",
+      "report_route_no": "711",
+      "report_route_name": "711번(신탄진-대전역)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.1,
+        "speed_midday": 20.4,
+        "speed_evening": 18.8,
+        "speed_average": 19.8
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300092",
+      "route_no_2026": "712",
+      "route_name_2026": "712번(탑립동철도공착장)",
+      "comparison_route_no": "712",
+      "report_route_no": "712",
+      "report_route_name": "712번(탑립동-철도정비창)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300093",
+      "route_no_2026": "802",
+      "route_name_2026": "802번(봉산동보문산공원)",
+      "comparison_route_no": "802",
+      "report_route_no": "802",
+      "report_route_name": "802번(봉산동-보문산공원)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 18.7,
+        "speed_midday": 18.6,
+        "speed_evening": 16.7,
+        "speed_average": 18.0
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300094",
+      "route_no_2026": "911",
+      "route_name_2026": "911번(충대농대DCC종점)",
+      "comparison_route_no": "911",
+      "report_route_no": "911",
+      "report_route_name": "911번(충대농대-대전컨벤션센터)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300095",
+      "route_no_2026": "916",
+      "route_name_2026": "916번(서남부터미널만년동)",
+      "comparison_route_no": "916",
+      "report_route_no": "916",
+      "report_route_name": "916번(서남부터미널-만년동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.1,
+        "speed_midday": 20.6,
+        "speed_evening": 19.3,
+        "speed_average": 20.3
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300096",
+      "route_no_2026": "918",
+      "route_name_2026": "918번(탑립동시청)",
+      "comparison_route_no": "918",
+      "report_route_no": "918",
+      "report_route_name": "918번(탑립동-시청)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.6,
+        "speed_midday": 22.2,
+        "speed_evening": 20.2,
+        "speed_average": 21.3
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300098",
+      "route_no_2026": "72-2",
+      "route_name_2026": "72-2번(달전동대청댐)",
+      "comparison_route_no": "72-2",
+      "report_route_no": "72-2",
+      "report_route_name": "72-2번(달전리-대청댐)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300099",
+      "route_no_2026": "73",
+      "route_name_2026": "73번(금탄동대청댐종점)",
+      "comparison_route_no": "73",
+      "report_route_no": "73",
+      "report_route_name": "73번(금탄동-대청댐종점)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 22.2,
+        "speed_midday": 21.9,
+        "speed_evening": 20.5,
+        "speed_average": 21.5
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300100",
+      "route_no_2026": "1",
+      "route_name_2026": "1번(급행.원내동신안동)",
+      "comparison_route_no": "급행1",
+      "report_route_no": "급행1",
+      "report_route_name": "급행1번(원내동-신안동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 23.2,
+        "speed_midday": 22.6,
+        "speed_evening": 20.9,
+        "speed_average": 22.2
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300101",
+      "route_no_2026": "216",
+      "route_name_2026": "216번(원내동시청)",
+      "comparison_route_no": "216",
+      "report_route_no": "216",
+      "report_route_name": "216번(원내차고지-시청)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300103",
+      "route_no_2026": "첨단1",
+      "route_name_2026": "첨단1번(탑립동동화중학교앞)",
+      "comparison_route_no": "첨단1",
+      "report_route_no": "첨단1",
+      "report_route_name": "첨단1번(탑립동-탑립동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300104",
+      "route_no_2026": "3",
+      "route_name_2026": "3번(급.원내동DCC)",
+      "comparison_route_no": "급행3",
+      "report_route_no": "급행3",
+      "report_route_name": "급행3번(원내동-정부청사)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300108",
+      "route_no_2026": "117",
+      "route_name_2026": "117번(충대농대학의뜰아파트)",
+      "comparison_route_no": "117",
+      "report_route_no": "117",
+      "report_route_name": "117번(충대농대-학하동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300118",
+      "route_no_2026": "71-1",
+      "route_name_2026": "71-1번(비룡동입구용호동)",
+      "comparison_route_no": "71-1",
+      "report_route_no": "71-1",
+      "report_route_name": "71-1번(비룡동-용호동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300119",
+      "route_no_2026": "71-2",
+      "route_name_2026": "71-2번(용호동직동종점)",
+      "comparison_route_no": "71-2",
+      "report_route_no": "71-2",
+      "report_route_name": "71-2번(용호동-직동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300120",
+      "route_no_2026": "72-1",
+      "route_name_2026": "72-1번(달전동대청댐)",
+      "comparison_route_no": "72-1",
+      "report_route_no": "72-1",
+      "report_route_name": "72-1번(달전리-대청댐)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300127",
+      "route_no_2026": "212",
+      "route_name_2026": "212번(구암동기점지구봉산빼울약수터)",
+      "comparison_route_no": "212",
+      "report_route_no": "212",
+      "report_route_name": "212번(화훼터미널-가수원역)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300128",
+      "route_no_2026": "B1",
+      "route_name_2026": "B1번(대전역동광장오송역)",
+      "comparison_route_no": "B1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300129",
+      "route_no_2026": "1002",
+      "route_name_2026": "1002번(충대농대새나루마을9.10단지)",
+      "comparison_route_no": "1002",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300130",
+      "route_no_2026": "608",
+      "route_name_2026": "608번(서남부터미널은어송마을3단지후문)",
+      "comparison_route_no": "608",
+      "report_route_no": "608",
+      "report_route_name": "608번(서남부터미널-은어송A)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300131",
+      "route_no_2026": "203",
+      "route_name_2026": "203번(원내동시청)",
+      "comparison_route_no": "203",
+      "report_route_no": "203",
+      "report_route_name": "203번(원내동-시청)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 20.0,
+        "speed_midday": 19.7,
+        "speed_evening": 18.2,
+        "speed_average": 19.3
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300137",
+      "route_no_2026": "20",
+      "route_name_2026": "20번(대전역동광장장태산종점)",
+      "comparison_route_no": "20",
+      "report_route_no": "20",
+      "report_route_name": "20번(대전역-장태산종점)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300141",
+      "route_no_2026": "66",
+      "route_name_2026": "66번(비래동판암역)",
+      "comparison_route_no": "66",
+      "report_route_no": "66",
+      "report_route_name": "66번(비래동-판암역)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.0,
+        "speed_midday": 20.0,
+        "speed_evening": 18.4,
+        "speed_average": 19.8
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300144",
+      "route_no_2026": "622",
+      "route_name_2026": "622번(비래동서대전역)",
+      "comparison_route_no": "622",
+      "report_route_no": "622",
+      "report_route_name": "622번(비래동-서대전역)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 16.3,
+        "speed_midday": 15.2,
+        "speed_evening": 13.4,
+        "speed_average": 15.0
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300145",
+      "route_no_2026": "912",
+      "route_name_2026": "912번(충대농대수운교입구)",
+      "comparison_route_no": "912",
+      "report_route_no": "912",
+      "report_route_name": "912번(충대농대-자운대)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300146",
+      "route_no_2026": "213",
+      "route_name_2026": "213번(원내동공영차고지대한통운)",
+      "comparison_route_no": "213",
+      "report_route_no": "213",
+      "report_route_name": "213번(목원대-원내동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300147",
+      "route_no_2026": "33-1",
+      "route_name_2026": "33-1번(대전역동광장종점구완동)",
+      "comparison_route_no": "33-1",
+      "report_route_no": "33-1",
+      "report_route_name": "33-1번(대전역-구완동)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300148",
+      "route_no_2026": "33-2",
+      "route_name_2026": "33-2번(대전역동광장종점구완동)",
+      "comparison_route_no": "33-2",
+      "report_route_no": "33-2",
+      "report_route_name": "33-2번(대전역-[판독불확실])",
+      "status": "report_name_uncertain",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300150",
+      "route_no_2026": "첨단2",
+      "route_name_2026": "첨단2번(봉산동기점지바이오오케스트라)",
+      "comparison_route_no": "첨단2",
+      "report_route_no": "첨단2",
+      "report_route_name": "첨단2번(신구교-신구교)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300151",
+      "route_no_2026": "1001",
+      "route_name_2026": "1001번(집현동시청환승지)",
+      "comparison_route_no": "1001",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300152",
+      "route_no_2026": "707",
+      "route_name_2026": "707번(대전시청대전컨벤션센터종점)",
+      "comparison_route_no": "707",
+      "report_route_no": "707",
+      "report_route_name": "707번(대한통운-목원대학교)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 333; PDF 339",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300153",
+      "route_no_2026": "4",
+      "route_name_2026": "급행4번(낭월차고지비래동)",
+      "comparison_route_no": "급행4",
+      "report_route_no": "급행4",
+      "report_route_name": "급행4번(낭월차고지-비래동)",
+      "status": "number_and_named_endpoints_match",
+      "metadata_match": true,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": 21.8,
+        "speed_midday": 21.7,
+        "speed_evening": 19.7,
+        "speed_average": 21.1
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300154",
+      "route_no_2026": "M1",
+      "route_name_2026": "M1번(누리동기점지정부청사광장)",
+      "comparison_route_no": "M1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300155",
+      "route_no_2026": "",
+      "route_name_2026": "123번(안산동원내동공영차고지)",
+      "comparison_route_no": "123",
+      "report_route_no": "123",
+      "report_route_name": "123번(안산동-원내차고지)",
+      "status": "route_id_unverified",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 332; PDF 338",
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "30300156",
+      "route_no_2026": "M1",
+      "route_name_2026": "M1번(정부청사광장누리동기점지)",
+      "comparison_route_no": "M1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300157",
+      "route_no_2026": "55",
+      "route_name_2026": "55번(오월드기점지대전치유의숲)",
+      "comparison_route_no": "55",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300158",
+      "route_no_2026": "302",
+      "route_name_2026": "302번(오월드기점지신도안아파트)",
+      "comparison_route_no": "302",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300159",
+      "route_no_2026": "708",
+      "route_name_2026": "708번(구암동기점지보훈병원)",
+      "comparison_route_no": "708",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "30300160",
+      "route_no_2026": "A5",
+      "route_name_2026": "A5번(카이스트세종고속시외버스터미널)",
+      "comparison_route_no": "A5",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "43015047",
+      "route_no_2026": "407",
+      "route_name_2026": "청주국제공항-청주국제공항",
+      "comparison_route_no": "407",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "43015143",
+      "route_no_2026": "32",
+      "route_name_2026": "마동종점-문의(청남대)",
+      "comparison_route_no": "32",
+      "report_route_no": "32",
+      "report_route_name": "32번(서남부터미널-백암리)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "43015144",
+      "route_no_2026": "41",
+      "route_name_2026": "달계1리(안터)-문의(청남대)",
+      "comparison_route_no": "41",
+      "report_route_no": "41",
+      "report_route_name": "41번(서남부터미널-국립대전숲체원)",
+      "status": "route_name_or_endpoints_differ_review_required",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": "보고서 334; PDF 340",
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "43029001",
+      "route_no_2026": "0A3",
+      "route_name_2026": "오송역-오송역",
+      "comparison_route_no": "0A3",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "43030122",
+      "route_no_2026": "32(17-50)",
+      "route_name_2026": "문의(청남대)-문의(청남대)",
+      "comparison_route_no": "32(17-50)",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "43030123",
+      "route_no_2026": "32(20-35)",
+      "route_name_2026": "문의(청남대)-문의(청남대)",
+      "comparison_route_no": "32(20-35)",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "48607122",
+      "route_no_2026": "(우)수원-거창",
+      "route_name_2026": "수원-거창",
+      "comparison_route_no": "(우)수원-거창",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600032",
+      "route_no_2026": "655",
+      "route_name_2026": "655번(충남대학교세종고속시외버스터미널)",
+      "comparison_route_no": "655",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600089",
+      "route_no_2026": "B2",
+      "route_name_2026": "B2번(대전월드컵경기장오송역종점)",
+      "comparison_route_no": "B2",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600126",
+      "route_no_2026": "B2-1",
+      "route_name_2026": "B2-1번(오송역2.3.4대전월드컵경기장)",
+      "comparison_route_no": "B2-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600133",
+      "route_no_2026": "655-1",
+      "route_name_2026": "655-1번(세종고속시외버스터미널충남대학교)",
+      "comparison_route_no": "655-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600196",
+      "route_no_2026": "1000-1",
+      "route_name_2026": "1000-1번(조형아파트반석역)",
+      "comparison_route_no": "1000-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600197",
+      "route_no_2026": "1000",
+      "route_name_2026": "1000번(반석역조형아파트)",
+      "comparison_route_no": "1000",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600206",
+      "route_no_2026": "1004",
+      "route_name_2026": "1004번(반석역장기중학교후문)",
+      "comparison_route_no": "1004",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600207",
+      "route_no_2026": "1004-1",
+      "route_name_2026": "1004-1번(장기중학교후문반석역)",
+      "comparison_route_no": "1004-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600270",
+      "route_no_2026": "661",
+      "route_name_2026": "661번(세종고속시외버스터미널송강마을아파트)",
+      "comparison_route_no": "661",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600271",
+      "route_no_2026": "661-1",
+      "route_name_2026": "661-1번(송강마을아파트세종고속시외버스터미널)",
+      "comparison_route_no": "661-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600274",
+      "route_no_2026": "69",
+      "route_name_2026": "69번(세종고속시외버스터미널신동2통)",
+      "comparison_route_no": "69",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600275",
+      "route_no_2026": "69-1",
+      "route_name_2026": "69-1번(신동2통세종고속시외버스터미널)",
+      "comparison_route_no": "69-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600276",
+      "route_no_2026": "691",
+      "route_name_2026": "691번(세종고속시외버스터미널송강마을아파트)",
+      "comparison_route_no": "691",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600277",
+      "route_no_2026": "691-1",
+      "route_name_2026": "691-1번(송강마을아파트세종고속시외버스터미널)",
+      "comparison_route_no": "691-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600293",
+      "route_no_2026": "300",
+      "route_name_2026": "300번(조치원역신탄진역)",
+      "comparison_route_no": "300",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600294",
+      "route_no_2026": "300-1",
+      "route_name_2026": "300-1번(신탄진역조치원역)",
+      "comparison_route_no": "300-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600348",
+      "route_no_2026": "1005",
+      "route_name_2026": "1005번(반석역오송역)",
+      "comparison_route_no": "1005",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600349",
+      "route_no_2026": "1005-1",
+      "route_name_2026": "1005-1번(오송역7반석역)",
+      "comparison_route_no": "1005-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600397",
+      "route_no_2026": "B4",
+      "route_name_2026": "B4번(반석역오송역종점)",
+      "comparison_route_no": "B4",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600398",
+      "route_no_2026": "B4-1",
+      "route_name_2026": "B4-1번(오송역2.3.4반석역)",
+      "comparison_route_no": "B4-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600399",
+      "route_no_2026": "A2",
+      "route_name_2026": "A2번(반석역오송역)",
+      "comparison_route_no": "A2",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600400",
+      "route_no_2026": "A2-1",
+      "route_name_2026": "A2-1번(오송역반석역)",
+      "comparison_route_no": "A2-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600413",
+      "route_no_2026": "1001",
+      "route_name_2026": "1001번(새나루마을10단지시청환승지)",
+      "comparison_route_no": "1001",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600427",
+      "route_no_2026": "1003",
+      "route_name_2026": "1003번(반석역오송역파라곤센트럴시티1차)",
+      "comparison_route_no": "1003",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600428",
+      "route_no_2026": "1003-1",
+      "route_name_2026": "1003-1번(오송역파라곤센트럴시티1차반석역)",
+      "comparison_route_no": "1003-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600433",
+      "route_no_2026": "M1",
+      "route_name_2026": "M1번(누리동기점지정부청사광장)",
+      "comparison_route_no": "M1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600434",
+      "route_no_2026": "M1-1",
+      "route_name_2026": "M1-1번(정부청사광장누리동기점지)",
+      "comparison_route_no": "M1-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600442",
+      "route_no_2026": "A4",
+      "route_name_2026": "A4번(반석역오송역)",
+      "comparison_route_no": "A4",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600443",
+      "route_no_2026": "A4-1",
+      "route_name_2026": "A4-1번(오송역반석역)",
+      "comparison_route_no": "A4-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600459",
+      "route_no_2026": "B2-3",
+      "route_name_2026": "B2-3번(반석네거리오송역종점)",
+      "comparison_route_no": "B2-3",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "60600460",
+      "route_no_2026": "B2-4",
+      "route_name_2026": "B2-4번(오송역2.3.4반석네거리)",
+      "comparison_route_no": "B2-4",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": false
+    },
+    {
+      "rte_id": "69690110",
+      "route_no_2026": "45",
+      "route_name_2026": "45번(건양대병원도곡2리)",
+      "comparison_route_no": "45",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "69690112",
+      "route_no_2026": "48",
+      "route_name_2026": "48번(충대농대두마면사무소앞)",
+      "comparison_route_no": "48",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "69690116",
+      "route_no_2026": "2002",
+      "route_name_2026": "2002번(대전역동광장신도안아파트)",
+      "comparison_route_no": "2002",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "69690136",
+      "route_no_2026": "47-1",
+      "route_name_2026": "47-1번(서남부터미널농소리)",
+      "comparison_route_no": "47-1",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    },
+    {
+      "rte_id": "69690138",
+      "route_no_2026": "302",
+      "route_name_2026": "302번(오월드기점지신도안아파트)",
+      "comparison_route_no": "302",
+      "report_route_no": null,
+      "report_route_name": null,
+      "status": "not_in_2025_report",
+      "metadata_match": false,
+      "automatic_application_allowed": false,
+      "full_stop_sequence_stability": "not_verifiable_from_speed_table",
+      "speed_values_2025": {
+        "speed_morning": null,
+        "speed_midday": null,
+        "speed_evening": null,
+        "speed_average": null
+      },
+      "source_page": null,
+      "current_route_has_routing_edges": true
+    }
+  ],
+  "report_routes": [
+    {
+      "route_no": "급행1",
+      "matched_route_ids": [
+        "30300100"
+      ],
+      "candidate_route_ids": [
+        "30300100"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "급행2",
+      "matched_route_ids": [],
+      "candidate_route_ids": [],
+      "review_reasons": [
+        "no_2026_route_number"
+      ]
+    },
+    {
+      "route_no": "급행3",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300104"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "급행4",
+      "matched_route_ids": [
+        "30300153"
+      ],
+      "candidate_route_ids": [
+        "30300153"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "101",
+      "matched_route_ids": [
+        "30300036"
+      ],
+      "candidate_route_ids": [
+        "30300036"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "102",
+      "matched_route_ids": [
+        "30300037"
+      ],
+      "candidate_route_ids": [
+        "30300037"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "103",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300038"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "104",
+      "matched_route_ids": [
+        "30300039"
+      ],
+      "candidate_route_ids": [
+        "30300039"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "105",
+      "matched_route_ids": [
+        "30300040"
+      ],
+      "candidate_route_ids": [
+        "30300040"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "106",
+      "matched_route_ids": [
+        "30300041"
+      ],
+      "candidate_route_ids": [
+        "30300041"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "107",
+      "matched_route_ids": [
+        "30300042"
+      ],
+      "candidate_route_ids": [
+        "30300042"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "108",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300043"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "113",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300045"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "114",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300046"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "115",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300047"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "116",
+      "matched_route_ids": [
+        "30300048"
+      ],
+      "candidate_route_ids": [
+        "30300048"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "117",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300108"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "119",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300049"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "121",
+      "matched_route_ids": [
+        "30300050"
+      ],
+      "candidate_route_ids": [
+        "30300050"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "123",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300155"
+      ],
+      "review_reasons": [
+        "route_id_unverified"
+      ]
+    },
+    {
+      "route_no": "201",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300051"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "202",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300052"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "203",
+      "matched_route_ids": [
+        "30300131"
+      ],
+      "candidate_route_ids": [
+        "30300131"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "211",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300053"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "212",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300127"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "213",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300146"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "216",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300101"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "301",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300054"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "311",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300055"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "312",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300056"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "313",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300057"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "314",
+      "matched_route_ids": [
+        "30300058"
+      ],
+      "candidate_route_ids": [
+        "30300058"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "315",
+      "matched_route_ids": [
+        "30300059"
+      ],
+      "candidate_route_ids": [
+        "30300059"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "316",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300060"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "317",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300061"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "318",
+      "matched_route_ids": [
+        "30300062"
+      ],
+      "candidate_route_ids": [
+        "30300062"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "501",
+      "matched_route_ids": [
+        "30300063"
+      ],
+      "candidate_route_ids": [
+        "30300063"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "511",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300064"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "512",
+      "matched_route_ids": [
+        "30300065"
+      ],
+      "candidate_route_ids": [
+        "30300065"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "513",
+      "matched_route_ids": [
+        "30300066"
+      ],
+      "candidate_route_ids": [
+        "30300066"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "514",
+      "matched_route_ids": [
+        "30300067"
+      ],
+      "candidate_route_ids": [
+        "30300067"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "601",
+      "matched_route_ids": [
+        "30300068"
+      ],
+      "candidate_route_ids": [
+        "30300068"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "602",
+      "matched_route_ids": [
+        "30300069"
+      ],
+      "candidate_route_ids": [
+        "30300069"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "603",
+      "matched_route_ids": [
+        "30300070"
+      ],
+      "candidate_route_ids": [
+        "30300070"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "604",
+      "matched_route_ids": [
+        "30300071"
+      ],
+      "candidate_route_ids": [
+        "30300071"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "605",
+      "matched_route_ids": [
+        "30300072"
+      ],
+      "candidate_route_ids": [
+        "30300072"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "606",
+      "matched_route_ids": [
+        "30300073"
+      ],
+      "candidate_route_ids": [
+        "30300073"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "607",
+      "matched_route_ids": [
+        "30300074"
+      ],
+      "candidate_route_ids": [
+        "30300074"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "608",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300130"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "611",
+      "matched_route_ids": [
+        "30300075"
+      ],
+      "candidate_route_ids": [
+        "30300075"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "612",
+      "matched_route_ids": [
+        "30300076"
+      ],
+      "candidate_route_ids": [
+        "30300076"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "613",
+      "matched_route_ids": [
+        "30300077"
+      ],
+      "candidate_route_ids": [
+        "30300077"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "614",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300078"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "615",
+      "matched_route_ids": [
+        "30300079"
+      ],
+      "candidate_route_ids": [
+        "30300079"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "616",
+      "matched_route_ids": [
+        "30300080"
+      ],
+      "candidate_route_ids": [
+        "30300080"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "617",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300081"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "618",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300082"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "619",
+      "matched_route_ids": [
+        "30300083"
+      ],
+      "candidate_route_ids": [
+        "30300083"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "620",
+      "matched_route_ids": [
+        "30300084"
+      ],
+      "candidate_route_ids": [
+        "30300084"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "622",
+      "matched_route_ids": [
+        "30300144"
+      ],
+      "candidate_route_ids": [
+        "30300144"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "701",
+      "matched_route_ids": [
+        "30300086"
+      ],
+      "candidate_route_ids": [
+        "30300086"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "703",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300087"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "704",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300088"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "705",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300089"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "706",
+      "matched_route_ids": [
+        "30300090"
+      ],
+      "candidate_route_ids": [
+        "30300090"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "707",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300152"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "711",
+      "matched_route_ids": [
+        "30300091"
+      ],
+      "candidate_route_ids": [
+        "30300091"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "712",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300092"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "802",
+      "matched_route_ids": [
+        "30300093"
+      ],
+      "candidate_route_ids": [
+        "30300093"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "911",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300094"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "912",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300145"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "916",
+      "matched_route_ids": [
+        "30300095"
+      ],
+      "candidate_route_ids": [
+        "30300095"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "918",
+      "matched_route_ids": [
+        "30300096"
+      ],
+      "candidate_route_ids": [
+        "30300096"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "특구1",
+      "matched_route_ids": [],
+      "candidate_route_ids": [],
+      "review_reasons": [
+        "no_2026_route_number"
+      ]
+    },
+    {
+      "route_no": "11",
+      "matched_route_ids": [
+        "30300005"
+      ],
+      "candidate_route_ids": [
+        "30300005"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "20",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300137"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "21",
+      "matched_route_ids": [
+        "30300006"
+      ],
+      "candidate_route_ids": [
+        "30300006"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "22",
+      "matched_route_ids": [
+        "30300007"
+      ],
+      "candidate_route_ids": [
+        "30300007"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "23",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300008"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "24",
+      "matched_route_ids": [
+        "30300009"
+      ],
+      "candidate_route_ids": [
+        "30300009"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "25",
+      "matched_route_ids": [
+        "30300010"
+      ],
+      "candidate_route_ids": [
+        "30300010"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "26",
+      "matched_route_ids": [
+        "30300011"
+      ],
+      "candidate_route_ids": [
+        "30300011"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "27",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300012"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "30",
+      "matched_route_ids": [
+        "30300013"
+      ],
+      "candidate_route_ids": [
+        "30300013"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "31",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300014"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "32",
+      "matched_route_ids": [
+        "30300015"
+      ],
+      "candidate_route_ids": [
+        "30300015",
+        "43015143"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "33-1",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300147"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "33-2",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300148"
+      ],
+      "review_reasons": [
+        "report_name_uncertain"
+      ]
+    },
+    {
+      "route_no": "34",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300016"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "41",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300017",
+        "43015144"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "42",
+      "matched_route_ids": [
+        "30300018"
+      ],
+      "candidate_route_ids": [
+        "30300018"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "46",
+      "matched_route_ids": [
+        "30300021"
+      ],
+      "candidate_route_ids": [
+        "30300021"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "52",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300025"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "60",
+      "matched_route_ids": [
+        "30300026"
+      ],
+      "candidate_route_ids": [
+        "30300026"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "61-1",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300027"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "61-2",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300028"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "62",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300029"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "63",
+      "matched_route_ids": [
+        "30300030"
+      ],
+      "candidate_route_ids": [
+        "30300030"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "66",
+      "matched_route_ids": [
+        "30300141"
+      ],
+      "candidate_route_ids": [
+        "30300141"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "71-1",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300118"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "71-2",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300119"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "72-1",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300120"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "72-2",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300098"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "73",
+      "matched_route_ids": [
+        "30300099"
+      ],
+      "candidate_route_ids": [
+        "30300099"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "74",
+      "matched_route_ids": [
+        "30300034"
+      ],
+      "candidate_route_ids": [
+        "30300034"
+      ],
+      "review_reasons": []
+    },
+    {
+      "route_no": "75",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300035"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "첨단1",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300103"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    },
+    {
+      "route_no": "첨단2",
+      "matched_route_ids": [],
+      "candidate_route_ids": [
+        "30300150"
+      ],
+      "review_reasons": [
+        "route_name_or_endpoints_differ_review_required"
+      ]
+    }
+  ]
+}

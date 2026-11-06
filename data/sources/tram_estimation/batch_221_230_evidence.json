@@ -1,0 +1,278 @@
+[
+  {
+    "station_no": 221,
+    "official_page": 23,
+    "official_overview_pixel": [
+      805,
+      425
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.37453778644197,
+    "longitude": 127.37856270661226,
+    "alignment_way": 1471622312,
+    "alignment_way_version": 1,
+    "segment": 30,
+    "segment_fraction": 0.32333805645624697,
+    "nearest_road": {
+      "latitude": 36.374358131747044,
+      "longitude": 127.37871011140163,
+      "way": 1318590435,
+      "way_version": 1,
+      "segment": 0,
+      "fraction": 0.2621650664295154,
+      "distance_m": 23.924708941900267,
+      "name": "대학로"
+    },
+    "review_note": "국립중앙과학관·과학공원네거리 서측 대학로 접속 구간."
+  },
+  {
+    "station_no": 222,
+    "official_page": 24,
+    "official_overview_pixel": [
+      691,
+      493
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.36605085239626,
+    "longitude": 127.36519764409617,
+    "alignment_way": 1471622312,
+    "alignment_way_version": 1,
+    "segment": 53,
+    "segment_fraction": 0.6395062288533396,
+    "nearest_road": {
+      "latitude": 36.36604012658938,
+      "longitude": 127.3652062411043,
+      "way": 1414112794,
+      "way_version": 1,
+      "segment": 3,
+      "fraction": 0.1453834853089838,
+      "distance_m": 1.418395093512519,
+      "name": "대학로"
+    },
+    "review_note": "카이스트 남측 대학로·과기원삼거리 인근 구간."
+  },
+  {
+    "station_no": 223,
+    "official_page": 25,
+    "official_overview_pixel": [
+      592,
+      532
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.36065241349212,
+    "longitude": 127.35400521182667,
+    "alignment_way": 1471622312,
+    "alignment_way_version": 1,
+    "segment": 71,
+    "segment_fraction": 0.3089962353703541,
+    "nearest_road": {
+      "latitude": 36.360663569935646,
+      "longitude": 127.35400062957727,
+      "way": 774889151,
+      "way_version": 13,
+      "segment": 0,
+      "fraction": 0.6387464729984242,
+      "distance_m": 1.3045068950453,
+      "name": "대학로"
+    },
+    "review_note": "유성구청 남측·갑천 북안의 대학로 구간."
+  },
+  {
+    "station_no": 224,
+    "official_page": 26,
+    "official_overview_pixel": [
+      512,
+      525
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": [
+      127.3442,
+      36.3609
+    ],
+    "latitude": 36.360897212934724,
+    "longitude": 127.34421070076993,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 232,
+    "segment_fraction": 0.013640452322056849,
+    "nearest_road": {
+      "latitude": 36.36088008688859,
+      "longitude": 127.34428062265512,
+      "way": 357998401,
+      "way_version": 16,
+      "segment": 1,
+      "fraction": 0.4182505919437797,
+      "distance_m": 6.557000921840906,
+      "name": "대학로"
+    },
+    "review_note": "충남대정문오거리 남측 대학로 구간. 개략 노선도보다 상세도의 남측 직선 구간을 우선."
+  },
+  {
+    "station_no": 225,
+    "official_page": 27,
+    "official_overview_pixel": [
+      483,
+      585
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": [
+      127.3414,
+      36.3529
+    ],
+    "latitude": 36.35294581487455,
+    "longitude": 127.34124062810363,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 239,
+    "segment_fraction": 0.4472533520512957,
+    "nearest_road": {
+      "latitude": 36.35292018216478,
+      "longitude": 127.34133424492785,
+      "way": 28021087,
+      "way_version": 27,
+      "segment": 7,
+      "fraction": 0.09014521615935983,
+      "distance_m": 8.87140697987076,
+      "name": "도안대로"
+    },
+    "review_note": "유성네거리 남측 도안대로·온천근린공원 측 구간."
+  },
+  {
+    "station_no": 226,
+    "official_page": 28,
+    "official_overview_pixel": [
+      476,
+      640
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.34626496268669,
+    "longitude": 127.34029760665567,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 250,
+    "segment_fraction": 0.022185412958277976,
+    "nearest_road": {
+      "latitude": 36.34626560194811,
+      "longitude": 127.34018697333659,
+      "way": 675394063,
+      "way_version": 21,
+      "segment": 1,
+      "fraction": 0.9022204720460375,
+      "distance_m": 9.931572290497591,
+      "name": "도안대로"
+    },
+    "review_note": "도안5단지네거리 북측 도안대로 구간."
+  },
+  {
+    "station_no": 227,
+    "official_page": 29,
+    "official_overview_pixel": [
+      456,
+      678
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.341344583215665,
+    "longitude": 127.33829168522644,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 263,
+    "segment_fraction": 0.19318834955534808,
+    "nearest_road": {
+      "latitude": 36.34139873415715,
+      "longitude": 127.33818471613262,
+      "way": 888665455,
+      "way_version": 10,
+      "segment": 6,
+      "fraction": 0.1835655229280644,
+      "distance_m": 11.328019982116166,
+      "name": "도안대로"
+    },
+    "review_note": "원골네거리 남측 도안대로·트리풀시티9단지 측 구간."
+  },
+  {
+    "station_no": 228,
+    "official_page": 30,
+    "official_overview_pixel": [
+      413,
+      725
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.334884650050576,
+    "longitude": 127.33332520528538,
+    "alignment_way": 1471622315,
+    "alignment_way_version": 1,
+    "segment": 6,
+    "segment_fraction": 0.07210675807047735,
+    "nearest_road": {
+      "latitude": 36.33486100868647,
+      "longitude": 127.33341495917978,
+      "way": 70118929,
+      "way_version": 17,
+      "segment": 2,
+      "fraction": 0.0819689043195514,
+      "distance_m": 8.474462097937081,
+      "name": "도안대로"
+    },
+    "review_note": "대전시립박물관 서측 도안대로·대전아이파크시티 측 구간."
+  },
+  {
+    "station_no": 229,
+    "official_page": 31,
+    "official_overview_pixel": [
+      414,
+      765
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.32929508825903,
+    "longitude": 127.33285366652086,
+    "alignment_way": 1471622315,
+    "alignment_way_version": 1,
+    "segment": 14,
+    "segment_fraction": 0.19928740652280622,
+    "nearest_road": {
+      "latitude": 36.329294541465146,
+      "longitude": 127.33295754569914,
+      "way": 173715789,
+      "way_version": 21,
+      "segment": 2,
+      "fraction": 0.2493080739050589,
+      "distance_m": 9.3272346387634,
+      "name": "도안대로"
+    },
+    "review_note": "도안대로의 도안정거장 계획 구간·더샵도안트위넌스 측."
+  },
+  {
+    "station_no": 230,
+    "official_page": 32,
+    "official_overview_pixel": [
+      412,
+      839
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.31907661372674,
+    "longitude": 127.33313249819771,
+    "alignment_way": 1471622325,
+    "alignment_way_version": 2,
+    "segment": 2,
+    "segment_fraction": 0.3380608990033656,
+    "nearest_road": {
+      "latitude": 36.319098127058055,
+      "longitude": 127.33321590384955,
+      "way": 1154256537,
+      "way_version": 15,
+      "segment": 17,
+      "fraction": 0.2848045493511462,
+      "distance_m": 7.86099229503802,
+      "name": "도안대로"
+    },
+    "review_note": "도안2단계 개발계획지의 도안대로 남측 구간."
+  }
+]

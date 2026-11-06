@@ -1,0 +1,30 @@
+{
+  "total_rows": 45,
+  "coordinates_available": 45,
+  "missing_coordinates": [],
+  "grade_counts": {
+    "B": 44,
+    "A": 1
+  },
+  "missing_station_numbers": [],
+  "duplicate_station_numbers": [],
+  "out_of_range": [],
+  "latitude_range": [
+    36.299864,
+    36.390885
+  ],
+  "longitude_range": [
+    127.325213,
+    127.448613
+  ],
+  "graph_nodes": 46,
+  "graph_station_nodes": 45,
+  "graph_edges": 46,
+  "connected": true,
+  "loop": "201-202-...-240-201; 212-J_중리-213",
+  "branches": [
+    "J_중리-241-242-243-244",
+    "233-245"
+  ],
+  "validation_scope": "numbering, coordinate bounding range, route adjacency only; no travel time, walking distance or positional RMSE validation"
+}

@@ -1,0 +1,275 @@
+[
+  {
+    "station_no": 201,
+    "official_page": 3,
+    "official_overview_pixel": [
+      1045,
+      838
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.32034725722693,
+    "longitude": 127.40505975554134,
+    "alignment_way": 1471622248,
+    "alignment_way_version": 1,
+    "segment": 1,
+    "segment_fraction": 0.31264111613972917,
+    "nearest_road": {
+      "latitude": 36.320331485002,
+      "longitude": 127.40506637047007,
+      "way": 775652379,
+      "way_version": 3,
+      "segment": 0,
+      "fraction": 0.47169437301262773,
+      "distance_m": 1.8482198061604969,
+      "name": "계백로"
+    },
+    "review_note": "서대전역 남측 계백로의 서대전역네거리 인근 지하 정거장 도로 구간."
+  },
+  {
+    "station_no": 202,
+    "official_page": 4,
+    "official_overview_pixel": [
+      1094,
+      826
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.32191535371357,
+    "longitude": 127.4106018037737,
+    "alignment_way": 1471622252,
+    "alignment_way_version": 1,
+    "segment": 1,
+    "segment_fraction": 0.7671138676535368,
+    "nearest_road": {
+      "latitude": 36.3218987630434,
+      "longitude": 127.410609083755,
+      "way": 1193994402,
+      "way_version": 2,
+      "segment": 1,
+      "fraction": 0.41222104356358885,
+      "distance_m": 1.9536016016420708,
+      "name": "계백로"
+    },
+    "review_note": "서대전네거리 서측 계백로·서대전공원 북측 구간."
+  },
+  {
+    "station_no": 203,
+    "official_page": 5,
+    "official_overview_pixel": [
+      1134,
+      849
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.319675346650406,
+    "longitude": 127.41592042933955,
+    "alignment_way": 1471622258,
+    "alignment_way_version": 1,
+    "segment": 10,
+    "segment_fraction": 0.8757543483589862,
+    "nearest_road": {
+      "latitude": 36.31967515021473,
+      "longitude": 127.4159201640018,
+      "way": 1379308891,
+      "way_version": 2,
+      "segment": 2,
+      "fraction": 0.7557065155750101,
+      "distance_m": 0.03229320889415268,
+      "name": "계룡로"
+    },
+    "review_note": "대사네거리와 충남대병원 접근부 사이 계룡로 구간."
+  },
+  {
+    "station_no": 204,
+    "official_page": 6,
+    "official_overview_pixel": [
+      1242,
+      858
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.31771272017887,
+    "longitude": 127.42732286685482,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 0,
+    "segment_fraction": 0.2933521138374245,
+    "nearest_road": {
+      "latitude": 36.317704620574844,
+      "longitude": 127.42732755373125,
+      "way": 1193879979,
+      "way_version": 2,
+      "segment": 1,
+      "fraction": 0.108270027360895,
+      "distance_m": 0.9924386743754217,
+      "name": "충무로"
+    },
+    "review_note": "한밭종합운동장·볼파크 북측 충무로 구간."
+  },
+  {
+    "station_no": 205,
+    "official_page": 7,
+    "official_overview_pixel": [
+      1316,
+      823
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.3232422331751,
+    "longitude": 127.43701129385488,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 17,
+    "segment_fraction": 0.5521873520398343,
+    "nearest_road": {
+      "latitude": 36.323261506274676,
+      "longitude": 127.43707082626953,
+      "way": 774598935,
+      "way_version": 1,
+      "segment": 2,
+      "fraction": 0.4375145514844918,
+      "distance_m": 5.757602262359528,
+      "name": "대전로"
+    },
+    "review_note": "인동네거리 북측 인동시장·대전로 구간."
+  },
+  {
+    "station_no": 206,
+    "official_page": 8,
+    "official_overview_pixel": [
+      1283,
+      766
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.330793379884334,
+    "longitude": 127.43281826597617,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 25,
+    "segment_fraction": 0.946984652084847,
+    "nearest_road": {
+      "latitude": 36.330787484043334,
+      "longitude": 127.43280370885984,
+      "way": 774546693,
+      "way_version": 6,
+      "segment": 0,
+      "fraction": 0.8926473090191552,
+      "distance_m": 1.4616163360683592,
+      "name": "대전로"
+    },
+    "review_note": "역전시장·중앙시장 측 대전로 구간."
+  },
+  {
+    "station_no": 207,
+    "official_page": 9,
+    "official_overview_pixel": [
+      1327,
+      749
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": [
+      127.4383,
+      36.3314
+    ],
+    "latitude": 36.331409173358324,
+    "longitude": 127.43833641985327,
+    "alignment_way": 1471622253,
+    "alignment_way_version": 2,
+    "segment": 41,
+    "segment_fraction": 0.625509645890804,
+    "nearest_road": {
+      "latitude": 36.33141596565708,
+      "longitude": 127.43836271256868,
+      "way": 1375882413,
+      "way_version": 3,
+      "segment": 1,
+      "fraction": 0.31972901763790873,
+      "distance_m": 2.478090489748665,
+      "name": "동광장로"
+    },
+    "review_note": "대전역 동측 신안동의 동광장로 남북 구간. 개략 위치도 후보가 북측 연결도로로 잡혀 상세도에 따라 남북 구간으로 이동."
+  },
+  {
+    "station_no": 208,
+    "official_page": 10,
+    "official_overview_pixel": [
+      1374,
+      756
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.33102556214343,
+    "longitude": 127.44403197374567,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 59,
+    "segment_fraction": 0.6803677010470561,
+    "nearest_road": {
+      "latitude": 36.33104250175054,
+      "longitude": 127.44398873510652,
+      "way": 47026937,
+      "way_version": 14,
+      "segment": 7,
+      "fraction": 0.08789461287429705,
+      "distance_m": 4.313322132466975,
+      "name": "동대전로"
+    },
+    "review_note": "대동역 북측 동대전로·대동4/8구역 경계 구간."
+  },
+  {
+    "station_no": 209,
+    "official_page": 11,
+    "official_overview_pixel": [
+      1411,
+      699
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.338802709726046,
+    "longitude": 127.44861321741165,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 69,
+    "segment_fraction": 0.6443217981700964,
+    "nearest_road": {
+      "latitude": 36.33879953583566,
+      "longitude": 127.44862428995819,
+      "way": 979829939,
+      "way_version": 5,
+      "segment": 5,
+      "fraction": 0.648802325270694,
+      "distance_m": 1.0546004929139583,
+      "name": "동대전로"
+    },
+    "review_note": "우송삼거리 인근 동대전로 구간."
+  },
+  {
+    "station_no": 210,
+    "official_page": 12,
+    "official_overview_pixel": [
+      1387,
+      645
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.34738965674893,
+    "longitude": 127.44446602248814,
+    "alignment_way": 1471622261,
+    "alignment_way_version": 2,
+    "segment": 90,
+    "segment_fraction": 0.4645364310776933,
+    "nearest_road": {
+      "latitude": 36.34736867621509,
+      "longitude": 127.44441496338844,
+      "way": 86579413,
+      "way_version": 9,
+      "segment": 0,
+      "fraction": 0.6927219805218287,
+      "distance_m": 5.1407872028338115,
+      "name": "동대전로"
+    },
+    "review_note": "가양네거리 북측 동대전로·가양시장 측 구간."
+  }
+]

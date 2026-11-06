@@ -3,3 +3,5 @@
 !.env.example
 __pycache__/
 *.pyc
+data/sources/bus_speed_2025/name_*.png
+data/sources/bus_speed_2025/names_*.png

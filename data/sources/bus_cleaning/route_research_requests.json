@@ -1,0 +1,71 @@
+[
+  {
+    "ctpv_cd": "30",
+    "opr_ymd": "20260901",
+    "endpoint": "https://apis.data.go.kr/1613000/BusRoute/getBusRoute",
+    "source": "https://www.data.go.kr/data/15142030/openapi.do",
+    "retrieved_at": "2026-10-21T03:39:00.095125+00:00",
+    "files": [
+      "routes_20260901_30_1.json"
+    ],
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "status": "complete",
+    "total": 118
+  },
+  {
+    "ctpv_cd": "36",
+    "opr_ymd": "20260901",
+    "endpoint": "https://apis.data.go.kr/1613000/BusRoute/getBusRoute",
+    "source": "https://www.data.go.kr/data/15142030/openapi.do",
+    "retrieved_at": "2026-10-21T03:39:00.947988+00:00",
+    "files": [
+      "routes_20260901_36_1.json"
+    ],
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "status": "complete",
+    "total": 148
+  },
+  {
+    "ctpv_cd": "43",
+    "opr_ymd": "20260901",
+    "endpoint": "https://apis.data.go.kr/1613000/BusRoute/getBusRoute",
+    "source": "https://www.data.go.kr/data/15142030/openapi.do",
+    "retrieved_at": "2026-10-21T03:39:02.881143+00:00",
+    "files": [
+      "routes_20260901_43_1.json",
+      "routes_20260901_43_2.json"
+    ],
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "status": "complete",
+    "total": 1993
+  },
+  {
+    "ctpv_cd": "44",
+    "opr_ymd": "20260901",
+    "endpoint": "https://apis.data.go.kr/1613000/BusRoute/getBusRoute",
+    "source": "https://www.data.go.kr/data/15142030/openapi.do",
+    "retrieved_at": "2026-10-21T03:39:05.991381+00:00",
+    "files": [
+      "routes_20260901_44_1.json",
+      "routes_20260901_44_2.json",
+      "routes_20260901_44_3.json",
+      "routes_20260901_44_4.json",
+      "routes_20260901_44_5.json"
+    ],
+    "header": {
+      "resultCode": "200",
+      "resultMsg": "SUCCESS"
+    },
+    "status": "complete",
+    "total": 4311
+  }
+]

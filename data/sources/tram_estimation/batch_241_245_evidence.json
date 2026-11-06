@@ -1,0 +1,140 @@
+[
+  {
+    "station_no": 241,
+    "official_page": 43,
+    "official_overview_pixel": [
+      1248,
+      485
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.368689744660784,
+    "longitude": 127.42954675319048,
+    "alignment_way": 1471622277,
+    "alignment_way_version": 1,
+    "segment": 7,
+    "segment_fraction": 0.5895063203031391,
+    "nearest_road": {
+      "latitude": 36.3686935786107,
+      "longitude": 127.42956731011559,
+      "way": 768049957,
+      "way_version": 14,
+      "segment": 3,
+      "fraction": 0.18422404514381738,
+      "distance_m": 1.8932423656296085,
+      "name": "계족로"
+    },
+    "review_note": "영진로얄아파트네거리 남측 계족로·동춘당 접근 구간."
+  },
+  {
+    "station_no": 242,
+    "official_page": 44,
+    "official_overview_pixel": [
+      1238,
+      433
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.37555317702062,
+    "longitude": 127.42759507833169,
+    "alignment_way": 1471622277,
+    "alignment_way_version": 1,
+    "segment": 14,
+    "segment_fraction": 0.6114694406830684,
+    "nearest_road": {
+      "latitude": 36.37554645038982,
+      "longitude": 127.42755771356421,
+      "way": 1499296325,
+      "way_version": 1,
+      "segment": 0,
+      "fraction": 0.4173091514006317,
+      "distance_m": 3.4349804021989927,
+      "name": "계족로"
+    },
+    "review_note": "법동2구역 재건축구역·선비마을 측 계족로 구간."
+  },
+  {
+    "station_no": 243,
+    "official_page": 45,
+    "official_overview_pixel": [
+      1224,
+      390
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.381304928031426,
+    "longitude": 127.42619097697938,
+    "alignment_way": 1471622277,
+    "alignment_way_version": 1,
+    "segment": 19,
+    "segment_fraction": 0.8174539364670522,
+    "nearest_road": {
+      "latitude": 36.38130847010674,
+      "longitude": 127.42621928557679,
+      "way": 1499292003,
+      "way_version": 1,
+      "segment": 0,
+      "fraction": 0.9765457972686464,
+      "distance_m": 2.5702943485329492,
+      "name": "계족로"
+    },
+    "review_note": "제월당·읍내동 재건축구역 인근 계족로 구간."
+  },
+  {
+    "station_no": 244,
+    "official_page": 46,
+    "official_overview_pixel": [
+      1168,
+      290
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": null,
+    "latitude": 36.390885499999996,
+    "longitude": 127.42078910000001,
+    "alignment_way": 1471622277,
+    "alignment_way_version": 1,
+    "segment": 36,
+    "segment_fraction": 1.0,
+    "nearest_road": {
+      "latitude": 36.3908958692089,
+      "longitude": 127.42085667762831,
+      "way": 131834166,
+      "way_version": 5,
+      "segment": 0,
+      "fraction": 0.8772489904077465,
+      "distance_m": 6.171057982527983,
+      "name": "신탄진로"
+    },
+    "review_note": "계족로에서 이어지는 연축 방향 신탄진로 단부 구간. 지도 공사선형의 북측 끝 인근 대표점으로 세부 위치 불확실성이 큼."
+  },
+  {
+    "station_no": 245,
+    "official_page": 47,
+    "official_overview_pixel": [
+      338,
+      1003
+    ],
+    "selection": "coarse official-overview navigation + visual detail-road comparison + OSM mapped construction corridor representative",
+    "map_navigation_override_lon_lat": [
+      127.3253,
+      36.2997
+    ],
+    "latitude": 36.299863962138005,
+    "longitude": 127.32521251980967,
+    "alignment_way": 1463871033,
+    "alignment_way_version": 4,
+    "segment": 5,
+    "segment_fraction": 0.003519606333157718,
+    "nearest_road": {
+      "latitude": 36.299929656529294,
+      "longitude": 127.32517071579099,
+      "way": 33198321,
+      "way_version": 25,
+      "segment": 6,
+      "fraction": 0.40289959979128,
+      "distance_m": 8.19997671411025,
+      "name": "계백로"
+    },
+    "review_note": "진잠네거리 북동측 계백로·롯데마트 측 구간. 노선도 초기 후보가 분기 끝에 걸려 상세도의 북동측 구간으로 이동."
+  }
+]

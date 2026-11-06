@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>대전 2호선 가상 트램 내비게이션</title>
+<link rel="stylesheet" href="style.css">
+<main>
+  <header><span class="eyebrow">DAEJEON · TRAM 2</span><h1>어느 정거장으로 갈까요?</h1>
+  <p>45개 정거장을 잇는 가상 트램 경로 · 최단 정거장 수 기준</p></header>
+  <div class="layout">
+    <aside>
+      <form id="route-form">
+        <label for="start">출발역</label><select id="start" required disabled></select>
+        <button id="swap" type="button" disabled aria-label="출발역과 도착역 바꾸기">⇅ 출발·도착 바꾸기</button>
+        <label for="end">도착역</label><select id="end" required disabled></select>
+        <button id="search" type="submit" disabled>경로 찾기</button>
+      </form>
+      <section aria-live="polite" aria-atomic="true"><h2 id="summary">데이터를 읽고 있습니다.</h2><p id="detail"></p><ol id="station-list"></ol></section>
+    </aside>
+    <section class="map-panel" aria-label="정거장 위치와 경로 지도">
+      <div class="map-heading"><h2>대전 2호선 개략 지도</h2><span>북 ↑</span></div>
+      <svg id="map" viewBox="0 0 900 760" role="img" aria-label="45개 정거장과 개략 노선. 강조된 선은 선택 경로입니다."></svg>
+      <p class="legend"><span class="base-line"></span>전체 노선 <span class="selected-line"></span>선택 경로 · 정거장에 마우스를 올리면 명칭 표시</p>
+    </section>
+  </div>
+  <footer>기존 추정 좌표를 사용한 위치 지도입니다. 연결선은 실제 선로가 아닌 직선 개략선입니다.<br>모든 연결의 양방향 이동과 분기점 통과를 가정합니다. 실제 운행계통을 보장하지 않으며 이동시간·시간표·환승시간은 계산하지 않습니다.</footer>
+</main>
+<script type="module" src="app.mjs"></script>
+</html>
